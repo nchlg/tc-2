@@ -1,0 +1,226 @@
+%----------------------------------------------------------------------------------
+% Exemplo do uso da classe tcc.cls. Veja o arquivo .cls
+% para mais detalhes e instruções.
+%----------------------------------------------------------------------------------
+
+% Seleção de idioma da monografia. Por enquanto as únicas opções
+% suportadas são 'portuguese' e 'english'
+% Para impressão em frente e verso, use a opção 'twoside'. Da
+% mesma forma, use 'oneside' para impressão em um lado apenas.
+\documentclass[portuguese,oneside]{tcc}
+
+%----------------------------------------------------------------
+% Coloque seus pacotes abaixo.
+%
+% Obs.: muitos pacotes de uso comum do LaTeX, como amsmath,
+% geometry e url já são automaticamente incluídos pela classe
+% (veja o arquivo .cls). Isso torna obrigatória a presença destes
+% no sistema para o uso desta classe, mas ao mesmo tempo o uso se
+% torna mais simples.  Recomendo a instalação da versão mais
+% recente da distribuição TeXLive (para Windows e UNIXes):
+% www.tug.org/texlive/
+%
+% Pacotes e opções já incluídas automaticamente:
+%
+% \RequirePackage[T1]{fontenc}[2005/09/27]
+% \RequirePackage[utf8x]{inputenc}[2008/03/30]
+% \RequirePackage[english,brazil]{babel}[2008/07/06]
+% \RequirePackage[a4paper]{geometry}[2010/09/12]
+% \RequirePackage{textcomp}[2005/09/27]
+% \RequirePackage{lmodern}[2009/10/30]
+% \RequirePackage{indentfirst}[1995/11/23]
+% \RequirePackage{setspace}[2000/12/01]
+% \RequirePackage{textcase}[2004/10/07]
+% \RequirePackage{float}[2001/11/08]
+% \RequirePackage{amsmath}[2000/07/18]
+% \RequirePackage{amssymb}[2009/06/22]
+% \RequirePackage{amsfonts}[2009/06/22]
+% \RequirePackage{url}
+% \RequirePackage[table]{xcolor}[2007/01/21]
+%----------------------------------------------------------------
+% Para inserção de figuras.
+\usepackage{graphicx}
+% Utilize a opção 'pdftex' se você estiver usando o pdflatex (que
+% permite figuras em formatos como .jpg ou .png)
+%\usepackage[pdftex]{graphicx}
+
+% Para tabelas com elementos ocupando mais de uma linha
+\usepackage{multirow}
+% Para frações na mesma linha (ex. ⅓).
+\usepackage{nicefrac}
+% Para inserir figuras lado a lado.
+\usepackage{subfigure}
+% Para formatar algoritmos.
+% A opção [algo2e] é necessária para evitar conflitos
+% com as definições da classe.
+%\usepackage[algo2e]{algorithm2e}
+\usepackage{algorithmic}
+% Um float do tipo algoritmo. No momento
+% este pacote é incompatível com a classe.
+%\usepackage{algorithm}
+% Pacote para cores
+\usepackage{xcolor}
+% Pacote para tabelas e afins
+\usepackage[justification=centering, labelsep=endash]{caption}
+\usepackage{array}
+\usepackage{mathtools}
+\usepackage{listings}
+% Pacote para Gantt Chart
+\usepackage{pgfgantt}
+% Desenhar/escrever sobre imagens
+\usepackage{tikz}
+\renewcommand{\lstlistingname}{Expressão Lógica} % Listing -> Algorithm
+
+%----------------------------------------------------------------
+% Autor (OBRIGATÓRIO)
+%----------------------------------------------------------------
+\author{Priscila Giovanella Vivian}
+
+%----------------------------------------------------------------
+% Título (OBRIGATÓRIO). Devem ser passados DOIS parâmetros,
+% o título em português E o inglês, não importando o idioma
+% escolhido. Os títulos são utilizados para a montagem da capa,
+% resumo e abstract mais tarde.
+%----------------------------------------------------------------
+\title{Sistema de Cardápios Virtuais Acessível a Pessoas com Deficiência Visual}
+% Cardápio Virtual Acessível a Pessoas com Deficiência Visual
+% Cardápios Virtuais Acessíveis a Pessoas com Deficiência Visual através de uma Aplicação Móvel
+% Uma Sistema de Cardápios Virtuais Acessíveis a Pessoas com Deficiência Visual
+      {A Virtual Menu System Accessible to Visually Impaired People}
+
+%----------------------------------------------------------------
+% Opções para o tipo de trabalho (OBRIGATÓRIO)
+%----------------------------------------------------------------
+%\tipotrabalho{\ptci}         % Proposta de Trabalho de Conclusão
+%\tipotrabalho{\tci}         % Trabalho de Conclusão I
+\tipotrabalho{\tcii}        % Trabalho de Conclusão II
+
+%----------------------------------------------------------------
+% Seleção do curso ("este trabalho é um requisito parcial para
+% obtenção do grau de (mestre ou doutor) em Ciência da Computação").
+%----------------------------------------------------------------
+%\curso{\cc} % Ciência da Computação
+\curso{\si} % Sistemas de Informação
+%\curso{\es} % Engenharia de Software
+
+%----------------------------------------------------------------
+% Orientador (e Co-orientador, caso haja um). É OBRIGATÓRIO
+% informar pelo menos o orientador.
+%----------------------------------------------------------------
+\orientador{Rafael Heitor Bordini}
+%\coorientador{Ciclano de Farias}
+
+%----------------------------------------------------------------
+% A capa é inserida automaticamente. Por isso não é necessário
+% chamar \maketitle
+%----------------------------------------------------------------
+\begin{document}
+
+%----------------------------------------------------------------
+% Depois da capa vem a dedicatória e a epígrafe.
+%----------------------------------------------------------------
+%\dedicatoria{Dedico este trabalho a meus pais.}
+
+\epigrafe{\emph{I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.}}
+         {Virginia Woolf}
+%\epigrafe{Se der certo, beleza; se não der, paciência.}
+%         {Neymar Jr.}
+
+%----------------------------------------------------------------
+% Também dá para fazer as duas na mesma página:
+%----------------------------------------------------------------
+%\dedigrafe{Dedico este trabalho a meus pais.}
+%          {The art of simplicity is a puzzle of complexity.}
+%          {Douglas Horton}
+
+%----------------------------------------------------------------
+% A seguir, a página de agradecimentos (OPCIONAL):
+%----------------------------------------------------------------
+\begin{agradecimentos}
+Agradeço pela ajuda e, principalmente, pela paciência do orientador Rafael Bordini e da avaliadora Marcia de Borba Campos.
+
+Também agradeço aos meus amigos, aos meus familiares e a todas as pessoas que me deram apoio durante o desenvolvimento deste projeto.
+\end{agradecimentos}
+
+%----------------------------------------------------------------
+% Resumo, com as palavras-chave passadas por parâmetro
+% (OBRIGATÓRIO, ao menos para teses e dissertações)
+%----------------------------------------------------------------
+\begin{resumo}{deficiência visual, acessibilidade, aplicação móvel, restaurante, ontologia}
+No Brasil, a deficiência que mais se manifesta entre a população é a deficiência visual. Mesmo assim, pessoas com deficiências visuais enfrentam diversos obstáculos para cumprir suas tarefas diárias, muitas vezes necessitando da ajuda de amigos, tutores e até desconhecidos para a realização de seus afazeres rotineiros. Atividades corriqueiras para uma parcela da população, como ir a um restaurante e ler seu cardápio, podem ser irrealizáveis por aqueles que possuem baixa acuidade visual. Em vista dessa questão, este trabalho tem como objetivo o desenvolvimento de uma aplicação móvel que auxilie pessoas com deficiência visual a terem acesso a cardápios de bares, cafés, restaurantes, entre outros. Este aplicativo permitirá que o usuário busque por estabelecimentos próximos a uma região específica e, a partir disso, exibirá o conteúdo do cardápio, organizado de acordo com as características de cada alimento, baseando-se em ontologias. Desta forma, espera-se que o usuário tenha mais autonomia para realizar suas refeições em locais desconhecidos. Esta proposta visa expandir as opções acessíveis à população deficiente visual a partir da criação de um sistema que leve em consideração as necessidades e dificuldades deste grupo.
+\end{resumo}
+
+%----------------------------------------------------------------
+% Abstract, com as palavras-chave passadas por parâmetro
+% (OBRIGATÓRIO, ao menos para teses e dissertações)
+%----------------------------------------------------------------
+\begin{abstract}{visual impairment, accessibility, mobile application, restaurant, ontology}
+Vision impairment is the disability that is most common among Brazilian population. Nevertheless, visually impaired people face many obstacles in order to finish their daily tasks, frequently having to ask their friends, tutors or even strangers for help during the accomplishment of everyday business. Activities that can be considered mundane for a portion of the society, such as going to a restaurant and reading the menu, can be unachievable for those who have low visual acuity. Having that in mind, this work has as its objective the development of a mobile application which gives support to people who wish to have access to menus in pubs, cafés and restaurants. This application will allow the user to search for establishments and, through that, it will show the content of its menu organized according to the characteristics of each meal, using ontologies. In this way, it is hoped that the user may have more autonomy in order to have their meals in unfamiliar places. This project aims to increase the number of accessible options to the visually impaired population through the development of a system which takes into account their necessities and struggles.
+\end{abstract}
+
+%----------------------------------------------------------------
+% Listas e sumário, nessa ordem. Somente o sumário é obrigatório,
+% portanto, comente as outras listas, caso sejam desnecessárias.
+%----------------------------------------------------------------
+\listoffigures       % Lista de figuras      (OPCIONAL)
+%\listoftables        % Lista de tabelas      (OPCIONAL)
+%\listofalgorithms    % Lista de algoritmos   (OPCIONAL)
+\listofacronyms      % Lista de siglas       (OPCIONAL)
+%\listofabbreviations % Lista de abreviaturas (OPCIONAL)
+%\listofsymbols       % Lista de símbolos     (OPCIONAL)
+\tableofcontents     % Sumário               (OBRIGATÓRIO)
+
+%----------------------------------------------------------------
+% Aqui começa o desenvolvimento do trabalho. Para uma melhor
+% organização do documento, separe-o em arquivos,
+% um para cada capítulo. Para isso, utilize o comando \include,
+% como mostrado abaixo.
+%----------------------------------------------------------------
+\include{chapters/cap-introducao}
+\include{chapters/cap-objetivos}
+\include{chapters/cap-caracterizacao-problema}
+\include{chapters/cap-requisitos}
+\include{chapters/cap-modelagem}
+\include{chapters/cap-recursos-necessarios}
+\include{chapters/cap-avaliacao}
+\include{chapters/cap-conclusao}
+
+%----------------------------------------------------------------
+% Aqui vai a bibliografia. Existem 3 estilos de citação: use
+% 'tcc-alpha' para citações do tipo [Abc+] ou [XYZ] (em ordem
+% alfabética na bibliografia), 'tcc-num' para citações
+% numéricas do tipo [1], [20], etc., em ordem de referência e
+% 'tcc-alpha-full' para citações estilo 'alpha' mas com nomes completos.
+%----------------------------------------------------------------
+%\bibliographystyle{tcc-alpha-full}
+\bibliographystyle{tcc-num}
+\bibliography{exemplo-bib}
+
+%----------------------------------------------------------------
+% Após \appendix, se iniciam os capítulos de Apêndice, com
+% numeração alfabética.
+%----------------------------------------------------------------
+\appendix
+
+\renewcommand{\figurename}{Apêndice}
+
+\chapter{\label{apnd:checklist}Exemplo de uma \emph{checklist}}
+\begin{figure}[H]
+    \centering\includegraphics[page=1,width=1\textwidth]{pdf/apnd-webchecklist.pdf}
+\end{figure}
+\begin{figure}[H]
+    \centering\includegraphics[page=2,width=1\textwidth]{pdf/apnd-webchecklist.pdf}
+ \caption[Exemplo de uma \emph{Checklist}]{\label{apnd:checklist}Exemplo de uma lista de avaliação de usabilidade para websites (em inglês) -- Fonte: Information \& Design (1998). Disponível em: http://infodesign.com.au/wp-content/uploads/WebCheck.pdf}
+\end{figure}
+%\chapter{My second appendix}
+
+%----------------------------------------------------------------
+% Aqui vão os "capítulos" de anexos. Cada anexo deve
+% ser considerado um capítulo.
+%----------------------------------------------------------------
+%\anexos
+%\chapter{Meu primeiro anexo}
+%\chapter{My second attachment}
+
+% E aqui (para a felicidade de todos) termina o documento.
+\end{document}

@@ -1,0 +1,119 @@
+% Definição da cores
+%\definecolor{smoke-green}{RGB}{119,161,119}
+%\definecolor{smoke-turquoise}{RGB}{151,183,178}
+%\definecolor{smoke-blue}{RGB}{114,148,175}
+%\definecolor{smoke-royal}{RGB}{93,97,161}
+%\definecolor{smoke-violet}{RGB}{125,93,161}
+%\definecolor{smoke-purple}{RGB}{172,114,174}
+\definecolor{smoke-magenta}{RGB}{191,91,147}
+%\definecolor{smoke-red}{RGB}{220,75,94}
+%\definecolor{smoke-orange}{RGB}{226,135,82} %204, 153, 102
+%\definecolor{smoke-yellow}{RGB}{220,213,113}
+% Colunas para tabelas
+%\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+% Altura das linhas
+\newcommand\T{\rule{0pt}{2.6ex}}       % Top strut
+\newcommand\B{\rule[-1.2ex]{0pt}{0pt}} % Bottom strut
+
+\chapter{\label{chap:planej}Planejamento de Atividades}
+
+Para a elaboração da segunda etapa do Trabalho de Conclusão, foram previstas as seguintes atividades:
+\begin{enumerate}
+    \item \label{tsk:reunioes_tcii}Participar das reuniões de Trabalho de Conclusão com o orientador;
+    \item \label{tsk:kanban}Criar estrutura inicial do \emph{kanban} a ser utilizado;
+    \item \label{tsk:arquitetura}Estudar arquiteturas, analisando quais as melhores opções de software para o desenvolvimento;
+    \item \label{tsk:desenv_app}Desenvolver a aplicação móvel;
+    \item \label{tsk:desenv_avaliacao}Desenvolver avaliações e Termo de Compromisso;
+    \item \label{tsk:desenv_ontologia}Desenvolver uma ontologia para restaurantes e similares;
+    \item \label{tsk:integr_ontologia}Integrar a ontologia à aplicação;
+    \item \label{tsk:testes}Realizar testes necessários na aplicação;
+    \item \label{tsk:app_avaliacao}Aplicar avaliação com o público-alvo do sistema desenvolvido;
+    \item \label{tsk:ver_resultados}Analisar resultados, buscando aperfeiçoar a aplicação de acordo com o retorno tido pelo usuário;
+    \item \label{tsk:desenv_tcii}Desenvolver o Trabalho de Conclusão II;
+    \item \label{tsk:desenv_cartaz}Desenvolver o cartaz sobre o trabalho;
+    \item \label{tsk:desenv_apres}Desenvolver a apresentação do Trabalho de Conclusão II;
+    \item \label{tsk:entr_tcii}Entregar o Trabalho de Conclusão II;
+    \item \label{tsk:apres_tcii}Apresentar o Trabalho de Conclusão II.
+\end{enumerate}
+
+\section{Cronograma}
+Estas atividades citadas anteriormente, assim como a previsão de suas realizações, estão exibidas no cronograma apresentado abaixo:
+
+\begin{figure}[ht]
+    \centering
+	\begin{ganttchart}[
+		x unit = 0.8cm,
+		y unit title = 0.4cm,
+		y unit chart = 0.5cm,
+		vgrid,
+		hgrid,
+		title height=1,
+		bar/.style={draw,fill=smoke-magenta!80},
+		bar incomplete/.append style={fill=white},
+		bar height=0.7]{1}{18}
+		
+		\gantttitle{2017}{18} \\
+		\gantttitle{Março}{5} 
+		\gantttitle{Abril}{4}
+		\gantttitle{Maio}{5} 
+		\gantttitle{Junho}{4}\\
+		
+		\ganttbar{Ativ. \ref{tsk:reunioes_tcii}}{1}{17}\\
+		\ganttbar{Ativ. \ref{tsk:kanban}}{1}{1}\\
+		\ganttbar{Ativ. \ref{tsk:arquitetura}}{2}{3}\\
+		\ganttbar{Ativ. \ref{tsk:desenv_app}}{3}{9}\\
+		\ganttbar{Ativ. \ref{tsk:desenv_avaliacao}}{4}{5} \\
+		\ganttbar{Ativ. \ref{tsk:desenv_ontologia}}{6}{9}\\
+		\ganttbar{Ativ. \ref{tsk:integr_ontologia}}{10}{10}\\
+		\ganttbar{Ativ. \ref{tsk:testes}}{11}{12} \\
+		\ganttbar{Ativ. \ref{tsk:app_avaliacao}}{13}{13} \\
+		\ganttbar{Ativ. \ref{tsk:ver_resultados}}{13}{14} \\
+		\ganttbar{Ativ. \ref{tsk:desenv_tcii}}{14}{17} \\
+		\ganttbar{Ativ. \ref{tsk:desenv_cartaz}}{15}{15} \\
+		\ganttbar{Ativ. \ref{tsk:desenv_apres}}{17}{18} \\
+		\ganttbar{Ativ. \ref{tsk:entr_tcii}}{18}{18} \\
+		\ganttbar{Ativ. \ref{tsk:apres_tcii}}{18}{18}
+
+	\end{ganttchart}
+\caption[Cronograma]
+        {\label{fig:cronograma}Cronograma para o desenvolvimento do TC II}%
+\end{figure}
+
+%Atividade -------- Mês
+% ----------------- (Semanas) 
+%Nome atv. -------  X X   X
+
+%{\arraystretch}{1.2}
+%\begin{table}[ht]
+%    \centering
+%    \resizebox{\textwidth}{!}{\begin{tabular}{|| l || c | c | c | c | c || c | c | c | c | c || c %| c | c | c | c | c || c | c | c | c | c ||}
+%        \hline \hline
+%        Atividades & \multicolumn{21}{l ||}{Meses} \T\B \\ \cline{2-22}
+%                   & \multicolumn{5}{l ||}{Agosto}  & \multicolumn{5}{l ||}{Setembro}  & %\multicolumn{6}{l ||}{Outubro}  & \multicolumn{5}{l ||}{Novembro} \T\B \\ \cline{2-22}
+%        \hline \hline
+%        Reuniões de TC II & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \cellcolor{smoke-green}{\color{smoke-green}X} & \textcolor{white}{X} \T\B \\
+%        \hline
+%        Desenvolver Proposta & &  \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & \cellcolor{smoke-turquoise}{\color{smoke-turquoise}X} & & & & & & & & & & & & & \T\B \\
+%        \hline
+%        Entregar Proposta & & & & & & & & \cellcolor{smoke-blue}{\color{smoke-blue}X} & & & & & & & & & & & & & \T\B \\
+%        \hline
+%        Analisar Avaliação & & & & & & & & & \cellcolor{smoke-royal}{\color{smoke-royal}X} & & & & & & & & & & & & \T\B \\
+%        \hline
+%        Estudar Referencial Teórico & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & &  \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & \cellcolor{smoke-violet}{\color{smoke-violet}X} & & & & & & & & \T\B \\
+%        \hline
+%        Estudar Ferramentas & & & & & & & & & & & & & & & \cellcolor{smoke-purple}{\color{smoke-purple}X} & \cellcolor{smoke-purple}{\color{smoke-purple}X} & \cellcolor{smoke-purple}{\color{smoke-purple}X} & \cellcolor{smoke-purple}{\color{smoke-purple}X} & & & \T\B \\
+%        \hline
+%        Examinar Trabalhos Similares & & & & & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & & & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & \cellcolor{smoke-magenta}{\color{smoke-magenta}X} & & & & & & & & \T\B \\
+%        \hline
+%        Modelar SI & & & & & & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & & & & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & \cellcolor{smoke-red}{\color{smoke-red}X} & & & & \T\B \\
+%        \hline
+%        Desenvolver TC I & & & & & & & & & & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \cellcolor{smoke-orange}{\color{smoke-orange}X} & \T\B \\
+%        \hline
+%        Entregar TC I & & & & & & & & & & & & & & & & & & & & \cellcolor{smoke-yellow}{\color{smoke-yellow}X} & \T\B \\
+%        \hline \hline
+%        \end{tabular}}
+%    \caption{Cronograma para o desenvolvimento do TC II}
+%  \label{tab:myfirsttable}
+%\end{table}

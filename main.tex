@@ -75,7 +75,7 @@
 % Autor (OBRIGATÓRIO)
 %----------------------------------------------------------------
 \author{Priscila Giovanella Vivian}
-
+ 
 %----------------------------------------------------------------
 % Título (OBRIGATÓRIO). Devem ser passados DOIS parâmetros,
 % o título em português E o inglês, não importando o idioma
@@ -182,6 +182,7 @@ Vision impairment is the disability that is most common among Brazilian populati
 \include{chapters/cap-requisitos}
 \include{chapters/cap-modelagem}
 \include{chapters/cap-recursos-necessarios}
+\include{chapters/cap-desenvolvimento}
 \include{chapters/cap-avaliacao}
 \include{chapters/cap-conclusao}
 
@@ -202,24 +203,86 @@ Vision impairment is the disability that is most common among Brazilian populati
 %----------------------------------------------------------------
 \appendix
 
-\renewcommand{\figurename}{Apêndice}
+\chapter{\label{apnd:form-1-infos}Formulários do Avaliador \#1}
+\begin{table}[h]
+	\centering
+	\caption[Dados do Avaliador \#1]{\label{apnd:form-1-infos}Dados do avaliador \#1}
+	\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|}
+		\cline{1-2}	
+		\multicolumn{2}{|l|}{\textbf{DADOS DO AVALIADOR}} \\ \cline{1-2}	
+		Avaliador & \# \\	\cline{1-2}	
+		\multirow{10}{*}{Faixa Etária} & ( ) Abaixo de 20 anos \\ \cline{2-2}	
+									   & ( ) 21 a 25 anos \\ \cline{2-2}	
+									   & ( ) 26 a 30 anos \\ \cline{2-2}
+									   & ( ) 31 a 35 anos \\ \cline{2-2}
+									   & ( ) 36 a 40 anos \\ \cline{2-2}
+									   & ( ) 41 a 45 anos \\ \cline{2-2}
+									   & ( ) 46 a 50 anos \\ \cline{2-2}
+									   & ( ) 51 a 55 anos \\ \cline{2-2}
+									   & ( ) 56 a 60 anos \\ \cline{2-2}
+									   & ( ) Mais de 60 anos \\ \cline{1-2}
+	   \multirow{2}{*}{Possui familiaridade com smartphones?} & ( ) Sim \\ \cline{2-2}
+															  & ( ) Não \\ \cline{1-2}
+	 Com que frequência utiliza smartphones? & \\ \cline{1-2}
+	 Com qual sistema operacional possui maior familiaridade? & \\ \cline{1-2}
+	 Modelo do smartphone utilizado & \\ \cline{1-2}
+	 Versão do Android utilizada & \\ \cline{1-2}
+	 \multirow{2}{*}{Possui deficiência visual?} & ( ) Sim \\ \cline{2-2}
+												& ( ) Não \\ \cline{1-2}
+	 Qual o tipo de deficiência visual? & \\ \cline{1-2}
+	 Há quanto tempo possui esta deficiência? & \\ \cline{1-2}
+	 \multirow{2}{*}{Possui daltonismo?} & ( ) Sim \\ \cline{2-2}
+										 & ( ) Não \\ \cline{1-2}
+	 Qual o tipo de daltonismo? & \\ \cline{1-2}
+	 Há quanto tempo possui esta deficiência? & \\ \cline{1-2}
+	 \multirow{2}{*}{Possui experiência na avaliação de aplicativos?} & ( ) Sim \\ \cline{2-2}
+																	  & ( ) Não \\ \cline{1-2}
+	 De quanto tempo? & \\ \cline{1-2}
+	 Em que tipo de avaliação? & \\ \cline{1-2}
+	 Quantas vezes utilizou esse aplicativo? & \\ \cline{1-2}
+	 \multicolumn{2}{|l|}{\textbf{DADOS DO APLICATIVO}} \\ \cline{1-2}
+	 Aplicativo avaliado & Cardápio Virtual \\ \cline{1-2}
+	 Disponível em & 1/6/2017 \\ \cline{1-2}
+	 Data de avaliação & \\ \cline{1-2}
+	\end{tabular}}
+\end{table}
 
-\chapter{\label{apnd:checklist}Exemplo de uma \emph{checklist}}
-\begin{figure}[H]
-    \centering\includegraphics[page=1,width=1\textwidth]{pdf/apnd-webchecklist.pdf}
-\end{figure}
-\begin{figure}[H]
-    \centering\includegraphics[page=2,width=1\textwidth]{pdf/apnd-webchecklist.pdf}
- \caption[Exemplo de uma \emph{Checklist}]{\label{apnd:checklist}Exemplo de uma lista de avaliação de usabilidade para websites (em inglês) -- Fonte: Information \& Design (1998). Disponível em: http://infodesign.com.au/wp-content/uploads/WebCheck.pdf}
-\end{figure}
-%\chapter{My second appendix}
-
+\begin{table}[h]
+	\centering
+	\caption[Tarefas do Avaliador \#1]{\label{apnd:form-1-infos}Desempenho do avaliador \#1 durante as tarefas}
+	\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|l|l|l|l|l|}
+		\cline{1-7}
+		Tarefas & \multicolumn{2}{|l|}{O caminho que fizeste na cabeça condiz com o caminho apresentado pelo aplicativo?} & Duração & \multicolumn{2}{|l|}{Achas que conseguiria realizar a tarefa em menos tempo?} & Observação \\ \cline{1-7}
+		1. Selecionar um restaurante qualquer & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		2. Favoritar um restaurante			  & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		3. Desfavoritar um restaurante 		  & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		4. Buscar um restaurante através do sistema de busca & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		5. Acessar o cardápio do restaurante Espaço 32		 & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		6. Filtrar o cardápio por comidas vegetarianas, sem lactose e ordenar as informações por ordem de acesso & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		7. Verificar os ingredientes de uma "Torrada Simples" & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		8. Verificar a quantidade do produto "Pão de Queijo" disponível no restaurante & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		9. Voltar à tela principal após verificar as informações adicionais de um produto do cardápio & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+	\end{tabular}}
+\end{table}
+\chapter{\label{apnd:form-1-tarefas}Desempenho do avaliador \#1 durante as tarefas}
+\chapter{\label{apnd:form-1-questionario}Avaliação do avaliador \#1}
+\chapter{\label{apnd:form-1-notas}Avaliação do avaliador \#1 sumarizada}
 %----------------------------------------------------------------
 % Aqui vão os "capítulos" de anexos. Cada anexo deve
 % ser considerado um capítulo.
 %----------------------------------------------------------------
 %\anexos
-%\chapter{Meu primeiro anexo}
+\chapter{Meu primeiro anexo}
+\renewcommand{\figurename}{Apêndice}
+
+\chapter{\label{apnd:checklist}Exemplo de uma \emph{checklist}}
+\begin{figure}[H]
+	\centering\includegraphics[page=1,width=1\textwidth]{pdf/apnd-webchecklist.pdf}
+\end{figure}
+\begin{figure}[H]
+	\centering\includegraphics[page=2,width=1\textwidth]{pdf/apnd-webchecklist.pdf}
+	\caption[Exemplo de uma \emph{Checklist}]{\label{apnd:checklist}Exemplo de uma lista de avaliação de usabilidade para websites (em inglês) -- Fonte: Information \& Design (1998). Disponível em: http://infodesign.com.au/wp-content/uploads/WebCheck.pdf}
+\end{figure}
 %\chapter{My second attachment}
 
 % E aqui (para a felicidade de todos) termina o documento.

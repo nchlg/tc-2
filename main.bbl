@@ -1,0 +1,206 @@
+\begin{thebibliography}{10}
+\pretolerance=2500
+\hyphenpenalty=10000
+\tolerance=200
+\emergencystretch=15em
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\urlprefix}{\bblcaptured}
+\providecommand{\selectlanguage}[1]{\relax}
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{#2}
+
+\bibitem{DEVACCESS2016}
+{ANDROID}. \enquote{{Making Applications Accessible}}.
+  \urlprefix\url{https://developer.android.com/guide/topics/ui/accessibility/apps.html},
+  novembro 2016.
+\bibAnnoteFile{DEVACCESS2016}
+
+\bibitem{ONTOLOGIAI}
+{ARVIDSSON, F.; FLYCHT-ERIKSSON, A.} \enquote{{Ontologies I}}.
+  \urlprefix\url{http://www.ida.liu.se/~janma56/SemWeb/Slides/ontologies1.pdf},
+  setembro 2016.
+\bibAnnoteFile{ONTOLOGIAI}
+
+\bibitem{AUDY2015}
+{AUDY, J.} \enquote{Toolbox 360°}. 2015, 176\bbleidpp{}.
+\bibAnnoteFile{AUDY2015}
+
+\bibitem{BOURBAKIS2001}
+{BOURBAKIS, N. G.; KAVRAKI, D.} \enquote{An intelligent assistant for
+  navigation of visually impaired people}. \capitalize{\bblin{}}: Proceedings
+  of the 2nd IEEE International Symposium on Bioinformatics and Bioengineering,
+  2001, \bblpp{} 230--.
+\bibAnnoteFile{BOURBAKIS2001}
+
+\bibitem{COHN2004}
+{COHN, M.} \enquote{User Stories Applied: For Agile Software Development}.
+  Addison-Wesley Professional, 2004, 268\bbleidpp{}.
+\bibAnnoteFile{COHN2004}
+
+\bibitem{ERGO2015}
+{CYBIS, W. O.; BETIOL, A. H.; FAUST, R.} \enquote{Ergonomia e Usabilidade:
+  conhecimentos, métodos e aplicações}. São Paulo: {Novatec}, 2015,
+  488\bbleidpp{}.
+\bibAnnoteFile{ERGO2015}
+
+\bibitem{DATRI2007}
+{D'ATRI, E.; MEDAGLIA, C. M.; SERBANATI, A.; CEIPIDOR, U. B.; PANIZZI, E.;
+  D'ATRI, A.} \enquote{A system to aid blind people in the mobility: A
+  usability test and its results}. \capitalize{\bblin{}}: Systems 2007. ICONS
+  '07. Second International Conference, 2007, \bblpp{} 35--.
+\bibAnnoteFile{DATRI2007}
+
+\bibitem{KAPTEN}
+DENHAM, J. \enquote{{Oh Kapten! My Kapten! Where am I?: A Review of the Kapten
+  PLUS Personal Navigation Device}}.
+  \urlprefix\url{https://www.afb.org/afbpress/pub.asp?DocID=aw120707}, setembro
+  2016.
+\bibAnnoteFile{KAPTEN}
+
+\bibitem{FRIESS2013}
+{FRIESS, P.} \enquote{Internet of Things: Converging Technologies for Smart
+  Environments and Integrated Ecosystems}. River Publishers, 2013.
+\bibAnnoteFile{FRIESS2013}
+
+\bibitem{TVESCOLA}
+{GIL, M.} \enquote{Deficiência Visual}. Brasília: MEC. Secretaria de
+  Educação a Distância, 2000, 79\bbleidpp{}.
+\bibAnnoteFile{TVESCOLA}
+
+\bibitem{TALKB2016}
+{GOOGLE}. \enquote{{Começar a utilizar o Android com o TalkBack}}.
+  \urlprefix\url{https://support.google.com/accessibility/android/answer/6283677},
+  novembro 2016.
+\bibAnnoteFile{TALKB2016}
+
+\bibitem{GROSS2003}
+{GROSS, J. M.; MCINNIS, K. R.} \enquote{Kanban Made Simple: Desmystifying and
+  Applying Toyota's Legendary Manufacturing Process}. AMACOM, 2003,
+  256\bbleidpp{}.
+\bibAnnoteFile{GROSS2003}
+
+\bibitem{godert2014}
+{GÖDERT, W.; HUBRICH, J.; NAGELSCHMIDT, M.} \enquote{Semantic knowledge
+  representation for information retrieval}. Berlin: {Walter de Gruyter GmbH},
+  2014, 294\bbleidpp{}.
+\bibAnnoteFile{godert2014}
+
+\bibitem{HERSH2010ASSISTIVE}
+{HERSH, M. e JOHNSON, M. A.} \enquote{Assistive Technology for Visually
+  Impaired and Blind People}. {Springer London}, 2010, 725\bbleidpp{}.
+\bibAnnoteFile{HERSH2010ASSISTIVE}
+
+\bibitem{IBGE2010}
+{Instituto Brasileiro de Geografia e Estatística (ed.)}. \enquote{Censo
+  demográfico 2010: características gerais da população, religião e
+  pessoas com deficiência}, \bbltechrep{}, Rio de Janeiro, RJ, Brasil, 2010.
+\bibAnnoteFile{IBGE2010}
+
+\bibitem{IBGE2011}
+{Instituto Brasileiro de Geografia e Estatística (ed.)}. \enquote{{Censo
+  demográfico 2010: características da população e dos domicílios.
+  Resultados do universo}}, \bbltechrep{}, Rio de Janeiro, RJ, Brasil, 2011.
+\bibAnnoteFile{IBGE2011}
+
+\bibitem{PNAD2014}
+{Instituto Brasileiro de Geografia e Estatística (ed.)}. \enquote{Pesquisa
+  Nacional por Amostra de Domicílios - Acesso à internet e à televisão e
+  posse de telefone móvel celular para uso pessoal: 2014}. Rio de Janeiro:
+  {IBGE}, 2016, 84\bbleidpp{}.
+\bibAnnoteFile{PNAD2014}
+
+\bibitem{KULYUKIN2002}
+{KULYUKIN, V.; GHARPURE, C.; SUTE, P.} \enquote{An intelligent assistant for
+  navigation of visually impaired people}. \capitalize{\bblin{}}: IAAI Emerging
+  Applications, 2002, \bblpp{} 864--869.
+\bibAnnoteFile{KULYUKIN2002}
+
+\bibitem{MAEDCHE2002}
+{MAEDCHE, A. D.} \enquote{Ontology learning for the semantic Web}. Norwell, MA:
+  Kluwer Academic Publishers, 2002, 244\bbleidpp{}.
+\bibAnnoteFile{MAEDCHE2002}
+
+\bibitem{MOURA2006}
+{MOURA, G. R.; PEDRO, E. N. R.} \enquote{Adolescentes portadores de
+  deficiência visual: Percepções sobre sexualidade}, março~2006, \bblpp{}
+  220--226.
+\bibAnnoteFile{MOURA2006}
+
+\bibitem{NIELSEN1995}
+{NIELSEN, J.} \enquote{{10 Usability Heuristics for User Interface Design}}.
+  \urlprefix\url{https://www.nngroup.com/articles/ten-usability-heuristics/},
+  novembro 2016.
+\bibAnnoteFile{NIELSEN1995}
+
+\bibitem{NOY2001}
+{NOY, N. F.; MCGUINNESS, D. L.} \enquote{Ontology development 101: A guide to
+  creating your first ontology}.
+  \urlprefix\url{http://liris.cnrs.fr/~amille/enseignements/Ecole_Centrale/What\%20is\%20an\%20ontology\%20and\%20why\%20we\%20need\%20it.htm},
+  novembro 2016.
+\bibAnnoteFile{NOY2001}
+
+\bibitem{WCAG20}
+{PATCH, K; SPELLMAN, J.; WAHLBIN, K. (eds.)}. \enquote{{Mobile Accessibility:
+  How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile}}.
+  \urlprefix\url{https://www.w3.org/TR/mobile-accessibility-mapping/}, setembro
+  2016.
+\bibAnnoteFile{WCAG20}
+
+\bibitem{PATEL2012}
+{PATEL, K. K.; VIJ, S.} \enquote{Spatial learning using locomotion interface to
+  virtual environment}. \capitalize{\bblin{}}: IEEE Transactions on Learning
+  Technologies, vol. 5, no. 2, 2012, \bblpp{} 170--176.
+\bibAnnoteFile{PATEL2012}
+
+\bibitem{PRATES2003}
+{PRATES, R. O.; BARBOSA, S. D. J.} \enquote{Avaliação de interfaces de
+  usuário - conceitos e métodos}. \capitalize{\bblin{}}: Juan Manuel Adán
+  Coello; Sandra C. P. Ferraz Fabbri. (Org.). Jornada de Atualização em
+  Informática do Congresso da Sociedade Brasileira de Computação, 2003,
+  \bblpp{} 245--293.
+\bibAnnoteFile{PRATES2003}
+
+\bibitem{REYNARD1995}
+{REYNARD, S.} \enquote{Flowcharts: Plain \& Simple}. Oriel Incorporated, 1995.
+\bibAnnoteFile{REYNARD1995}
+
+\bibitem{RIGON2016}
+{RIGON, L.} \enquote{{Huawei e PUCRS inauguram Centro de Inovação para
+  Cidades Inteligentes}}.
+  \urlprefix\url{http://www.pucrs.br/blog/huawei-e-pucrs-inauguram-centro-de-inovacao-para-cidades-inteligentes/},
+  novembro 2016.
+\bibAnnoteFile{RIGON2016}
+
+\bibitem{SHIN2014}
+{SHIN, D.} \enquote{{A socio-technical framework for Internet-of-Things design:
+  A human-centered design for the Internet of Things}}, \textit{Telematics and
+  Informatics}, \bblvol{}~31--4, 2014, \bblpp{} 519--531.
+\bibAnnoteFile{SHIN2014}
+
+\bibitem{WICH2015}
+{WICH, M.; KRAMER, T.} \enquote{Enhanced human-computer interaction for
+  business applications on mobile devices: A design-oriented development of a
+  usability evaluation questionnaire}. \capitalize{\bblin{}}: 48th Hawaii
+  International Conference on System Sciences, 2015, \bblpp{} 472--481.
+\bibAnnoteFile{WICH2015}
+
+\bibitem{WINCKLER2002}
+{WINCKLER, M. A.; PIMENTA, M. S.} \enquote{Avaliação de usabilidade de sites
+  web}. \capitalize{\bblin{}}: Luciana Porcher Nedel (Org.). Escola de
+  Informática da SBC SUl (ERI 2002), 2002, \bblpp{} 85--137.
+\bibAnnoteFile{WINCKLER2002}
+
+\bibitem{ZHIGANG2010}
+{ZHIGANG, F.; TING, L.} \enquote{Audification-based electronic travel aid
+  system}. \capitalize{\bblin{}}: IAAI Emerging Applications, 2010, \bblpp{}
+  864--869.
+\bibAnnoteFile{ZHIGANG2010}
+
+\end{thebibliography}

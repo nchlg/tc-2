@@ -1,0 +1,63 @@
+\select@language {brazil}
+\select@language {brazil}
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{11}
+\contentsline {section}{\numberline {1.1}\MakeTextUppercase {Estrutura do Documento}}{12}
+\contentsline {chapter}{\numberline {2}\MakeTextUppercase {Objetivos}}{13}
+\contentsline {section}{\numberline {2.1}\MakeTextUppercase {Objetivo Geral}}{13}
+\contentsline {section}{\numberline {2.2}\MakeTextUppercase {Objetivos Espec\IeC {\'\i }ficos}}{13}
+\contentsline {chapter}{\numberline {3}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o do Problema}}{14}
+\contentsline {section}{\numberline {3.1}\MakeTextUppercase {Cen\IeC {\'a}rio de Estudo e P\IeC {\'u}blico Alvo}}{14}
+\contentsline {section}{\numberline {3.2}\MakeTextUppercase {Acessibilidade, Ergonomia e Usabilidade em Aplica\IeC {\c c}\IeC {\~o}es M\IeC {\'o}veis}}{14}
+\contentsline {subsection}{\numberline {3.2.1}\MakeTextUppercase {Acessibilidade em Aplica\IeC {\c c}\IeC {\~o}es Android}}{15}
+\contentsline {subsection}{\numberline {3.2.2}\MakeTextUppercase {TalkBack}}{16}
+\contentsline {section}{\numberline {3.3}\MakeTextUppercase {Ontologia}}{17}
+\contentsline {subsection}{\numberline {3.3.1}\MakeTextUppercase {Criando uma Ontologia}}{19}
+\contentsline {section}{\numberline {3.4}\MakeTextUppercase {Internet das Coisas}}{22}
+\contentsline {section}{\numberline {3.5}\MakeTextUppercase {Trabalhos Similares}}{23}
+\contentsline {subsection}{\numberline {3.5.1}\MakeTextUppercase {Zomato}}{23}
+\contentsline {subsection}{\numberline {3.5.2}\MakeTextUppercase {Kapten PLUS - Dispositivo de Navega\IeC {\c c}\IeC {\~a}o Pessoal}}{23}
+\contentsline {subsection}{\numberline {3.5.3}\MakeTextUppercase {Um Assistente Inteligente para Navega\IeC {\c c}\IeC {\~a}o de Pessoas com Defici\IeC {\^e}ncia Visual}}{24}
+\contentsline {subsection}{\numberline {3.5.4}\MakeTextUppercase {Um Sistema Rob\IeC {\'o}tico para a Localiza\IeC {\c c}\IeC {\~a}o de Pessoas com Defici\IeC {\^e}ncia Visual}}{24}
+\contentsline {subsection}{\numberline {3.5.5}\MakeTextUppercase {AudioGuider - Sistema Eletr\IeC {\^o}nico para Aux\IeC {\'\i }lio em Viagens Baseado em Comandos de \IeC {\'A}udio}}{25}
+\contentsline {subsection}{\numberline {3.5.6}\MakeTextUppercase {Good Food Talks}}{26}
+\contentsline {subsection}{\numberline {3.5.7}\MakeTextUppercase {Tappy Menu}}{27}
+\contentsline {chapter}{\numberline {4}\MakeTextUppercase {Requisitos}}{28}
+\contentsline {section}{\numberline {4.1}\MakeTextUppercase {Requisitos Funcionais}}{28}
+\contentsline {section}{\numberline {4.2}\MakeTextUppercase {Requisitos N\IeC {\~a}o-Funcionais}}{28}
+\contentsline {chapter}{\numberline {5}\MakeTextUppercase {Modelagem}}{30}
+\contentsline {section}{\numberline {5.1}\MakeTextUppercase {Planejamento}}{31}
+\contentsline {section}{\numberline {5.2}\MakeTextUppercase {Personas}}{31}
+\contentsline {subsection}{\numberline {5.2.1}\MakeTextUppercase {Pessoa com Defici\IeC {\^e}ncia Visual em Busca de Restaurantes nas Proximidades}}{31}
+\contentsline {subsection}{\numberline {5.2.2}\MakeTextUppercase {Pessoa com Defici\IeC {\^e}ncia Visual em Viagem}}{32}
+\contentsline {subsection}{\numberline {5.2.3}\MakeTextUppercase {Pessoa que Convive com Deficientes Visuais}}{32}
+\contentsline {section}{\numberline {5.3}\MakeTextUppercase {Hist\IeC {\'o}rias de Usu\IeC {\'a}rio}}{33}
+\contentsline {subsection}{\numberline {5.3.1}\MakeTextUppercase {US01 -- Registrar-se}}{33}
+\contentsline {subsection}{\numberline {5.3.2}\MakeTextUppercase {US02 -- Entrar e Sair}}{33}
+\contentsline {subsection}{\numberline {5.3.3}\MakeTextUppercase {US03 -- Buscar Restaurante}}{34}
+\contentsline {subsection}{\numberline {5.3.4}\MakeTextUppercase {US04 -- Acessar Card\IeC {\'a}pio}}{34}
+\contentsline {subsection}{\numberline {5.3.5}\MakeTextUppercase {US05 -- Filtrar Card\IeC {\'a}pio}}{34}
+\contentsline {subsection}{\numberline {5.3.6}\MakeTextUppercase {US06 -- Favoritar Restaurante}}{34}
+\contentsline {section}{\numberline {5.4}\MakeTextUppercase {Fluxograma}}{35}
+\contentsline {subsection}{\numberline {5.4.1}\MakeTextUppercase {Fluxo das Telas}}{36}
+\contentsline {section}{\numberline {5.5}\MakeTextUppercase {Modelo Conceitual do Banco de Dados}}{36}
+\contentsline {subsection}{\numberline {5.5.1}\MakeTextUppercase {Dicion\IeC {\'a}rio de Dados}}{36}
+\contentsline {section}{\numberline {5.6}\MakeTextUppercase {Estrutura das Classes}}{36}
+\contentsline {chapter}{\numberline {6}\MakeTextUppercase {Recursos Necess\IeC {\'a}rios}}{37}
+\contentsline {chapter}{\numberline {7}\MakeTextUppercase {Desenvolvimento}}{38}
+\contentsline {chapter}{\numberline {8}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o}}{39}
+\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o Heur\IeC {\'\i }stica}}{39}
+\contentsline {section}{\numberline {8.2}\MakeTextUppercase {\emph {Checklist}}}{41}
+\contentsline {section}{\numberline {8.3}\MakeTextUppercase {Question\IeC {\'a}rio de Satisfa\IeC {\c c}\IeC {\~a}o do Usu\IeC {\'a}rio}}{41}
+\contentsline {section}{\numberline {8.4}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{42}
+\contentsline {section}{\numberline {8.5}\MakeTextUppercase {Procedimentos}}{42}
+\contentsline {section}{\numberline {8.6}\MakeTextUppercase {Resultados}}{42}
+\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Conclus\IeC {\~o}es}}{43}
+\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Trabalhos Futuros}}{43}
+\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{44}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{47}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{49}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{50}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{51}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Meu primeiro anexo}{52}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Exemplo de uma \emph {checklist}}{53}

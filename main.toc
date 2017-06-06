@@ -56,8 +56,8 @@
 \contentsline {section}{\numberline {9.1}\MakeTextUppercase {Trabalhos Futuros}}{43}
 \contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{44}
 \contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{47}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{49}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{50}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{51}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Meu primeiro anexo}{52}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Exemplo de uma \emph {checklist}}{53}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{50}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{51}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{52}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Meu primeiro anexo}{53}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Exemplo de uma \emph {checklist}}{54}

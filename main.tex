@@ -63,7 +63,12 @@
 % Pacote para tabelas e afins
 \usepackage[justification=centering, labelsep=endash]{caption}
 \usepackage{array}
+\usepackage{ragged2e}
+\newcolumntype{L}[1]{>{\RaggedRight\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\Centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\RaggedLeft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \usepackage{mathtools}
+\usepackage{tabu}
 \usepackage{listings}
 % Pacote para Gantt Chart
 \usepackage{pgfgantt}
@@ -206,8 +211,9 @@ Vision impairment is the disability that is most common among Brazilian populati
 \chapter{\label{apnd:form-1-infos}Formulários do Avaliador \#1}
 \begin{table}[h]
 	\centering
-	\caption[Dados do Avaliador \#1]{\label{apnd:form-1-infos}Dados do avaliador \#1}
-	\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|}
+	\caption[Dados do Avaliador \#1]{\label{tab:form-1-infos}Dados do avaliador \#1}
+	\tabulinesep = 0.25em
+	\resizebox{\textwidth}{!}{\begin{tabu}{|l|l|}
 		\cline{1-2}	
 		\multicolumn{2}{|l|}{\textbf{DADOS DO AVALIADOR}} \\ \cline{1-2}	
 		Avaliador & \# \\	\cline{1-2}	
@@ -244,25 +250,58 @@ Vision impairment is the disability that is most common among Brazilian populati
 	 Aplicativo avaliado & Cardápio Virtual \\ \cline{1-2}
 	 Disponível em & 1/6/2017 \\ \cline{1-2}
 	 Data de avaliação & \\ \cline{1-2}
-	\end{tabular}}
+	\end{tabu}}
+\end{table}
+
+\begin{table}
+	\centering
+	\caption[Tarefas descritas por extenso]{\label{tab:form-1-tarefas}Lista de tarefas realizadas com os avaliadores}
+	\tabulinesep = 0.5em
+	\resizebox{0.75\textwidth}{!}{
+		\begin{tabu}{|C{3em}|L{25em}|}
+			\hline
+			Índice & Tarefas \\
+			\hline
+			[1] & Selecionar um restaurante qualquer \\
+			\hline
+			[2] & Favoritar um restaurante \\
+			\hline
+			[3] & Desfavoritar um restaurante \\
+			\hline
+			[4] & Buscar um restaurante através do sistema de busca \\
+			\hline
+			[5] & Acessar o cardápio do restaurante Espaço 32 \\
+			\hline
+			[6] & Filtrar o cardápio por comidas vegetarianas, sem lactose e ordenar as informações por ordem de acesso \\
+			\hline
+			[7] & Verificar os ingredientes de uma "Torrada Simples" \\
+			\hline
+			[8] & Verificar a quantidade do produto "Pão de Queijo"\ disponível no restaurante \\
+			\hline
+			[9] & Voltar à tela principal após verificar as informações adicionais de um produto do cardápio \\
+			\hline
+		\end{tabu}
+	}
+			
 \end{table}
 
 \begin{table}[h]
 	\centering
-	\caption[Tarefas do Avaliador \#1]{\label{apnd:form-1-infos}Desempenho do avaliador \#1 durante as tarefas}
-	\resizebox{\textwidth}{!}{\begin{tabular}{|l|l|l|l|l|l|l|}
+	\caption[Tarefas do Avaliador \#1]{\label{tab:form-1-tarefas-aval}Desempenho do avaliador \#1 durante as tarefas}
+	\tabulinesep = 0.5em
+	\resizebox{\textwidth}{!}{\begin{tabu}{|C{3em}|L{6em}|L{6em}|C{5em}|L{6em}|L{6em}|L{10em}|}
 		\cline{1-7}
-		Tarefas & \multicolumn{2}{|l|}{O caminho que fizeste na cabeça condiz com o caminho apresentado pelo aplicativo?} & Duração & \multicolumn{2}{|l|}{Achas que conseguiria realizar a tarefa em menos tempo?} & Observação \\ \cline{1-7}
-		1. Selecionar um restaurante qualquer & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		2. Favoritar um restaurante			  & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		3. Desfavoritar um restaurante 		  & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		4. Buscar um restaurante através do sistema de busca & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		5. Acessar o cardápio do restaurante Espaço 32		 & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		6. Filtrar o cardápio por comidas vegetarianas, sem lactose e ordenar as informações por ordem de acesso & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		7. Verificar os ingredientes de uma "Torrada Simples" & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		8. Verificar a quantidade do produto "Pão de Queijo" disponível no restaurante & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-		9. Voltar à tela principal após verificar as informações adicionais de um produto do cardápio & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
-	\end{tabular}}
+		Tarefas & \multicolumn{2}{L{12em}|}{O caminho que fizeste na cabeça condiz com o caminho apresentado pelo aplicativo?} & Duração & \multicolumn{2}{L{12em}|}{Achas que conseguiria realizar a tarefa em menos tempo?} & Observação \\ \cline{1-7}
+		[1] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[2] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[3] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[4] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[5] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[6] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[7] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[8] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+		[9] & ( ) Sim & ( ) Não & & ( ) Sim & ( ) Não & \\ \cline{1-7}
+	\end{tabu}}
 \end{table}
 \chapter{\label{apnd:form-1-tarefas}Desempenho do avaliador \#1 durante as tarefas}
 \chapter{\label{apnd:form-1-questionario}Avaliação do avaliador \#1}

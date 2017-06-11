@@ -14,6 +14,7 @@ The style file: tcc-num.bst
 Database file #1: exemplo-bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--missing publisher in AUDY2015
+Warning--empty url in CAMPOS2015
 Warning--empty numpages in FRIESS2013
 Warning--missing institution in IBGE2010
 Warning--empty numpages in IBGE2010
@@ -24,43 +25,43 @@ Warning--empty volume and number in MOURA2006
 Warning--empty numpages in REYNARD1995
 You've used 31 entries,
             2900 wiz_defined-function locations,
-            857 strings with 11933 characters,
-and the built_in function-call counts, 13017 in all, are:
-= -- 1099
+            855 strings with 11791 characters,
+and the built_in function-call counts, 12915 in all, are:
+= -- 1085
 > -- 217
-< -- 11
+< -- 10
 + -- 96
 - -- 62
-* -- 777
-:= -- 1562
+* -- 770
+:= -- 1549
 add.period$ -- 89
 call.type$ -- 31
-change.case$ -- 123
+change.case$ -- 124
 chr.to.int$ -- 0
-cite$ -- 71
-duplicate$ -- 1270
-empty$ -- 1277
+cite$ -- 72
+duplicate$ -- 1266
+empty$ -- 1272
 format.name$ -- 62
-if$ -- 2829
+if$ -- 2801
 int.to.chr$ -- 0
 int.to.str$ -- 31
 missing$ -- 255
 newline$ -- 143
 num.names$ -- 62
-pop$ -- 540
+pop$ -- 554
 preamble$ -- 1
 purify$ -- 93
 quote$ -- 0
-skip$ -- 427
+skip$ -- 413
 stack$ -- 0
-substring$ -- 807
-swap$ -- 520
-text.length$ -- 11
+substring$ -- 789
+swap$ -- 509
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 102
-warning$ -- 9
-while$ -- 102
+warning$ -- 10
+while$ -- 100
 width$ -- 33
-write$ -- 305
-(There were 9 warnings)
+write$ -- 304
+(There were 10 warnings)

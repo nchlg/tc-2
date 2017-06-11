@@ -41,23 +41,23 @@
 \contentsline {section}{\numberline {5.4}\MakeTextUppercase {Fluxograma}}{35}
 \contentsline {subsection}{\numberline {5.4.1}\MakeTextUppercase {Fluxo das Telas}}{36}
 \contentsline {section}{\numberline {5.5}\MakeTextUppercase {Modelo Conceitual do Banco de Dados}}{36}
-\contentsline {subsection}{\numberline {5.5.1}\MakeTextUppercase {Dicion\IeC {\'a}rio de Dados}}{36}
 \contentsline {section}{\numberline {5.6}\MakeTextUppercase {Estrutura das Classes}}{36}
 \contentsline {chapter}{\numberline {6}\MakeTextUppercase {Recursos Necess\IeC {\'a}rios}}{37}
 \contentsline {chapter}{\numberline {7}\MakeTextUppercase {Desenvolvimento}}{38}
 \contentsline {chapter}{\numberline {8}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o}}{39}
-\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o Heur\IeC {\'\i }stica}}{39}
-\contentsline {section}{\numberline {8.2}\MakeTextUppercase {\emph {Checklist}}}{41}
-\contentsline {section}{\numberline {8.3}\MakeTextUppercase {Question\IeC {\'a}rio de Satisfa\IeC {\c c}\IeC {\~a}o do Usu\IeC {\'a}rio}}{41}
-\contentsline {section}{\numberline {8.4}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{42}
-\contentsline {section}{\numberline {8.5}\MakeTextUppercase {Procedimentos}}{42}
-\contentsline {section}{\numberline {8.6}\MakeTextUppercase {Resultados}}{42}
-\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Conclus\IeC {\~o}es}}{43}
-\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Trabalhos Futuros}}{43}
-\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{44}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{47}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{50}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{51}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{52}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Meu primeiro anexo}{53}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Exemplo de uma \emph {checklist}}{54}
+\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Tarefas}}{39}
+\contentsline {section}{\numberline {8.2}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o Baseada nas Heur\IeC {\'\i }sticas de Nielsen}}{39}
+\contentsline {section}{\numberline {8.3}\MakeTextUppercase {\emph {Checklist}}}{41}
+\contentsline {section}{\numberline {8.4}\MakeTextUppercase {Question\IeC {\'a}rio de Satisfa\IeC {\c c}\IeC {\~a}o do Usu\IeC {\'a}rio}}{41}
+\contentsline {section}{\numberline {8.5}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{42}
+\contentsline {section}{\numberline {8.6}\MakeTextUppercase {Procedimentos}}{43}
+\contentsline {section}{\numberline {8.7}\MakeTextUppercase {Resultados}}{43}
+\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Conclus\IeC {\~o}es}}{44}
+\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Trabalhos Futuros}}{44}
+\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{45}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{48}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{51}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{52}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{53}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Meu primeiro anexo}{54}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Exemplo de uma \emph {checklist}}{55}

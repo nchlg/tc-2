@@ -39,6 +39,12 @@
   2001, \bblpp{} 230--.
 \bibAnnoteFile{BOURBAKIS2001}
 
+\bibitem{CAMPOS2015}
+{CAMPOS, M.} \enquote{{Projeto Metodologia de Avaliação de Videojogos
+  Multimodais para Melhorar a Cognição em Pessoas com Deficiência Visual –
+  Fase 2}}. Projeto Institucional. PUCRS, 2015.
+\bibAnnoteFile{CAMPOS2015}
+
 \bibitem{COHN2004}
 {COHN, M.} \enquote{User Stories Applied: For Agile Software Development}.
   Addison-Wesley Professional, 2004, 268\bbleidpp{}.
@@ -158,14 +164,6 @@ DENHAM, J. \enquote{{Oh Kapten! My Kapten! Where am I?: A Review of the Kapten
   virtual environment}. \capitalize{\bblin{}}: IEEE Transactions on Learning
   Technologies, vol. 5, no. 2, 2012, \bblpp{} 170--176.
 \bibAnnoteFile{PATEL2012}
-
-\bibitem{PRATES2003}
-{PRATES, R. O.; BARBOSA, S. D. J.} \enquote{Avaliação de interfaces de
-  usuário - conceitos e métodos}. \capitalize{\bblin{}}: Juan Manuel Adán
-  Coello; Sandra C. P. Ferraz Fabbri. (Org.). Jornada de Atualização em
-  Informática do Congresso da Sociedade Brasileira de Computação, 2003,
-  \bblpp{} 245--293.
-\bibAnnoteFile{PRATES2003}
 
 \bibitem{REYNARD1995}
 {REYNARD, S.} \enquote{Flowcharts: Plain \& Simple}. Oriel Incorporated, 1995.

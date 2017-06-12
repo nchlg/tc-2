@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  11 JUN 2017 19:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  11 JUN 2017 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1297,11 +1297,7 @@ File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
 (./chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
 (./chapters/cap-modelagem.aux) (./chapters/cap-recursos-necessarios.aux)
 (./chapters/cap-desenvolvimento.aux) (./chapters/cap-avaliacao.aux)
-(./chapters/cap-conclusao.aux)
-
-LaTeX Warning: Label `apnd:checklist' multiply defined.
-
-)
+(./chapters/cap-resultados.aux) (./chapters/cap-conclusao.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
@@ -1319,7 +1315,8 @@ LaTeX Font Info:    ... okay on input line 122.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 122.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 122.
@@ -1891,11 +1888,71 @@ Underfull \hbox (badness 10000) detected at line 2
 \T1/phv/b/n/14.4 7. 
  []
 
-) [38
+
+Underfull \hbox (badness 10000) detected at line 6
+\T1/phv/b/n/12 7.1
+ []
+
+[38
 
 
 
 ]
+
+LaTeX Warning: Reference `' on page 39 undefined on input line 27.
+
+
+Underfull \hbox (badness 10000) detected at line 31
+\T1/phv/b/n/12 7.2
+ []
+
+
+LaTeX Warning: Reference `figura' on page 39 undefined on input line 35.
+
+
+LaTeX Warning: Reference `' on page 39 undefined on input line 35.
+
+[39]
+
+LaTeX Warning: Reference `figura' on page 40 undefined on input line 37.
+
+
+LaTeX Warning: Reference `' on page 40 undefined on input line 39.
+
+
+LaTeX Warning: Reference `' on page 40 undefined on input line 41.
+
+
+Underfull \hbox (badness 10000) detected at line 43
+\T1/phv/b/n/12 7.3
+ []
+
+
+LaTeX Warning: Reference `' on page 40 undefined on input line 45.
+
+
+LaTeX Warning: Reference `' on page 40 undefined on input line 45.
+
+[40]
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 54.
+
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 54.
+
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 54.
+
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+
+) [41]
 \openout2 = `chapters/cap-avaliacao.aux'.
 
  (./chapters/cap-avaliacao.tex
@@ -1910,65 +1967,63 @@ Underfull \hbox (badness 10000) detected at line 10
 \T1/phv/b/n/12 8.1
  []
 
-
-Underfull \hbox (badness 10000) detected at line 12
-\T1/phv/b/n/12 8.2
- []
-
-[39
+[42
 
 
 
 ]
-Overfull \hbox (6.12024pt too wide) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) detected at line 25
+\T1/phv/b/n/12 8.2
+ []
+
+[43]
+Overfull \hbox (6.12024pt too wide) in paragraph at lines 39--40
 []\T1/phv/m/n/12 mensagens de erro
  []
 
 
-LaTeX Warning: Reference `apnd:form-questionario' on page 40 undefined on input
- line 30.
+LaTeX Warning: Reference `apnd:form-questionario' on page 44 undefined on input
+ line 43.
 
-[40]
-Underfull \hbox (badness 10000) detected at line 32
+
+Underfull \hbox (badness 10000) detected at line 61
 \T1/phv/b/n/12 8.3
  []
 
+[44]
 
-Underfull \hbox (badness 10000) detected at line 38
-\T1/phv/b/n/12 8.4
- []
+LaTeX Warning: Reference `apnd:termo' on page 45 undefined on input line 70.
 
-[41]
-Underfull \hbox (badness 10000) detected at line 43
-\T1/phv/b/n/12 8.5
- []
+) [45]
+\openout2 = `chapters/cap-resultados.aux'.
 
-[42]
-Underfull \hbox (badness 10000) detected at line 54
-\T1/phv/b/n/12 8.6
- []
-
-
-Underfull \hbox (badness 10000) detected at line 55
-\T1/phv/b/n/12 8.7
- []
-
-) [43]
-\openout2 = `chapters/cap-conclusao.aux'.
-
- (./chapters/cap-conclusao.tex
+ (./chapters/cap-resultados.tex
 9.
 
 Underfull \hbox (badness 10000) detected at line 1
 \T1/phv/b/n/14.4 9. 
  []
 
+) [46
 
-Underfull \hbox (badness 10000) detected at line 7
-\T1/phv/b/n/12 9.1
+
+
+]
+\openout2 = `chapters/cap-conclusao.aux'.
+
+ (./chapters/cap-conclusao.tex
+10.
+
+Underfull \hbox (badness 10000) detected at line 1
+\T1/phv/b/n/14.4 10. 
  []
 
-) [44
+
+Underfull \hbox (badness 10000) detected at line 7
+\T1/phv/b/n/12 10.1
+ []
+
+) [47
 
 
 
@@ -1984,7 +2039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--100
 -wledge
  []
 
-[45
+[48
 
 
 ]
@@ -2034,7 +2089,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--178
 pucrs . br / blog /
  []
 
-[46]
+[49]
 Underfull \hbox (badness 2644) in paragraph at lines 186--191
 []\T1/phv/m/n/12 WICH, M.; KRA-MER, T. ``Enhan-ced human-computer in-te-rac-tio
 n for bu-si-ness
@@ -2052,7 +2107,7 @@ Underfull \hbox (badness 1406) in paragraph at lines 186--191
 -nal Con-fe-rence on Sys-tem
  []
 
-) [47]
+) [50]
 \uppercase {Ap\^endice} A.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2060,67 +2115,35 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[48
-
-] [49] [50]
-\uppercase {Ap\^endice} B.
 [51
 
-]
-\uppercase {Ap\^endice} C.
-[52
-
-]
-\uppercase {Ap\^endice} D.
-[53
-
-]
-\uppercase {Ap\^endice} E.
+] [52] [53]
+\uppercase {Ap\^endice} B.
 [54
 
 ]
-\uppercase {Ap\^endice} F.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 317.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 317.
-<pdf/apnd-webchecklist.pdf, id=206, page=1, 845.1575pt x 597.23125pt>
-File: pdf/apnd-webchecklist.pdf Graphic file (type pdf)
+\uppercase {Ap\^endice} C.
+[55
 
-<use pdf/apnd-webchecklist.pdf, page 1>
-Package pdftex.def Info: pdf/apnd-webchecklist.pdf, page1 used on input line 31
-9.
-(pdftex.def)             Requested size: 483.69687pt x 341.81052pt.
+]
+\uppercase {Ap\^endice} D.
+[56
 
-<pdf/apnd-webchecklist.pdf, id=207, page=2, 845.1575pt x 597.23125pt>
-File: pdf/apnd-webchecklist.pdf Graphic file (type pdf)
-
-<use pdf/apnd-webchecklist.pdf, page 2>
-Package pdftex.def Info: pdf/apnd-webchecklist.pdf, page2 used on input line 32
-2.
-(pdftex.def)             Requested size: 483.69687pt x 341.81052pt.
- [55
-
- <./pdf/apnd-webchecklist.pdf, page is rotated 90 degrees>] [56 <./pdf/apnd-web
-checklist.pdf, page is rotated 90 degrees>] (./main.aux (./chapters/cap-introdu
-cao.aux)
-(./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
-(./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
-(./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
-(./chapters/cap-avaliacao.aux) (./chapters/cap-conclusao.aux))
+] (./main.aux (./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux) (.
+/chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
+(./chapters/cap-modelagem.aux) (./chapters/cap-recursos-necessarios.aux)
+(./chapters/cap-desenvolvimento.aux) (./chapters/cap-avaliacao.aux)
+(./chapters/cap-resultados.aux) (./chapters/cap-conclusao.aux))
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 21476 strings out of 493029
- 399092 string characters out of 6136235
- 482177 words of memory out of 5000000
- 24420 multiletter control sequences out of 15000+600000
- 56356 words of font info for 84 fonts, out of 8000000 for 9000
+ 21477 strings out of 493029
+ 399047 string characters out of 6136235
+ 482619 words of memory out of 5000000
+ 24416 multiletter control sequences out of 15000+600000
+ 53500 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,65p,1393b,1013s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
@@ -2131,10 +2154,10 @@ ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt
 sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (56 pages, 1805988 bytes).
+Output written on main.pdf (56 pages, 1800122 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
+ 241 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

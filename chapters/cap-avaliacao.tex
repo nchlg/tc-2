@@ -1,6 +1,5 @@
-\color{blue}
 \chapter{\label{chap:avaliacao}Avaliação}
-
+\color{blue}
 O término do desenvolvimento de uma aplicação não inflige na sua utilização imediata pelo o usuário. Antes de lançá-la para o mercado ou para o ambiente onde será aplicada, é de extrema importância que se testem fatores relacionados à interação entre a aplicação e o usuário (Prates e Barbosa, 2003). Uma vez que avaliação da interface transparece aspectos da usabilidade do sistema, seus resultados contribuem para a diminuição do número de erros e aumento da produtividade e da satisfação do usuário (Winckler e Pimenta, 2002)\nocite{WINCKLER2002}. Além disso, Prates e Barbosa (2003) ressaltam que estas avaliações têm por objetivo identificar as necessidades do usuário, entender como a interface o afeta, quantificar aspectos de usabilidade e conformidade com padrões ou conjuntos de heurísticas, entre outros.
 
 Para a realização destas avaliações, busca-se usuários que não tenham interação prévia com a aplicação. Desenvolvedores e outros membros da equipe de desenvolvimento de um projeto devem ter em mente que os usuários reais de suas aplicações, muitas vezes, possuem uma visão diferente e podem salientar pontos que não foram percebidos pela equipe (Prates e Barbosa, 2003). Além disso, busca-se avaliadores que sejam pessoas com deficiência visual, uma vez que se propõe desenvolver um sistema acessível a essas pessoas. Através do teste com pessoas que se encaixam em algum destes perfis, torna-se viável a análise qualitativa do produto criado.
@@ -42,7 +41,20 @@ As dez heurísticas de Nielsen são:
 
 O resultado de cada avaliação foi uma tabela composta por uma lista de critérios agrupados por heurística e uma 11ª seção contendo questões relacionadas à acessibilidade da aplicação. Este instrumento pode ser encontrado no Apêndice \ref{apnd:form-questionario} e fora baseado no sistema de avaliação de videojogos para pessoas com deficiência visual, desenvolvido no contexto do projeto de Metodologia de Avaliação de Videojogos Multimodais para Melhorar a Cognição em Pessoas com Deficiência Visual (Campos 2015)\nocite{CAMPOS2015}. Seguindo a estrutura do documento, foram alteradas as questões que diziam respeito, especificamente, ao escopo do projeto, sendo alteradas para o contexto de cardápios de restaurantes. A versão final do questionário possui a seguinte estrutura:
 \begin{enumerate}
-	\item Estrutura
+	\item Usabilidade -- 34 questões:
+	\begin{enumerate}[label*={\arabic*}]
+		\item Visibilidade do Estado do Sistema -- 3 questões;
+		\item Correspondência entre o Sistema e o Mundo Real -- 2 questões;
+		\item Controle e Liberdade do Usuário -- 3 questões;
+		\item Consistência e Padronização -- 7 questões;
+		\item Prevenção de Erros -- 1 questão;
+		\item Reconhecimento ao Invés de Memorização -- 4 questões;
+		\item Flexibilidade e Eficiência de Uso -- 7 questões;
+		\item Projeto Estético e Minimalista -- 3 questões;
+		\item Reconhecimento, Diagnóstico e Recuperação de Erros -- 3 questões;
+		\item Ajuda e Documentação -- 1 questão;
+	\end{enumerate}
+	\item Acessibilidade -- 14 questões.
 \end{enumerate}
 
 Ao responder este questionário, o avaliador fora responsável por indicar se os elementos apresentados na tabela eram condizentes ou não com o sistema testado. A partir deste processo de avaliação, aspectos de melhoria podem ser elaborados e aplicados ao sistema desenvolvido. Desta forma, a aplicação apresentará menos problemas quando for consumida por um usuário real.
@@ -67,5 +79,5 @@ Esse tipo de avaliação exige atenção especial dos avaliadores e da equipe de
         \item [Conforto] por ser uma tarefa num ambiente diferente e, muitas vezes, longa, deve-se buscar deixar o participante confortável. Muitas vezes, o avaliador pode acabar sendo insensível com o usuário e este se sentir incomodado, cenário indesejável para a aplicação de uma avaliação;
         \item [Autorização] caso o avaliador deseje divulgar alguma informação fornecida pelo participante, como um trecho de um depoimento, deve-se pedir a autorização prévia para o usuário.
     \end{description}
-Além disso, deve-se deixar explícito que o voluntário pode parar os testes e a avaliação a qualquer minuto (Prates e Barbosa, 2003). Estas questões devem ser apresentadas em um documento, como um Termo de Consentimento, o qual deve ser assinado por um membro da equipe e pela pessoa convidada. O Termo de Consentimento Livre e Esclarecido usado neste processo de avaliação pode ser encontrado no Apêndice \ref{apnd:termo}.
+Além disso, deve-se deixar explícito que o voluntário pode parar os testes e a avaliação a qualquer minuto (Prates e Barbosa, 2003). Estas questões devem ser apresentadas em um documento, como um Termo de Consentimento, o qual deve ser assinado por um membro da equipe e pela pessoa convidada. O Termo de Consentimento Livre e Esclarecido usado neste processo de avaliação foi desenvolvido com base no modelo disponível pelo Comitê de Ética em Pesquisa da Pontifícia Universidade Católica do Rio Grande do Sul\footnote{Pontifícia Universidade Católica do Rio Grande do Sul. \emph{Comitê de Ética em Pesquisa - PUCRS - Portal}. Disponível online: http://www.pucrs.br/pesquisa/comites/cep/.} e na Resolução nº 466 do Ministério da Saúde\footnote{Ministério da Saúde. \emph{Aprova as diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos}. Resolução n. 466, de 12 de dezembro de 2012. Diário Oficial da União, Brasília, DF, 13 jun. 2013. Seção 1, p. 59. Disponível online: http://bvsms.saude.gov.br/bvs/saudelegis/cns/2013/res0466\_12\_12\_2012.html.} e pode ser encontrado no Apêndice \ref{apnd:termo}.
 \color{black}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  12 JUN 2017 11:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  12 JUN 2017 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1293,7 +1293,15 @@ File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
 \gtt@calendar@startofweek=\count167
 \gtt@left@slot=\count168
 \gtt@right@slot=\count169
-) (./main.aux (./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux)
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip79
+\enit@outerparindent=\dimen264
+\enit@toks=\toks42
+\enit@inbox=\box51
+\enitdp@description=\count170
+) (./main.aux
+(./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux)
 (./chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
 (./chapters/cap-modelagem.aux) (./chapters/cap-recursos-necessarios.aux)
 (./chapters/cap-desenvolvimento.aux) (./chapters/cap-avaliacao.aux)
@@ -1357,17 +1365,17 @@ LaTeX Font Info:    ... okay on input line 123.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count170
-\scratchdimen=\dimen264
-\scratchbox=\box51
-\nofMPsegments=\count171
-\nofMParguments=\count172
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count173
-\MPscratchDim=\dimen265
-\MPnumerator=\count174
-\makeMPintoPDFobject=\count175
-\everyMPtoPDFconversion=\toks43
+\scratchcounter=\count171
+\scratchdimen=\dimen265
+\scratchbox=\box52
+\nofMPsegments=\count172
+\nofMParguments=\count173
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count174
+\MPscratchDim=\dimen266
+\MPnumerator=\count175
+\makeMPintoPDFobject=\count176
+\everyMPtoPDFconversion=\toks44
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 123.
@@ -1451,7 +1459,7 @@ Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 123.
-\c@lstlisting=\count176
+\c@lstlisting=\count177
  ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 131.
@@ -1577,7 +1585,7 @@ Underfull \hbox (badness 10000) detected at line 13
 
 
 ]
-Overfull \hbox (0.28146pt too wide) in paragraph at lines 16--17
+Overfull \hbox (0.28146pt too wide) in paragraph at lines 16--18
 \T1/phv/m/n/12 po-si-ti-vos. WCAG (2015) pro-põe qua-tro prin-cí-pios que de-ve
 m ser ana-li-sa-dos ao desenvolver-
  []
@@ -1958,12 +1966,12 @@ LaTeX Warning: Reference `' on page 41 undefined on input line 56.
  (./chapters/cap-avaliacao.tex
 8.
 
-Underfull \hbox (badness 10000) detected at line 2
+Underfull \hbox (badness 10000) detected at line 1
 \T1/phv/b/n/14.4 8. 
  []
 
 
-Underfull \hbox (badness 10000) detected at line 10
+Underfull \hbox (badness 10000) detected at line 9
 \T1/phv/b/n/12 8.1
  []
 
@@ -1972,29 +1980,46 @@ Underfull \hbox (badness 10000) detected at line 10
 
 
 ]
-Underfull \hbox (badness 10000) detected at line 25
+Underfull \hbox (badness 10000) detected at line 24
 \T1/phv/b/n/12 8.2
  []
 
 [43]
-Overfull \hbox (6.12024pt too wide) in paragraph at lines 39--40
+Overfull \hbox (6.12024pt too wide) in paragraph at lines 38--39
 []\T1/phv/m/n/12 mensagens de erro
  []
 
 
 LaTeX Warning: Reference `apnd:form-questionario' on page 44 undefined on input
- line 43.
+ line 42.
 
-
-Underfull \hbox (badness 10000) detected at line 61
+[44]
+Underfull \hbox (badness 10000) detected at line 73
 \T1/phv/b/n/12 8.3
  []
 
-[44]
 
-LaTeX Warning: Reference `apnd:termo' on page 45 undefined on input line 70.
+Underfull \hbox (badness 4403) in paragraph at lines 82--82
+[][]\T1/phv/m/n/10 Ministério da Saúde. \T1/phv/m/sl/10 Aprova as di-re-tri-zes
+ e nor-mas re-gu-la-men-ta-do-ras de pes-qui-sas en-
+ []
 
-) [45]
+
+Underfull \hbox (badness 3690) in paragraph at lines 82--82
+\T1/phv/m/sl/10 vol-vendo se-res hu-ma-nos\T1/phv/m/n/10 . Re-so-lu-ção n. 466,
+ de 12 de de-zem-bro de 2012. Diá-rio Ofi-
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 82--82
+\T1/phv/m/n/10 cial da União, Bra-sí-lia, DF, 13 jun. 2013. Se-ção 1, p. 59. Di
+s-po-ní-vel on-line:
+ []
+
+
+LaTeX Warning: Reference `apnd:termo' on page 45 undefined on input line 82.
+
+) [45] [46]
 \openout2 = `chapters/cap-resultados.aux'.
 
  (./chapters/cap-resultados.tex
@@ -2004,7 +2029,7 @@ Underfull \hbox (badness 10000) detected at line 1
 \T1/phv/b/n/14.4 9. 
  []
 
-) [46
+) [47
 
 
 
@@ -2023,7 +2048,7 @@ Underfull \hbox (badness 10000) detected at line 7
 \T1/phv/b/n/12 10.1
  []
 
-) [47
+) [48
 
 
 
@@ -2040,15 +2065,15 @@ Underfull \hbox (badness 2521) in paragraph at lines 75--78
 []\T1/phv/m/n/12 GÖDERT, W.; HU-BRICH, J.;
  []
 
-[48
+[49
 
 
-] [49]
+] [50]
 Underfull \hbox (badness 1521) in paragraph at lines 159--165
 []\T1/phv/m/n/12 WICH, M.; KRA-MER, T. (2015).  Enhan-ced human-
  []
 
-) [50]
+) [51]
 \uppercase {Ap\^endice} A.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2056,19 +2081,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[51
+[52
 
-] [52] [53]
+] [53] [54]
 \uppercase {Ap\^endice} B.
-[54
-
-]
-\uppercase {Ap\^endice} C.
 [55
 
 ]
-\uppercase {Ap\^endice} D.
+\uppercase {Ap\^endice} C.
 [56
+
+]
+\uppercase {Ap\^endice} D.
+[57
 
 ] (./main.aux (./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux) (.
 /chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
@@ -2080,10 +2105,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21441 strings out of 493029
- 398716 string characters out of 6136235
- 483581 words of memory out of 5000000
- 24410 multiletter control sequences out of 15000+600000
+ 21728 strings out of 493029
+ 403595 string characters out of 6136235
+ 489712 words of memory out of 5000000
+ 24693 multiletter control sequences out of 15000+600000
  53851 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,65p,1393b,1013s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2095,10 +2120,10 @@ ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt
 sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (56 pages, 1802630 bytes).
+Output written on main.pdf (57 pages, 1804395 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
+ 244 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

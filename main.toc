@@ -51,11 +51,11 @@
 \contentsline {section}{\numberline {8.1}\MakeTextUppercase {Tarefas}}{42}
 \contentsline {section}{\numberline {8.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{43}
 \contentsline {section}{\numberline {8.3}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{45}
-\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{46}
-\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{47}
-\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{47}
-\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{48}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{51}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{54}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{55}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{56}
+\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{47}
+\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{48}
+\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{48}
+\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{49}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{52}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{55}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{56}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{57}

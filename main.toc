@@ -52,6 +52,8 @@
 \contentsline {section}{\numberline {8.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{43}
 \contentsline {section}{\numberline {8.3}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{45}
 \contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{47}
+\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{47}
+\contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{47}
 \contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{48}
 \contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{48}
 \contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{49}

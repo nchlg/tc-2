@@ -54,10 +54,11 @@
 \contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{47}
 \contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{47}
 \contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{47}
-\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{49}
-\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{49}
-\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{50}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{53}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{56}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{57}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{58}
+\contentsline {section}{\numberline {9.3}\MakeTextUppercase {Sugest\IeC {\~o}es e Melhorias}}{48}
+\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{50}
+\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{50}
+\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{51}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{54}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Desempenho do avaliador \#1 durante as tarefas}{57}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1}{58}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Avalia\IeC {\c c}\IeC {\~a}o do avaliador \#1 sumarizada}{59}

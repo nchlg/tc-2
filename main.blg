@@ -13,49 +13,57 @@ A level-1 auxiliary file: chapters/cap-resultados.aux
 A level-1 auxiliary file: chapters/cap-conclusao.aux
 The style file: prilike.bst
 Database file #1: exemplo-bib.bib
+I was expecting a `,' or a `}'---line 311 of file exemplo-bib.bib
+ :  
+ :  month={jun},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--empty publisher in AUDY2015
+Warning--empty year in MSR466
+Warning--empty institution in MSR466
 Warning--empty institution in IBGE2010
 Warning--empty institution in IBGE2011
 Warning--empty journal in MOURA2006
-You've used 31 entries,
+Warning--empty year in TCLECEP
+You've used 33 entries,
             1935 wiz_defined-function locations,
-            662 strings with 8391 characters,
-and the built_in function-call counts, 9980 in all, are:
-= -- 1024
-> -- 228
-< -- 38
-+ -- 72
-- -- 66
-* -- 644
-:= -- 1739
-add.period$ -- 93
-call.type$ -- 31
-change.case$ -- 179
-chr.to.int$ -- 31
-cite$ -- 35
-duplicate$ -- 488
-empty$ -- 774
-format.name$ -- 97
-if$ -- 2033
+            670 strings with 8577 characters,
+and the built_in function-call counts, 10475 in all, are:
+= -- 1074
+> -- 242
+< -- 40
++ -- 76
+- -- 70
+* -- 673
+:= -- 1836
+add.period$ -- 98
+call.type$ -- 33
+change.case$ -- 192
+chr.to.int$ -- 33
+cite$ -- 40
+duplicate$ -- 509
+empty$ -- 807
+format.name$ -- 103
+if$ -- 2124
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 31
-newline$ -- 149
-num.names$ -- 93
-pop$ -- 188
+newline$ -- 158
+num.names$ -- 99
+pop$ -- 201
 preamble$ -- 1
-purify$ -- 188
+purify$ -- 200
 quote$ -- 0
-skip$ -- 392
+skip$ -- 406
 stack$ -- 0
-substring$ -- 631
+substring$ -- 655
 swap$ -- 87
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 164
-warning$ -- 4
-while$ -- 88
+type$ -- 176
+warning$ -- 7
+while$ -- 92
 width$ -- 0
-write$ -- 383
-(There were 4 warnings)
+write$ -- 403
+(There was 1 error message)

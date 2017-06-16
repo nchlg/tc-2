@@ -36,6 +36,12 @@ CYBIS, W.~O., BETIOL, A.~H., e FAUST, R. (2015).
   aplicações}.
 \newblock {Novatec}, São Paulo.
 
+\bibitem[da~Saúde, ]{MSR466}
+da~Saúde, M.
+\newblock {Aprova as diretrizes e normas regulamentadoras de pesquisas
+  envolvendo seres humanos}.
+\newblock Technical report.
+
 \bibitem[{D'ATRI, E.; MEDAGLIA, C. M.; SERBANATI, A.; CEIPIDOR, U. B.; PANIZZI,
   E.; D'ATRI, A.}, 2007]{DATRI2007}
 {D'ATRI, E.; MEDAGLIA, C. M.; SERBANATI, A.; CEIPIDOR, U. B.; PANIZZI, E.;
@@ -138,6 +144,10 @@ DENHAM, J. (2011).
 \newblock Spatial learning using locomotion interface to virtual environment.
 \newblock In {\em IEEE Transactions on Learning Technologies, vol. 5, no. 2},
   pages 170--176. IEEE.
+
+\bibitem[PUCRS, ]{TCLECEP}
+PUCRS.
+\newblock {Comitê de Ética em Pesquisa - PUCRS - Portal}.
 
 \bibitem[{REYNARD, S.}, 1995]{REYNARD1995}
 {REYNARD, S.} (1995).

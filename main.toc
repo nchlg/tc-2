@@ -55,7 +55,7 @@
 \contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{47}
 \contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{47}
 \contentsline {section}{\numberline {9.3}\MakeTextUppercase {Sugest\IeC {\~o}es e Melhorias}}{48}
-\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Concluesss\IeC {\~o}es}}{50}
+\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{50}
 \contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{50}
 \contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{52}
 \contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{55}

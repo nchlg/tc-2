@@ -18,53 +18,53 @@ I was expecting a `,' or a `}'---line 311 of file exemplo-bib.bib
  :  month={jun},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "WEISS2000"
 Warning--empty publisher in AUDY2015
+Warning--empty institution in D5296
 Warning--empty year in MSR466
 Warning--empty institution in MSR466
 Warning--empty institution in IBGE2010
 Warning--empty institution in IBGE2011
 Warning--empty journal in MOURA2006
 Warning--empty year in TCLECEP
-You've used 33 entries,
+You've used 36 entries,
             1935 wiz_defined-function locations,
-            672 strings with 8595 characters,
-and the built_in function-call counts, 10475 in all, are:
-= -- 1074
-> -- 242
-< -- 40
-+ -- 76
-- -- 70
-* -- 673
-:= -- 1836
-add.period$ -- 98
-call.type$ -- 33
-change.case$ -- 192
-chr.to.int$ -- 33
-cite$ -- 40
-duplicate$ -- 509
-empty$ -- 807
-format.name$ -- 103
-if$ -- 2124
+            687 strings with 9176 characters,
+and the built_in function-call counts, 11266 in all, are:
+= -- 1153
+> -- 263
+< -- 43
++ -- 82
+- -- 76
+* -- 725
+:= -- 1990
+add.period$ -- 107
+call.type$ -- 36
+change.case$ -- 210
+chr.to.int$ -- 36
+cite$ -- 44
+duplicate$ -- 544
+empty$ -- 863
+format.name$ -- 112
+if$ -- 2273
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 31
-newline$ -- 158
-num.names$ -- 99
-pop$ -- 201
+missing$ -- 33
+newline$ -- 173
+num.names$ -- 108
+pop$ -- 215
 preamble$ -- 1
-purify$ -- 200
+purify$ -- 218
 quote$ -- 0
-skip$ -- 406
+skip$ -- 434
 stack$ -- 0
-substring$ -- 655
-swap$ -- 87
+substring$ -- 691
+swap$ -- 88
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 176
-warning$ -- 7
-while$ -- 92
+type$ -- 192
+warning$ -- 8
+while$ -- 98
 width$ -- 0
-write$ -- 403
+write$ -- 441
 (There was 1 error message)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  18 JUN 2017 00:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  18 JUN 2017 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1520,18 +1520,18 @@ Underfull \hbox (badness 10000) detected at line 1
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 17.
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 19.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 20.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
-Overfull \hbox (0.42195pt too wide) in paragraph at lines 30--31
+Overfull \hbox (0.42195pt too wide) in paragraph at lines 31--32
 []\T1/phv/m/n/12 Levando es-tes as-pec-tos em con-si-de-ra-ção, é no-tá-vel res
 -sal-tar que, no Bra-sil, 18,7%
  []
 
 
-Overfull \hbox (20.20073pt too wide) in paragraph at lines 30--31
+Overfull \hbox (20.20073pt too wide) in paragraph at lines 31--32
 \T1/phv/m/n/12 das pes-soas têm de-fi-ci-ên-cias vi-su-ais [[]].
  []
 
@@ -1540,7 +1540,7 @@ Overfull \hbox (20.20073pt too wide) in paragraph at lines 30--31
 
 
 ]
-Underfull \hbox (badness 10000) detected at line 37
+Underfull \hbox (badness 10000) detected at line 38
 \T1/phv/b/n/12 1.1
  []
 
@@ -1584,23 +1584,23 @@ Underfull \hbox (badness 10000) detected at line 3
  []
 
 
-Overfull \hbox (195.77365pt too wide) in paragraph at lines 9--10
+Overfull \hbox (195.77365pt too wide) in paragraph at lines 12--13
 \T1/phv/m/n/12 tros ur-ba-nos. Mais de $[]\OML/cmm/m/it/12 =[]$ \T1/phv/m/n/12 
 da po-pu-la-ção bra-si-leira vive em áreas ur-bana [[]]
  []
 
 
-Overfull \hbox (74.57187pt too wide) in paragraph at lines 9--10
+Overfull \hbox (74.57187pt too wide) in paragraph at lines 12--13
 \T1/phv/m/n/12 a Pes-quisa Na-ci-o-nal por Amos-tra de Do-mi-cí-lios [[]],
  []
 
 
-Underfull \hbox (badness 10000) detected at line 13
+Underfull \hbox (badness 10000) detected at line 16
 \T1/phv/b/n/12 3.2
  []
 
 
-Overfull \hbox (84.2678pt too wide) in paragraph at lines 14--15
+Overfull \hbox (84.2678pt too wide) in paragraph at lines 17--18
 \T1/phv/m/n/12 sis-tema mais tri-vial para grande parte da so-ci-e-dade. [[]]
  []
 
@@ -1608,164 +1608,165 @@ Overfull \hbox (84.2678pt too wide) in paragraph at lines 14--15
 
 
 
-]
-Underfull \hbox (badness 10000) detected at line 28
+] [15]
+Underfull \hbox (badness 10000) detected at line 31
 \T1/phv/m/n/12 3.2.1
  []
 
-[15]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 32.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 35.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) detected at line 38
+) [16]
+Underfull \hbox (badness 10000) detected at line 49
 \T1/phv/m/n/12 3.2.2
  []
 
-[16]
-Underfull \hbox (badness 10000) detected at line 47
+
+Underfull \hbox (badness 10000) detected at line 58
 \T1/phv/b/n/12 3.3
  []
 
-
-LaTeX Warning: Citation `WEISS2000' on page 17 undefined on input line 51.
-
-<pdf/ontology-weiss.pdf, id=61, 1055.945pt x 587.19376pt>
+[17] <pdf/ontology-weiss.pdf, id=64, 1055.945pt x 587.19376pt>
 File: pdf/ontology-weiss.pdf Graphic file (type pdf)
 
 <use pdf/ontology-weiss.pdf>
-Package pdftex.def Info: pdf/ontology-weiss.pdf used on input line 56.
+Package pdftex.def Info: pdf/ontology-weiss.pdf used on input line 67.
 (pdftex.def)             Requested size: 483.69687pt x 268.9745pt.
- [17] [18 <./pdf/ontology-weiss.pdf>]
-Underfull \hbox (badness 10000) detected at line 92
+ [18 <./pdf/ontology-weiss.pdf>] [19]
+Underfull \hbox (badness 10000) detected at line 103
 \T1/phv/m/n/12 3.3.1
  []
 
-[19]
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 97.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 108.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 97.
- <fig/protege1.png, id=76, 277.78781pt x 385.44pt>
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 108.
+[20] <fig/protege1.png, id=80, 277.78781pt x 385.44pt>
 File: fig/protege1.png Graphic file (type png)
  <use fig/protege1.png>
-Package pdftex.def Info: fig/protege1.png used on input line 106.
+Package pdftex.def Info: fig/protege1.png used on input line 117.
 (pdftex.def)             Requested size: 277.78711pt x 385.43906pt.
 
-[20]
-Underfull \hbox (badness 10000) detected at line 134
+[21 <./fig/protege1.png>]
+Underfull \hbox (badness 10000) detected at line 145
 \T1/phv/b/n/12 3.4
  []
 
-[21 <./fig/protege1.png>]
-Underfull \hbox (badness 10000) detected at line 142
+
+Underfull \hbox (badness 10000) detected at line 153
 \T1/phv/b/n/12 3.5
  []
 
 [22]
-Underfull \hbox (badness 10000) detected at line 147
+Underfull \hbox (badness 10000) detected at line 158
 \T1/phv/m/n/12 3.5.1
  []
 
 <fig/zomato1.PNG, id=87, 700.6175pt x 1003.75pt>
 File: fig/zomato1.PNG Graphic file (type png)
  <use fig/zomato1.PNG>
-Package pdftex.def Info: fig/zomato1.PNG used on input line 155.
+Package pdftex.def Info: fig/zomato1.PNG used on input line 166.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
 <fig/zomato4.PNG, id=88, 700.6175pt x 1003.75pt>
 File: fig/zomato4.PNG Graphic file (type png)
  <use fig/zomato4.PNG>
-Package pdftex.def Info: fig/zomato4.PNG used on input line 159.
+Package pdftex.def Info: fig/zomato4.PNG used on input line 170.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
 <fig/zomato3.PNG, id=89, 700.6175pt x 1003.75pt>
 File: fig/zomato3.PNG Graphic file (type png)
  <use fig/zomato3.PNG>
-Package pdftex.def Info: fig/zomato3.PNG used on input line 163.
+Package pdftex.def Info: fig/zomato3.PNG used on input line 174.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
  [23]
-Underfull \hbox (badness 10000) detected at line 166
+Underfull \hbox (badness 10000) detected at line 177
 \T1/phv/m/n/12 3.5.2
  []
 
 <fig/kapten1.jpeg, id=93, 72.27pt x 48.18pt>
 File: fig/kapten1.jpeg Graphic file (type jpg)
  <use fig/kapten1.jpeg>
-Package pdftex.def Info: fig/kapten1.jpeg used on input line 172.
+Package pdftex.def Info: fig/kapten1.jpeg used on input line 183.
 (pdftex.def)             Requested size: 338.58632pt x 225.78572pt.
-
-Underfull \hbox (badness 10000) detected at line 177
+ [24 <./fig/zomato1.PNG> <./fig/zomato4.PNG> <./fig/zomato3.PNG>]
+Underfull \hbox (badness 10000) detected at line 188
 \T1/phv/m/n/12 3.5.3
  []
 
-[24 <./fig/zomato1.PNG> <./fig/zomato4.PNG> <./fig/zomato3.PNG>]
-Underfull \hbox (badness 10000) detected at line 182
+
+Underfull \hbox (badness 10000) detected at line 193
 \T1/phv/m/n/12 3.5.4
  []
 
-
-Underfull \hbox (badness 10000) detected at line 187
+[25 <./fig/kapten1.jpeg>]
+Underfull \hbox (badness 10000) detected at line 198
 \T1/phv/m/n/12 3.5.5
  []
 
-[25 <./fig/kapten1.jpeg>]
-Underfull \hbox (badness 10000) detected at line 193
+
+Underfull \hbox (badness 10000) detected at line 204
 \T1/phv/m/n/12 3.5.6
  []
 
-<fig/gft1.png, id=101, 542.025pt x 927.465pt>
+[26] <fig/gft1.png, id=104, 542.025pt x 927.465pt>
 File: fig/gft1.png Graphic file (type png)
  <use fig/gft1.png>
-Package pdftex.def Info: fig/gft1.png used on input line 201.
+Package pdftex.def Info: fig/gft1.png used on input line 212.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-Underfull \hbox (badness 3343) in paragraph at lines 201--201
+Underfull \hbox (badness 3343) in paragraph at lines 212--212
 \T1/phv/m/n/10 rando o con-teúdo prin-ci-pal
  []
 
-<fig/gft3.png, id=102, 542.025pt x 927.465pt>
+<fig/gft3.png, id=105, 542.025pt x 927.465pt>
 File: fig/gft3.png Graphic file (type png)
  <use fig/gft3.png>
-Package pdftex.def Info: fig/gft3.png used on input line 205.
+Package pdftex.def Info: fig/gft3.png used on input line 216.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-<fig/gft5.png, id=103, 542.025pt x 927.465pt>
+<fig/gft5.png, id=106, 542.025pt x 927.465pt>
 File: fig/gft5.png Graphic file (type png)
  <use fig/gft5.png>
-Package pdftex.def Info: fig/gft5.png used on input line 209.
+Package pdftex.def Info: fig/gft5.png used on input line 220.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-Underfull \hbox (badness 10000) detected at line 212
+Underfull \hbox (badness 10000) detected at line 223
 \T1/phv/m/n/12 3.5.7
  []
 
-[26] <fig/tappy3.png, id=107, 542.025pt x 927.465pt>
+<fig/tappy3.png, id=107, 542.025pt x 927.465pt>
 File: fig/tappy3.png Graphic file (type png)
  <use fig/tappy3.png>
-Package pdftex.def Info: fig/tappy3.png used on input line 220.
+Package pdftex.def Info: fig/tappy3.png used on input line 231.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
 <fig/tappy4.png, id=108, 542.025pt x 927.465pt>
 File: fig/tappy4.png Graphic file (type png)
  <use fig/tappy4.png>
-Package pdftex.def Info: fig/tappy4.png used on input line 224.
+Package pdftex.def Info: fig/tappy4.png used on input line 235.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-Underfull \hbox (badness 1953) in paragraph at lines 224--224
+Underfull \hbox (badness 1953) in paragraph at lines 235--235
 []\T1/phv/m/n/10 (b) Des-cri-ção das re-fei-ções
  []
 
 <fig/tappy2.png, id=109, 542.025pt x 927.465pt>
 File: fig/tappy2.png Graphic file (type png)
  <use fig/tappy2.png>
-Package pdftex.def Info: fig/tappy2.png used on input line 228.
+Package pdftex.def Info: fig/tappy2.png used on input line 239.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
-) [27 <./fig/gft1.png> <./fig/gft3.png> <./fig/gft5.png>] [28 <./fig/tappy3.png
-> <./fig/tappy4.png> <./fig/tappy2.png>]
+ [27 <./fig/gft1.png> <./fig/gft3.png> <./fig/gft5.png>])
+Overfull \hbox (0.89468pt too wide) in paragraph at lines 242--189
+[]\T1/phv/m/n/12 Os apli-ca-ti-vos para dis-po-si-ti-vos mó-veis tes-ta-dos e a
+pre-sen-ta-dos nesta se-ção (3.5.1[]
+ []
+
+[28 <./fig/tappy3.png> <./fig/tappy4.png> <./fig/tappy2.png>]
 \openout2 = `chapters/cap-requisitos.aux'.
 
- (./chapters/cap-requisitos.tex
+
+(./chapters/cap-requisitos.tex
 4.
 
 Underfull \hbox (badness 10000) detected at line 1
@@ -1845,12 +1846,12 @@ Underfull \hbox (badness 10000) detected at line 55
 \T1/phv/m/n/12 5.3.2
  []
 
-
+[33]
 Underfull \hbox (badness 10000) detected at line 61
 \T1/phv/m/n/12 5.3.3
  []
 
-[33]
+
 Underfull \hbox (badness 10000) detected at line 67
 \T1/phv/m/n/12 5.3.4
  []
@@ -1886,17 +1887,18 @@ Underfull \hbox (badness 10000) detected at line 91
 \T1/phv/b/n/12 5.6
  []
 
-) [35 <./pdf/fluxograma-usuario.pdf>]
+) [35 <./pdf/fluxograma-usuario.pdf>] [36]
 \openout2 = `chapters/cap-recursos-necessarios.aux'.
 
- (./chapters/cap-recursos-necessarios.tex
+
+(./chapters/cap-recursos-necessarios.tex
 6.
 
 Underfull \hbox (badness 10000) detected at line 1
 \T1/phv/b/n/14.4 6. 
  []
 
-) [36
+) [37
 
 
 
@@ -1915,13 +1917,13 @@ Underfull \hbox (badness 10000) detected at line 6
 \T1/phv/b/n/12 7.1
  []
 
-[37
+[38
 
 
 
 ]
 
-LaTeX Warning: Reference `' on page 38 undefined on input line 27.
+LaTeX Warning: Reference `' on page 39 undefined on input line 27.
 
 
 Underfull \hbox (badness 10000) detected at line 31
@@ -1929,20 +1931,20 @@ Underfull \hbox (badness 10000) detected at line 31
  []
 
 
-LaTeX Warning: Reference `figura' on page 38 undefined on input line 35.
+LaTeX Warning: Reference `figura' on page 39 undefined on input line 35.
 
 
-LaTeX Warning: Reference `' on page 38 undefined on input line 35.
+LaTeX Warning: Reference `' on page 39 undefined on input line 35.
 
-[38]
+[39]
 
-LaTeX Warning: Reference `figura' on page 39 undefined on input line 37.
-
-
-LaTeX Warning: Reference `' on page 39 undefined on input line 39.
+LaTeX Warning: Reference `figura' on page 40 undefined on input line 37.
 
 
-LaTeX Warning: Reference `' on page 39 undefined on input line 41.
+LaTeX Warning: Reference `' on page 40 undefined on input line 39.
+
+
+LaTeX Warning: Reference `' on page 40 undefined on input line 41.
 
 
 Underfull \hbox (badness 10000) detected at line 43
@@ -1950,31 +1952,31 @@ Underfull \hbox (badness 10000) detected at line 43
  []
 
 
-LaTeX Warning: Reference `' on page 39 undefined on input line 45.
+LaTeX Warning: Reference `' on page 40 undefined on input line 45.
 
 
-LaTeX Warning: Reference `' on page 39 undefined on input line 45.
+LaTeX Warning: Reference `' on page 40 undefined on input line 45.
 
-[39]
+[40]
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 54.
-
-
-LaTeX Warning: Reference `' on page 40 undefined on input line 54.
+LaTeX Warning: Reference `' on page 41 undefined on input line 54.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 54.
+LaTeX Warning: Reference `' on page 41 undefined on input line 54.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 56.
+LaTeX Warning: Reference `' on page 41 undefined on input line 54.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 56.
+LaTeX Warning: Reference `' on page 41 undefined on input line 56.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 56.
+LaTeX Warning: Reference `' on page 41 undefined on input line 56.
 
-) [40]
+
+LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+
+) [41]
 \openout2 = `chapters/cap-avaliacao.aux'.
 
  (./chapters/cap-avaliacao.tex
@@ -1989,7 +1991,7 @@ Underfull \hbox (badness 10000) detected at line 9
 \T1/phv/b/n/12 8.1
  []
 
-[41
+[42
 
 
 
@@ -1998,24 +2000,24 @@ Underfull \hbox (badness 10000) detected at line 24
 \T1/phv/b/n/12 8.2
  []
 
-[42]
+[43]
 Overfull \hbox (6.12024pt too wide) in paragraph at lines 38--39
 []\T1/phv/m/n/12 mensagens de erro
  []
 
 
-LaTeX Warning: Reference `apnd:form-questionario' on page 43 undefined on input
+LaTeX Warning: Reference `apnd:form-questionario' on page 44 undefined on input
  line 42.
 
-[43]
-Underfull \hbox (badness 10000) detected at line 74
+[44]
+Underfull \hbox (badness 10000) detected at line 73
 \T1/phv/b/n/12 8.3
  []
 
 
-LaTeX Warning: Reference `apnd:termo' on page 44 undefined on input line 83.
+LaTeX Warning: Reference `apnd:termo' on page 45 undefined on input line 82.
 
-) [44] [45]
+) [45] [46]
 \openout2 = `chapters/cap-resultados.aux'.
 
  (./chapters/cap-resultados.tex
@@ -2035,7 +2037,7 @@ Underfull \hbox (badness 10000) detected at line 13
 \T1/phv/b/n/12 9.2
  []
 
-[46
+[47
 
 
 
@@ -2044,7 +2046,7 @@ Underfull \hbox (badness 10000) detected at line 21
 \T1/phv/b/n/12 9.3
  []
 
-[47]) [48]
+[48]) [49]
 \openout2 = `chapters/cap-conclusao.aux'.
 
  (./chapters/cap-conclusao.tex
@@ -2059,32 +2061,32 @@ Underfull \hbox (badness 10000) detected at line 12
 \T1/phv/b/n/12 10.1
  []
 
-[49
+[50
 
 
 
-]) [50] (./main.bbl
+]) [51] (./main.bbl
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
 (Font)              Font shape `TS1/phv/m/sl' tried instead on input line 13.
 
-Overfull \hbox (39.99405pt too wide) in paragraph at lines 47--53
+Overfull \hbox (39.99405pt too wide) in paragraph at lines 57--63
 []
  []
 
-[51
+[52
 
 
 ]
-Underfull \hbox (badness 2521) in paragraph at lines 81--84
+Underfull \hbox (badness 2521) in paragraph at lines 91--94
 []\T1/phv/m/n/12 GÖDERT, W.; HU-BRICH, J.;
  []
 
-[52]
-Underfull \hbox (badness 1521) in paragraph at lines 169--175
+[53]
+Underfull \hbox (badness 1521) in paragraph at lines 189--195
 []\T1/phv/m/n/12 WICH, M.; KRA-MER, T. (2015).  Enhan-ced human-
  []
 
-) [53]
+) [54]
 \uppercase {Ap\^endice} A.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2092,19 +2094,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54
+[55
 
-] [55] [56]
+] [56] [57]
 \uppercase {Ap\^endice} B.
-[57
-
-]
-\uppercase {Ap\^endice} C.
 [58
 
 ]
-\uppercase {Ap\^endice} D.
+\uppercase {Ap\^endice} C.
 [59
+
+]
+\uppercase {Ap\^endice} D.
+[60
 
 ] (./main.aux (./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux) (.
 /chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
@@ -2116,11 +2118,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21746 strings out of 493029
- 403943 string characters out of 6136235
- 490103 words of memory out of 5000000
- 24707 multiletter control sequences out of 15000+600000
- 53851 words of font info for 83 fonts, out of 8000000 for 9000
+ 21752 strings out of 493029
+ 404022 string characters out of 6136235
+ 490184 words of memory out of 5000000
+ 24713 multiletter control sequences out of 15000+600000
+ 54164 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,65p,1468b,1013s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
@@ -2131,10 +2133,10 @@ ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt
 sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (59 pages, 1813386 bytes).
+Output written on main.pdf (60 pages, 1817472 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
+ 253 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

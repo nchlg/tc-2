@@ -19,6 +19,16 @@
   Bioinformatics and Bioengineering}, BIBE '01, pages 230--, Washington, DC,
   EUA. IEEE Computer Society.
 
+\bibitem[Brasil, 2004]{D5296}
+Brasil (2004).
+\newblock Decreto nº 5.296.
+\newblock Technical report, Brasília, DF.
+\newblock Regulamenta as Leis nos 10.048, de 8 de novembro de 2000, que dá
+  prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de
+  dezembro de 2000, que estabelece normas gerais e critérios básicos para a
+  promoção da acessibilidade das pessoas portadoras de deficiência ou com
+  mobilidade reduzida, e dá outras providências.
+
 \bibitem[{CAMPOS, M.}, 2015]{CAMPOS2015}
 {CAMPOS, M.} (2015).
 \newblock {Projeto Metodologia de Avaliação de Videojogos Multimodais para
@@ -164,6 +174,16 @@ PUCRS.
 \newblock {A socio-technical framework for Internet-of-Things design: A
   human-centered design for the Internet of Things}.
 \newblock {\em Telematics and Informatics}, 31(4):519--531.
+
+\bibitem[W3C, 2016]{W3C20}
+W3C (2016).
+\newblock Introduction to understanding wcag 2.0.
+
+\bibitem[{WEISS, G. (ed.)}, 2000]{WEISS1999}
+{WEISS, G. (ed.)} (2000).
+\newblock {\em Multiagent Systems: A Modern Approach to Distributed Artificial
+  Intelligence}.
+\newblock {The MIT Press}, Estados Unidos.
 
 \bibitem[{WICH, M.; KRAMER, T.}, 2015]{WICH2015}
 {WICH, M.; KRAMER, T.} (2015).

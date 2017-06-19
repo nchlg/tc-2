@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  18 JUN 2017 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  19 JUN 2017 01:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1757,7 +1757,7 @@ File: fig/tappy2.png Graphic file (type png)
 Package pdftex.def Info: fig/tappy2.png used on input line 239.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
  [27 <./fig/gft1.png> <./fig/gft3.png> <./fig/gft5.png>])
-Overfull \hbox (0.89468pt too wide) in paragraph at lines 242--189
+Overfull \hbox (0.89468pt too wide) in paragraph at lines 242--190
 []\T1/phv/m/n/12 Os apli-ca-ti-vos para dis-po-si-ti-vos mó-veis tes-ta-dos e a
 pre-sen-ta-dos nesta se-ção (3.5.1[]
  []
@@ -2057,7 +2057,7 @@ Underfull \hbox (badness 10000) detected at line 1
  []
 
 
-Underfull \hbox (badness 10000) detected at line 12
+Underfull \hbox (badness 10000) detected at line 11
 \T1/phv/b/n/12 10.1
  []
 
@@ -2094,34 +2094,127 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+LaTeX Warning: Float too large for page by 1065.69315pt on input line 395.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 438.
+
 [55
 
-] [56] [57]
+] [56] [57] [58] [59] [60]
 \uppercase {Ap\^endice} B.
-[58
 
-]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 1049.92464pt on input line 619.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 662.
+
+[61
+
+] [62] [63] [64] [65] [66]
 \uppercase {Ap\^endice} C.
-[59
 
-]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 1055.19121pt on input line 844.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 888.
+
+[67
+
+] [68] [69] [70] [71] [72]
 \uppercase {Ap\^endice} D.
-[60
 
-] (./main.aux (./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux) (.
-/chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
-(./chapters/cap-modelagem.aux) (./chapters/cap-recursos-necessarios.aux)
-(./chapters/cap-desenvolvimento.aux) (./chapters/cap-avaliacao.aux)
-(./chapters/cap-resultados.aux) (./chapters/cap-conclusao.aux))
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 1060.36427pt on input line 1069.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1112.
+
+[73
+
+] [74] [75] [76] [77] [78]
+\uppercase {Ap\^endice} E.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 1060.36427pt on input line 1293.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1336.
+
+[79
+
+] [80] [81] [82] [83] [84]
+\uppercase {Ap\^endice} F.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 1060.36427pt on input line 1518.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1561.
+
+[85
+
+] [86] [87] [88] [89] [90] (./main.aux (./chapters/cap-introducao.aux)
+(./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
+(./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
+(./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
+(./chapters/cap-avaliacao.aux) (./chapters/cap-resultados.aux)
+(./chapters/cap-conclusao.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 21752 strings out of 493029
- 404022 string characters out of 6136235
- 490184 words of memory out of 5000000
- 24713 multiletter control sequences out of 15000+600000
+ 21836 strings out of 493029
+ 405235 string characters out of 6136235
+ 600268 words of memory out of 5000000
+ 24797 multiletter control sequences out of 15000+600000
  54164 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,65p,1468b,1013s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2133,10 +2226,10 @@ ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt
 sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (60 pages, 1817472 bytes).
+Output written on main.pdf (90 pages, 1909879 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 350 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

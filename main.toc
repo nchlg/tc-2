@@ -58,8 +58,8 @@
 \contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{50}
 \contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{52}
 \contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{55}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#2}{61}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#3}{67}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#4}{73}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#5}{79}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#6}{85}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#2}{63}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#3}{71}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#4}{79}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#5}{86}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#6}{94}

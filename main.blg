@@ -11,7 +11,7 @@ A level-1 auxiliary file: chapters/cap-desenvolvimento.aux
 A level-1 auxiliary file: chapters/cap-avaliacao.aux
 A level-1 auxiliary file: chapters/cap-resultados.aux
 A level-1 auxiliary file: chapters/cap-conclusao.aux
-The style file: prilike.bst
+The style file: tcc-alpha-full.bst
 Database file #1: exemplo-bib.bib
 I was expecting a `,' or a `}'---line 311 of file exemplo-bib.bib
  :  
@@ -20,41 +20,41 @@ I was expecting a `,' or a `}'---line 311 of file exemplo-bib.bib
 I'm skipping whatever remains of this entry
 Warning--empty publisher in AUDY2015
 Warning--empty institution in D5296
-Warning--empty year in MSR466
-Warning--empty institution in MSR466
 Warning--empty institution in IBGE2010
 Warning--empty institution in IBGE2011
+Warning--empty year in MSR466
+Warning--empty institution in MSR466
 Warning--empty journal in MOURA2006
 You've used 35 entries,
             1935 wiz_defined-function locations,
-            683 strings with 9109 characters,
-and the built_in function-call counts, 11032 in all, are:
-= -- 1129
-> -- 256
-< -- 42
-+ -- 80
-- -- 74
-* -- 712
-:= -- 1944
+            682 strings with 9113 characters,
+and the built_in function-call counts, 10966 in all, are:
+= -- 1124
+> -- 245
+< -- 43
++ -- 76
+- -- 70
+* -- 702
+:= -- 1932
 add.period$ -- 105
 call.type$ -- 35
-change.case$ -- 204
+change.case$ -- 202
 chr.to.int$ -- 35
 cite$ -- 42
 duplicate$ -- 534
 empty$ -- 848
-format.name$ -- 109
-if$ -- 2230
+format.name$ -- 105
+if$ -- 2219
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 33
 newline$ -- 169
 num.names$ -- 105
-pop$ -- 209
+pop$ -- 206
 preamble$ -- 1
-purify$ -- 212
+purify$ -- 210
 quote$ -- 0
-skip$ -- 427
+skip$ -- 428
 stack$ -- 0
 substring$ -- 679
 swap$ -- 88

@@ -5,7 +5,7 @@ O desenvolvimento do sistema pode ser dividido em duas partes: o desenvolvimento
 
 \section{Ontologia de Cardápio}
 
-Apesar de haver algumas ontologias de comida ou restaurantes já desenvolvidas, optou-se pela criação de uma ontologia própria que condizesse com o escopo do trabalho. Para a construção desta ontologia para cardápios, foram usadas como base outras ontologias relacionadas a comidas. A principal influência foi uma ontologia de pizza desenvolvida pela universidade de Stanford\footnote{http://protege.stanford.edu/ontologies/pizza/pizza.owl}, uma vez que um cardápio é composto por diversos produtos que apresentam atributos semelhantes ao de uma pizza. Voltaremos a falar desses atributos nos próximos parágrafos.
+Apesar de haver algumas ontologias de comida ou restaurantes já desenvolvidas, optou-se pela criação de uma ontologia própria que condizesse com o escopo do trabalho (\ref{apnd:ontologia}). Para a construção desta ontologia para cardápios, foram usadas como base outras ontologias relacionadas a comidas. A principal influência foi uma ontologia de pizza desenvolvida pela universidade de Stanford\footnote{http://protege.stanford.edu/ontologies/pizza/pizza.owl}, uma vez que um cardápio é composto por diversos produtos que apresentam atributos semelhantes ao de uma pizza. Voltaremos a falar desses atributos nos próximos parágrafos.
 
 A estrutura da ontologia é dividida em duas partições iniciais: \emph{Partição Domínio} e \emph{Partição Valor}. Dentro da partição de domínio, encontram-se os \emph{produtos} e os \emph{ingredientes}, os quais serão atribuídos aos produtos do cardápio. Os produtos da aplicação referem-se aos produtos do cardápio em si e é dentro desta classe que as informações essenciais a nossa aplicação estão armazenadas. Cada produto apresenta ou herda as seguintes propriedades:
 \begin{itemize}
@@ -24,8 +24,9 @@ A estrutura da ontologia é dividida em duas partições iniciais: \emph{Partiç
 
 Já a partição de valor é composta pelas classes \emph{Gorduras} e \emph{Nível de Sal}, representando todas as propriedades que podem ser compostas por uma gradação de valores. Cada uma dessas classes apresentam três subclasses que condizem à intensidade destas propriedades em um produto. Desta forma, o nível de sal de uma determinada comida pode ser indicado com um dos três níveis criados na ontologia, sendo eles: \emph{pouco salgado}, \emph{meio salgado} e \emph{salgado}. Para a indicação desta propriedade no produto, criou-se a propriedade \emph{temSal} cujo domínio é uma classe do tipo Produto e o alcance é uma classe do tipo Nível de Sal. 
 
-Para gerar relações entre classes e propriedades, foram criadas \emph{propriedades de objeto} e \emph{propriedades de dados}. As propriedades de objeto são utilizadas quando tanto o domínio quanto o alcance da expressão são classes da ontologia; já as propriedades de dados aplicam-se quando o alcance é composto por um tipo de dado, como um \emph{value} ou um \emph{boolean}. As propriedades e suas relações com a classe Produto são demonstradas a seguir, na figura\ref{}.
+Para gerar relações entre classes e propriedades, foram criadas \emph{propriedades de objeto} e \emph{propriedades de dados}. As propriedades de objeto são utilizadas quando tanto o domínio quanto o alcance da expressão são classes da ontologia; já as propriedades de dados aplicam-se quando o alcance é composto por um tipo de dado, como um \emph{value} ou um \emph{boolean}. As propriedades e suas relações com a classe Produto são demonstradas a seguir, na Figura \ref{}.
 \begin{figure}
+	
 \end{figure}
 
 \section{Integração da Ontologia com a Aplicação}

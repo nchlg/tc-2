@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  20 JUN 2017 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  20 JUN 2017 20:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1562,8 +1562,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] (./main.toc [8
 
 ] [9]
-Overfull \hbox (1.41573pt too wide) detected at line 66
- []\T1/phv/b/n/12 102
+Overfull \hbox (1.41573pt too wide) detected at line 67
+ []\T1/phv/b/n/12 103
  []
 
 )
@@ -1592,7 +1592,7 @@ Overfull \hbox (0.42195pt too wide) in paragraph at lines 31--32
  []
 
 
-Overfull \hbox (20.20073pt too wide) in paragraph at lines 31--32
+Overfull \hbox (17.65674pt too wide) in paragraph at lines 31--32
 \T1/phv/m/n/12 das pes-soas têm de-fi-ci-ên-cias vi-su-ais [[]].
  []
 
@@ -1645,13 +1645,13 @@ Underfull \hbox (badness 10000) detected at line 3
  []
 
 
-Overfull \hbox (195.77365pt too wide) in paragraph at lines 12--13
+Overfull \hbox (193.22966pt too wide) in paragraph at lines 12--13
 \T1/phv/m/n/12 tros ur-ba-nos. Mais de $[]\OML/cmm/m/it/12 =[]$ \T1/phv/m/n/12 
 da po-pu-la-ção bra-si-leira vive em áreas ur-bana [[]]
  []
 
 
-Overfull \hbox (74.57187pt too wide) in paragraph at lines 12--13
+Overfull \hbox (72.02788pt too wide) in paragraph at lines 12--13
 \T1/phv/m/n/12 a Pes-quisa Na-ci-o-nal por Amos-tra de Do-mi-cí-lios [[]],
  []
 
@@ -1661,7 +1661,7 @@ Underfull \hbox (badness 10000) detected at line 16
  []
 
 
-Overfull \hbox (84.2678pt too wide) in paragraph at lines 17--18
+Overfull \hbox (81.72382pt too wide) in paragraph at lines 17--18
 \T1/phv/m/n/12 sis-tema mais tri-vial para grande parte da so-ci-e-dade. [[]]
  []
 
@@ -1987,55 +1987,55 @@ Underfull \hbox (badness 10000) detected at line 6
 LaTeX Warning: Reference `' on page 39 undefined on input line 27.
 
 
-Underfull \hbox (badness 10000) detected at line 31
+Underfull \hbox (badness 10000) detected at line 32
 \T1/phv/b/n/12 7.2
  []
 
 
-LaTeX Warning: Reference `figura' on page 39 undefined on input line 35.
+LaTeX Warning: Reference `figura' on page 39 undefined on input line 36.
 
 
-LaTeX Warning: Reference `' on page 39 undefined on input line 35.
+LaTeX Warning: Reference `' on page 39 undefined on input line 36.
 
 [39]
 
-LaTeX Warning: Reference `figura' on page 40 undefined on input line 37.
+LaTeX Warning: Reference `figura' on page 40 undefined on input line 38.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 39.
+LaTeX Warning: Reference `' on page 40 undefined on input line 40.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 41.
+LaTeX Warning: Reference `' on page 40 undefined on input line 42.
 
 
-Underfull \hbox (badness 10000) detected at line 43
+Underfull \hbox (badness 10000) detected at line 44
 \T1/phv/b/n/12 7.3
  []
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 45.
+LaTeX Warning: Reference `' on page 40 undefined on input line 46.
 
 
-LaTeX Warning: Reference `' on page 40 undefined on input line 45.
+LaTeX Warning: Reference `' on page 40 undefined on input line 46.
 
 [40]
 
-LaTeX Warning: Reference `' on page 41 undefined on input line 54.
+LaTeX Warning: Reference `' on page 41 undefined on input line 55.
 
 
-LaTeX Warning: Reference `' on page 41 undefined on input line 54.
+LaTeX Warning: Reference `' on page 41 undefined on input line 55.
 
 
-LaTeX Warning: Reference `' on page 41 undefined on input line 54.
+LaTeX Warning: Reference `' on page 41 undefined on input line 55.
 
 
-LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+LaTeX Warning: Reference `' on page 41 undefined on input line 57.
 
 
-LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+LaTeX Warning: Reference `' on page 41 undefined on input line 57.
 
 
-LaTeX Warning: Reference `' on page 41 undefined on input line 56.
+LaTeX Warning: Reference `' on page 41 undefined on input line 57.
 
 ) [41]
 \openout2 = `chapters/cap-avaliacao.aux'.
@@ -2245,131 +2245,99 @@ Underfull \hbox (badness 10000) detected at line 11
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
 (Font)              Font shape `TS1/phv/m/sl' tried instead on input line 13.
 
-Overfull \hbox (39.99405pt too wide) in paragraph at lines 57--63
+Overfull \hbox (36.65817pt too wide) in paragraph at lines 51--57
 []
  []
 
 [56
 
 
-]
-Underfull \hbox (badness 2521) in paragraph at lines 91--94
-[]\T1/phv/m/n/12 GÖDERT, W.; HU-BRICH, J.;
- []
-
-[57]
-Underfull \hbox (badness 1521) in paragraph at lines 185--191
-[]\T1/phv/m/n/12 WICH, M.; KRA-MER, T. (2015).  Enhan-ced human-
- []
-
-) [58]
+] [57]) [58]
 \uppercase {Ap\^endice} A.
-<./pdf/tcle.pdf, id=333, 598.235pt x 846.16125pt>
+[59
+
+]
+\uppercase {Ap\^endice} B.
+<./pdf/tcle.pdf, id=336, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf>
-Package pdftex.def Info: ./pdf/tcle.pdf used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf>
-Package pdftex.def Info: ./pdf/tcle.pdf used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- <./pdf/tcle.pdf, id=336, page=1, 598.235pt x 846.16125pt>
+ <./pdf/tcle.pdf, id=339, page=1, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [59
+ [60
 
 ]
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 219.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [60 <./pdf/tcle.pdf
-
-pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
- other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <./pdf/tcle.pdf, id=366, page=2, 598.235pt x 846.16125pt>
-File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf, page 2>
-Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 219.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
- <use ./pdf/tcle.pdf, page 2>
-Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 219.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf, page 2>
-Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 219.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
  [61 <./pdf/tcle.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <./pdf/tcle.pdf, id=371, page=3, 598.235pt x 846.16125pt>
+>] <./pdf/tcle.pdf, id=370, page=2, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
-<use ./pdf/tcle.pdf, page 3>
-Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 219.
+<use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
- <use ./pdf/tcle.pdf, page 3>
-Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 219.
+ <use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
-<use ./pdf/tcle.pdf, page 3>
-Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 219.
+<use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 222.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
  [62 <./pdf/tcle.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] <./pdf/tcle.pdf, id=374, page=3, 598.235pt x 846.16125pt>
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 3>
+Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 222.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+ <use ./pdf/tcle.pdf, page 3>
+Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 222.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 3>
+Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 222.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+ [63 <./pdf/tcle.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
+ other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-\uppercase {Ap\^endice} B.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[63
-
-] [64] [65]
-Underfull \vbox (badness 10000) detected at line 408
- []
-
-[66
-
-] [67] [68]
-
-LaTeX Warning: Float too large for page by 25.68369pt on input line 452.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[69] [70]
 \uppercase {Ap\^endice} C.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2380,22 +2348,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[71
+[64
 
-] [72] [73]
-Underfull \vbox (badness 10000) detected at line 640
+] [65] [66]
+Underfull \vbox (badness 10000) detected at line 411
  []
 
-[74
+[67
 
-] [75] [76]
+] [68] [69]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 684.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 455.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[77] [78]
+[70] [71]
 \uppercase {Ap\^endice} D.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2406,22 +2374,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[79
+[72
 
-] [80] [81]
-Underfull \vbox (badness 10000) detected at line 874
+] [73] [74]
+Underfull \vbox (badness 10000) detected at line 643
  []
 
-[82
+[75
 
-] [83] [84]
+] [76] [77]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 919.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 687.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[85] [86]
+[78] [79]
 \uppercase {Ap\^endice} E.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2432,28 +2400,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[87
+[80
 
-]
-
-LaTeX Warning: Text page 88 contains only floats.
-
-
-Overfull \vbox (4.3571pt too high) has occurred while \output is active []
-
-
-[88]
-Underfull \vbox (badness 10000) detected at line 1108
+] [81] [82]
+Underfull \vbox (badness 10000) detected at line 877
  []
 
-[89] [90] [91]
+[83
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 1152.
+] [84] [85]
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 922.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[92] [93]
+[86] [87]
 \uppercase {Ap\^endice} F.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2464,22 +2426,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[94
+[88
 
-] [95] [96]
-Underfull \vbox (badness 10000) detected at line 1341
+]
+
+LaTeX Warning: Text page 89 contains only floats.
+
+
+Overfull \vbox (4.3571pt too high) has occurred while \output is active []
+
+
+[89]
+Underfull \vbox (badness 10000) detected at line 1111
  []
 
-[97
+[90] [91] [92]
 
-] [98] [99]
-
-LaTeX Warning: Float too large for page by 25.68369pt on input line 1385.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1155.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[100] [101]
+[93] [94]
 \uppercase {Ap\^endice} G.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2490,28 +2458,54 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[102
+[95
+
+] [96] [97]
+Underfull \vbox (badness 10000) detected at line 1344
+ []
+
+[98
+
+] [99] [100]
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1388.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[101] [102]
+\uppercase {Ap\^endice} H.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[103
 
 ]
 
-LaTeX Warning: Text page 103 contains only floats.
+LaTeX Warning: Text page 104 contains only floats.
 
 
 Overfull \vbox (12.31306pt too high) has occurred while \output is active []
 
 
-[103]
-Underfull \vbox (badness 10000) detected at line 1574
+[104]
+Underfull \vbox (badness 10000) detected at line 1577
  []
 
-[104] [105] [106]
+[105] [106] [107]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 1618.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1621.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[107] [108] (./main.aux (./chapters/cap-introducao.aux)
+[108] [109] (./main.aux (./chapters/cap-introducao.aux)
 (./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
 (./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
 (./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
@@ -2522,10 +2516,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 22738 strings out of 493029
- 420017 string characters out of 6136235
- 564050 words of memory out of 5000000
- 25651 multiletter control sequences out of 15000+600000
+ 22739 strings out of 493029
+ 420033 string characters out of 6136235
+ 564068 words of memory out of 5000000
+ 25652 multiletter control sequences out of 15000+600000
  54164 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,19n,65p,1873b,1013s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2537,10 +2531,10 @@ ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt
 sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (108 pages, 2083343 bytes).
+Output written on main.pdf (109 pages, 2083916 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 359 compressed objects within 4 object streams
+ 555 PDF objects out of 1000 (max. 8388607)
+ 363 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 

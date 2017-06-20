@@ -1,25 +1,25 @@
 \begin{thebibliography}{}
 
-\bibitem[{ANDROID}, 2016]{DEVACCESS2016}
+\bibitem[{ANDROID} 2016]{DEVACCESS2016}
 {ANDROID} (2016).
 \newblock {Making Applications Accessible}.
 
-\bibitem[{ARVIDSSON, F.; FLYCHT-ERIKSSON, A.}, 2008]{ONTOLOGIAI}
+\bibitem[{ARVIDSSON, F.; FLYCHT-ERIKSSON, A.} 2008]{ONTOLOGIAI}
 {ARVIDSSON, F.; FLYCHT-ERIKSSON, A.} (2008).
 \newblock {Ontologies I}.
 
-\bibitem[{AUDY, J.}, 2015]{AUDY2015}
+\bibitem[{AUDY, J.} 2015]{AUDY2015}
 {AUDY, J.} (2015).
 \newblock {\em Toolbox 360°}.
 
-\bibitem[{BOURBAKIS, N. G.; KAVRAKI, D.}, 2001]{BOURBAKIS2001}
+\bibitem[{BOURBAKIS, N. G.; KAVRAKI, D.} 2001]{BOURBAKIS2001}
 {BOURBAKIS, N. G.; KAVRAKI, D.} (2001).
 \newblock An intelligent assistant for navigation of visually impaired people.
 \newblock In {\em Proceedings of the 2nd IEEE International Symposium on
   Bioinformatics and Bioengineering}, BIBE '01, pages 230--, Washington, DC,
   EUA. IEEE Computer Society.
 
-\bibitem[Brasil, 2004]{D5296}
+\bibitem[Brasil 2004]{D5296}
 Brasil (2004).
 \newblock Decreto nº 5.296.
 \newblock Technical report, Brasília, DF.
@@ -29,31 +29,25 @@ Brasil (2004).
   promoção da acessibilidade das pessoas portadoras de deficiência ou com
   mobilidade reduzida, e dá outras providências.
 
-\bibitem[{CAMPOS, M.}, 2015]{CAMPOS2015}
+\bibitem[{CAMPOS, M.} 2015]{CAMPOS2015}
 {CAMPOS, M.} (2015).
 \newblock {Projeto Metodologia de Avaliação de Videojogos Multimodais para
   Melhorar a Cognição em Pessoas com Deficiência Visual – Fase 2}.
 \newblock Projeto Institucional. PUCRS.
 
-\bibitem[{COHN, M.}, 2004]{COHN2004}
+\bibitem[{COHN, M.} 2004]{COHN2004}
 {COHN, M.} (2004).
 \newblock {\em User Stories Applied: For Agile Software Development}.
 \newblock Addison-Wesley Professional.
 
-\bibitem[Cybis et~al., 2015]{ERGO2015}
-Cybis, W.~O., BETIOL, A.~H., e FAUST, R. (2015).
+\bibitem[{CYBIS, W. O.; BETIOL, A. H.; FAUST R.} 2015]{ERGO2015}
+{CYBIS, W. O.; BETIOL, A. H.; FAUST R.} (2015).
 \newblock {\em Ergonomia e Usabilidade: conhecimentos, métodos e
   aplicações}.
 \newblock {Novatec}, São Paulo.
 
-\bibitem[da~Saúde, ]{MSR466}
-da~Saúde, M.
-\newblock {Aprova as diretrizes e normas regulamentadoras de pesquisas
-  envolvendo seres humanos}.
-\newblock Technical report.
-
 \bibitem[{D'ATRI, E.; MEDAGLIA, C. M.; SERBANATI, A.; CEIPIDOR, U. B.; PANIZZI,
-  E.; D'ATRI, A.}, 2007]{DATRI2007}
+  E.; D'ATRI, A.} 2007]{DATRI2007}
 {D'ATRI, E.; MEDAGLIA, C. M.; SERBANATI, A.; CEIPIDOR, U. B.; PANIZZI, E.;
   D'ATRI, A.} (2007).
 \newblock A system to aid blind people in the mobility: A usability test and
@@ -61,57 +55,57 @@ da~Saúde, M.
 \newblock In {\em Systems 2007. ICONS '07. Second International Conference},
   pages 35--. IEEE Computer Society.
 
-\bibitem[DENHAM, 2011]{KAPTEN}
+\bibitem[DENHAM 2011]{KAPTEN}
 DENHAM, J. (2011).
 \newblock {Oh Kapten! My Kapten! Where am I?: A Review of the Kapten PLUS
   Personal Navigation Device}.
 
-\bibitem[{FRIESS, P.}, 2013]{FRIESS2013}
+\bibitem[{FRIESS, P.} 2013]{FRIESS2013}
 {FRIESS, P.} (2013).
 \newblock {\em Internet of Things: Converging Technologies for Smart
   Environments and Integrated Ecosystems}.
 \newblock River Publishers Series in Communications Series. River Publishers.
 
-\bibitem[{GIL, M.}, 2000]{TVESCOLA}
+\bibitem[{GIL, M.} 2000]{TVESCOLA}
 {GIL, M.} (2000).
 \newblock {\em Deficiência Visual}.
 \newblock MEC. Secretaria de Educação a Distância, Brasília.
 
-\bibitem[{GOOGLE}, 2016]{TALKB2016}
+\bibitem[{GOOGLE} 2016]{TALKB2016}
 {GOOGLE} (2016).
 \newblock {Começar a utilizar o Android com o TalkBack}.
 
-\bibitem[{GROSS, J. M.; MCINNIS, K. R.}, 2003]{GROSS2003}
+\bibitem[{GROSS, J. M.; MCINNIS, K. R.} 2003]{GROSS2003}
 {GROSS, J. M.; MCINNIS, K. R.} (2003).
 \newblock {\em Kanban Made Simple: Desmystifying and Applying Toyota's
   Legendary Manufacturing Process}.
 \newblock AMACOM.
 
-\bibitem[{GÖDERT, W.; HUBRICH, J.; NAGELSCHMIDT, M.}, 2014]{godert2014}
+\bibitem[{GÖDERT, W.; HUBRICH, J.; NAGELSCHMIDT, M.} 2014]{godert2014}
 {GÖDERT, W.; HUBRICH, J.; NAGELSCHMIDT, M.} (2014).
 \newblock {\em Semantic knowledge representation for information retrieval}.
 \newblock {Walter de Gruyter GmbH}, Berlin.
 
-\bibitem[{HERSH, M. e JOHNSON, M. A.}, 2010]{HERSH2010ASSISTIVE}
+\bibitem[{HERSH, M. e JOHNSON, M. A.} 2010]{HERSH2010ASSISTIVE}
 {HERSH, M. e JOHNSON, M. A.} (2010).
 \newblock {\em Assistive Technology for Visually Impaired and Blind People}.
 \newblock {Springer London}.
 
-\bibitem[{Instituto Brasileiro de Geografia e Estatística (ed.)},
+\bibitem[{Instituto Brasileiro de Geografia e Estatística (ed.)}
   2010]{IBGE2010}
 {Instituto Brasileiro de Geografia e Estatística (ed.)} (2010).
 \newblock Censo demográfico 2010: características gerais da população,
   religião e pessoas com deficiência.
 \newblock Technical report, Rio de Janeiro, RJ, Brasil.
 
-\bibitem[{Instituto Brasileiro de Geografia e Estatística (ed.)},
+\bibitem[{Instituto Brasileiro de Geografia e Estatística (ed.)}
   2011]{IBGE2011}
 {Instituto Brasileiro de Geografia e Estatística (ed.)} (2011).
 \newblock {Censo demográfico 2010: características da população e dos
   domicílios. Resultados do universo}.
 \newblock Technical report, Rio de Janeiro, RJ, Brasil.
 
-\bibitem[{Instituto Brasileiro de Geografia e Estatística (ed.)},
+\bibitem[{Instituto Brasileiro de Geografia e Estatística (ed.)}
   2016]{PNAD2014}
 {Instituto Brasileiro de Geografia e Estatística (ed.)} (2016).
 \newblock {\em Pesquisa Nacional por Amostra de Domicílios - Acesso à
@@ -119,69 +113,75 @@ DENHAM, J. (2011).
   2014}.
 \newblock {IBGE}, Rio de Janeiro.
 
-\bibitem[{KULYUKIN, V.; GHARPURE, C.; SUTE, P.}, 2002]{KULYUKIN2002}
+\bibitem[{KULYUKIN, V.; GHARPURE, C.; SUTE, P.} 2002]{KULYUKIN2002}
 {KULYUKIN, V.; GHARPURE, C.; SUTE, P.} (2002).
 \newblock An intelligent assistant for navigation of visually impaired people.
 \newblock In {\em IAAI Emerging Applications}, pages 864--869. American
   Association for Artificial Intelligence.
 
-\bibitem[{MAEDCHE, A. D.}, 2002]{MAEDCHE2002}
+\bibitem[{MAEDCHE, A. D.} 2002]{MAEDCHE2002}
 {MAEDCHE, A. D.} (2002).
 \newblock {\em Ontology learning for the semantic Web}.
 \newblock Kluwer Academic Publishers, Norwell, MA.
 
-\bibitem[{MOURA, G. R.; PEDRO, E. N. R.}, 2006]{MOURA2006}
+\bibitem[{Ministério da Saúde} ]{MSR466}
+{Ministério da Saúde}.
+\newblock {Aprova as diretrizes e normas regulamentadoras de pesquisas
+  envolvendo seres humanos}.
+\newblock Technical report.
+
+\bibitem[{MOURA, G. R.; PEDRO, E. N. R.} 2006]{MOURA2006}
 {MOURA, G. R.; PEDRO, E. N. R.} (2006).
 \newblock Adolescentes portadores de deficiência visual: Percepções sobre
   sexualidade.
 \newblock pages 220--226.
 
-\bibitem[{NIELSEN, J.}, 1995]{NIELSEN1995}
+\bibitem[{NIELSEN, J.} 1995]{NIELSEN1995}
 {NIELSEN, J.} (1995).
 \newblock {10 Usability Heuristics for User Interface Design}.
 
-\bibitem[{NOY, N. F.; MCGUINNESS, D. L.}, 2001]{NOY2001}
+\bibitem[{NOY, N. F.; MCGUINNESS, D. L.} 2001]{NOY2001}
 {NOY, N. F.; MCGUINNESS, D. L.} (2001).
 \newblock Ontology development 101: A guide to creating your first ontology.
 
-\bibitem[{PATCH, K; SPELLMAN, J.; WAHLBIN, K. (eds.)}, 2015]{WCAG20}
+\bibitem[{PATCH, K; SPELLMAN, J.; WAHLBIN, K. (eds.)} 2015]{WCAG20}
 {PATCH, K; SPELLMAN, J.; WAHLBIN, K. (eds.)} (2015).
 \newblock {Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines
   Apply to Mobile}.
 
-\bibitem[{PATEL, K. K.; VIJ, S.}, 2012]{PATEL2012}
+\bibitem[{PATEL, K. K.; VIJ, S.} 2012]{PATEL2012}
 {PATEL, K. K.; VIJ, S.} (2012).
 \newblock Spatial learning using locomotion interface to virtual environment.
 \newblock In {\em IEEE Transactions on Learning Technologies, vol. 5, no. 2},
   pages 170--176. IEEE.
 
-\bibitem[{REYNARD, S.}, 1995]{REYNARD1995}
+\bibitem[{REYNARD, S.} 1995]{REYNARD1995}
 {REYNARD, S.} (1995).
 \newblock {\em Flowcharts: Plain \& Simple}.
 \newblock Learning and application guides. Oriel Incorporated.
 
-\bibitem[{RIGON, L.}, 2016]{RIGON2016}
+\bibitem[{RIGON, L.} 2016]{RIGON2016}
 {RIGON, L.} (2016).
 \newblock {Huawei e PUCRS inauguram Centro de Inovação para Cidades
   Inteligentes}.
 
-\bibitem[{SHIN, D.}, 2014]{SHIN2014}
+\bibitem[{SHIN, D.} 2014]{SHIN2014}
 {SHIN, D.} (2014).
 \newblock {A socio-technical framework for Internet-of-Things design: A
   human-centered design for the Internet of Things}.
 \newblock {\em Telematics and Informatics}, 31(4):519--531.
 
-\bibitem[W3C, 2016]{W3C20}
+\bibitem[W3C 2016]{W3C20}
 W3C (2016).
 \newblock Introduction to understanding wcag 2.0.
 
-\bibitem[{WEISS, G. (ed.)}, 2000]{WEISS1999}
+\bibitem[{WEISS, G. (ed.)} 2000]{WEISS1999}
 {WEISS, G. (ed.)} (2000).
 \newblock {\em Multiagent Systems: A Modern Approach to Distributed Artificial
   Intelligence}.
 \newblock {The MIT Press}, Estados Unidos.
 
-\bibitem[{WICH, M.; KRAMER, T.}, 2015]{WICH2015}
+\bibitem[{WICH, M.; KRAMER, T.} 2015]{WICH2015}
 {WICH, M.; KRAMER, T.} (2015).
 \newblock Enhanced human-computer interaction for business applications on
   mobile devices: A design-oriented development of a usability evaluation
@@ -189,13 +189,13 @@ W3C (2016).
 \newblock In {\em 48th Hawaii International Conference on System Sciences},
   pages 472--481. IEEE Computer Society.
 
-\bibitem[{WINCKLER, M. A.; PIMENTA, M. S.}, 2002]{WINCKLER2002}
+\bibitem[{WINCKLER, M. A.; PIMENTA, M. S.} 2002]{WINCKLER2002}
 {WINCKLER, M. A.; PIMENTA, M. S.} (2002).
 \newblock Avaliação de usabilidade de sites web.
 \newblock In {\em Luciana Porcher Nedel (Org.). Escola de Informática da SBC
   SUl (ERI 2002)}, pages 85--137, Porto Alegre. SBC.
 
-\bibitem[{ZHIGANG, F.; TING, L.}, 2010]{ZHIGANG2010}
+\bibitem[{ZHIGANG, F.; TING, L.} 2010]{ZHIGANG2010}
 {ZHIGANG, F.; TING, L.} (2010).
 \newblock Audification-based electronic travel aid system.
 \newblock In {\em IAAI Emerging Applications}, pages 864--869. IEEE.

@@ -25,46 +25,45 @@ Warning--empty institution in MSR466
 Warning--empty institution in IBGE2010
 Warning--empty institution in IBGE2011
 Warning--empty journal in MOURA2006
-Warning--empty year in TCLECEP
-You've used 36 entries,
+You've used 35 entries,
             1935 wiz_defined-function locations,
-            687 strings with 9176 characters,
-and the built_in function-call counts, 11266 in all, are:
-= -- 1153
-> -- 263
-< -- 43
-+ -- 82
-- -- 76
-* -- 725
-:= -- 1990
-add.period$ -- 107
-call.type$ -- 36
-change.case$ -- 210
-chr.to.int$ -- 36
-cite$ -- 44
-duplicate$ -- 544
-empty$ -- 863
-format.name$ -- 112
-if$ -- 2273
+            683 strings with 9109 characters,
+and the built_in function-call counts, 11032 in all, are:
+= -- 1129
+> -- 256
+< -- 42
++ -- 80
+- -- 74
+* -- 712
+:= -- 1944
+add.period$ -- 105
+call.type$ -- 35
+change.case$ -- 204
+chr.to.int$ -- 35
+cite$ -- 42
+duplicate$ -- 534
+empty$ -- 848
+format.name$ -- 109
+if$ -- 2230
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 33
-newline$ -- 173
-num.names$ -- 108
-pop$ -- 215
+newline$ -- 169
+num.names$ -- 105
+pop$ -- 209
 preamble$ -- 1
-purify$ -- 218
+purify$ -- 212
 quote$ -- 0
-skip$ -- 434
+skip$ -- 427
 stack$ -- 0
-substring$ -- 691
+substring$ -- 679
 swap$ -- 88
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 192
-warning$ -- 8
-while$ -- 98
+type$ -- 186
+warning$ -- 7
+while$ -- 96
 width$ -- 0
-write$ -- 441
+write$ -- 432
 (There was 1 error message)

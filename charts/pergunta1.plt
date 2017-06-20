@@ -22,9 +22,9 @@ set style histogram cluster gap 1
 set style fill solid border -1
 set boxwidth 0.9
 
-set style line 1 lc rgbcolor '0xdb443f'
-set style line 2 lc rgbcolor '0x93733e'
-set style line 3 lc rgbcolor '0xFAA43A'
+set style line 1 lc rgbcolor '0x719386'
+set style line 2 lc rgbcolor '0xe07a5f'
+set style line 3 lc rgbcolor '0xccb7ae'
 set style line 4 lc rgbcolor '0x60BD68'
 set style line 5 lc rgbcolor '0xB2912F'
 set style line 6 lc rgbcolor '0xB276B2'
@@ -34,7 +34,7 @@ input_files = 'pergunta1.txt'
 output_files = 'pergunta1.pdf'
 
 #apps = "CG EP FT IS LU MG"
-usuario = '"Com deficiência visual" "Sem deficiência visual"'
+usuario = '"Avaliadores com deficiência visual" "Avaliadores sem deficiência visual"'
 
 set xlabel 'Tarefas'
 set ylabel 'Porcentagem (%)'

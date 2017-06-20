@@ -7,29 +7,28 @@
 # 0xB276B2 (purple)
 # 0xDECF3F (yellow)
 # 0xF15854 (red)
+# 0x719386 (verde-cinza)
+# 0xe07a5f (telha-cinza)
+# 0xe56439 (telha)
+# 0xccb7ae (rosa-cinza)
 
 reset
-set key outside center top
-#unset key
+#set key outside center top
+unset key
 set grid
-set auto x
+#set auto x
 #set auto y
-#set xrange[-0.5:6.]
+set xrange[-0.5:6.0]
 set yrange[0:6]
 #set offsets -0.5,-0.5,0,0
 
-# set style data histogram
-# set style histogram cluster gap 1
+set style data histogram
+set style histogram cluster gap 1
 set style fill solid 1.0 border -1
-set boxwidth 0.5
+set boxwidth 0.6
 
-#set style line 0 lc rgbcolor '0x5DA5DA'
-set style line 1 lc rgbcolor '0xFAA43A'
-set style line 2 lc rgbcolor '0x60BD68'
-set style line 3 lc rgbcolor '0xFAA43A'
-set style line 4 lc rgbcolor '0x60BD68'
-set style line 5 lc rgbcolor '0xB2912F'
-set style line 6 lc rgbcolor '0xB276B2'
+set style line 1 lc rgbcolor '0x719386'
+set style line 2 lc rgbcolor '0xe07a5f'
 
 input_files = 'questionario.txt'
 
@@ -46,5 +45,5 @@ set terminal pdfcairo enhanced color size 10,6 font ',24'
 
 do for [i=2:12]{
 	set output word(output_files,i-1)
-	plot input_files using ($0):i:($0):xticlabels(1) with boxes lc variable notitle
+	plot input_files using i:xticlabels(1) ls 2
 }

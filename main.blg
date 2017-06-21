@@ -11,59 +11,60 @@ A level-1 auxiliary file: chapters/cap-desenvolvimento.aux
 A level-1 auxiliary file: chapters/cap-avaliacao.aux
 A level-1 auxiliary file: chapters/cap-resultados.aux
 A level-1 auxiliary file: chapters/cap-conclusao.aux
-The style file: tcc-alpha-full.bst
+The style file: unsrt.bst
 Database file #1: exemplo-bib.bib
 I was expecting a `,' or a `}'---line 311 of file exemplo-bib.bib
  :  
  :  month={jun},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--empty publisher in AUDY2015
+Warning--empty institution in IBGE2011
+Warning--empty journal in MOURA2006
 Warning--empty institution in D5296
 Warning--empty institution in IBGE2010
-Warning--empty institution in IBGE2011
-Warning--empty year in MSR466
+Warning--empty institution in UFG2007
+Warning--empty publisher in AUDY2015
 Warning--empty institution in MSR466
-Warning--empty journal in MOURA2006
-You've used 35 entries,
-            1935 wiz_defined-function locations,
-            682 strings with 9113 characters,
-and the built_in function-call counts, 10966 in all, are:
-= -- 1124
-> -- 245
-< -- 43
-+ -- 76
-- -- 70
-* -- 702
-:= -- 1932
-add.period$ -- 105
-call.type$ -- 35
-change.case$ -- 202
-chr.to.int$ -- 35
-cite$ -- 42
-duplicate$ -- 534
-empty$ -- 848
-format.name$ -- 105
-if$ -- 2219
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 33
-newline$ -- 169
-num.names$ -- 105
-pop$ -- 206
+Warning--empty year in MSR466
+You've used 37 entries,
+            1791 wiz_defined-function locations,
+            670 strings with 9368 characters,
+and the built_in function-call counts, 6910 in all, are:
+= -- 665
+> -- 148
+< -- 9
++ -- 74
+- -- 37
+* -- 244
+:= -- 1005
+add.period$ -- 113
+call.type$ -- 37
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 45
+duplicate$ -- 391
+empty$ -- 812
+format.name$ -- 37
+if$ -- 1669
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 34
+newline$ -- 180
+num.names$ -- 37
+pop$ -- 200
 preamble$ -- 1
-purify$ -- 210
+purify$ -- 0
 quote$ -- 0
-skip$ -- 428
+skip$ -- 198
 stack$ -- 0
-substring$ -- 679
-swap$ -- 88
-text.length$ -- 8
+substring$ -- 285
+swap$ -- 114
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 186
-warning$ -- 7
-while$ -- 96
-width$ -- 0
-write$ -- 432
+type$ -- 0
+warning$ -- 8
+while$ -- 66
+width$ -- 39
+write$ -- 386
 (There was 1 error message)

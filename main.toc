@@ -6,62 +6,62 @@
 \contentsline {chapter}{\numberline {2}\MakeTextUppercase {Objetivos}}{13}
 \contentsline {section}{\numberline {2.1}\MakeTextUppercase {Objetivo Geral}}{13}
 \contentsline {section}{\numberline {2.2}\MakeTextUppercase {Objetivos Espec\IeC {\'\i }ficos}}{13}
-\contentsline {chapter}{\numberline {3}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o do Problema}}{14}
-\contentsline {section}{\numberline {3.1}\MakeTextUppercase {Cen\IeC {\'a}rio de Estudo e P\IeC {\'u}blico Alvo}}{14}
-\contentsline {section}{\numberline {3.2}\MakeTextUppercase {Acessibilidade, Ergonomia e Usabilidade em Aplica\IeC {\c c}\IeC {\~o}es M\IeC {\'o}veis}}{15}
-\contentsline {subsection}{\numberline {3.2.1}\MakeTextUppercase {Acessibilidade em Aplica\IeC {\c c}\IeC {\~o}es Android}}{16}
-\contentsline {subsection}{\numberline {3.2.2}\MakeTextUppercase {TalkBack}}{17}
-\contentsline {section}{\numberline {3.3}\MakeTextUppercase {Ontologia}}{18}
-\contentsline {subsection}{\numberline {3.3.1}\MakeTextUppercase {Criando uma Ontologia}}{20}
-\contentsline {section}{\numberline {3.4}\MakeTextUppercase {Internet das Coisas}}{22}
-\contentsline {section}{\numberline {3.5}\MakeTextUppercase {Trabalhos Similares}}{23}
-\contentsline {subsection}{\numberline {3.5.1}\MakeTextUppercase {Zomato}}{23}
-\contentsline {subsection}{\numberline {3.5.2}\MakeTextUppercase {Kapten PLUS - Dispositivo de Navega\IeC {\c c}\IeC {\~a}o Pessoal}}{24}
-\contentsline {subsection}{\numberline {3.5.3}\MakeTextUppercase {Um Assistente Inteligente para Navega\IeC {\c c}\IeC {\~a}o de Pessoas com Defici\IeC {\^e}ncia Visual}}{25}
-\contentsline {subsection}{\numberline {3.5.4}\MakeTextUppercase {Um Sistema Rob\IeC {\'o}tico para a Localiza\IeC {\c c}\IeC {\~a}o de Pessoas com Defici\IeC {\^e}ncia Visual}}{25}
-\contentsline {subsection}{\numberline {3.5.5}\MakeTextUppercase {AudioGuider - Sistema Eletr\IeC {\^o}nico para Aux\IeC {\'\i }lio em Viagens Baseado em Comandos de \IeC {\'A}udio}}{26}
-\contentsline {subsection}{\numberline {3.5.6}\MakeTextUppercase {Good Food Talks}}{26}
-\contentsline {subsection}{\numberline {3.5.7}\MakeTextUppercase {Tappy Menu}}{27}
-\contentsline {chapter}{\numberline {4}\MakeTextUppercase {Requisitos}}{29}
-\contentsline {section}{\numberline {4.1}\MakeTextUppercase {Requisitos Funcionais}}{29}
-\contentsline {section}{\numberline {4.2}\MakeTextUppercase {Requisitos N\IeC {\~a}o-Funcionais}}{29}
-\contentsline {chapter}{\numberline {5}\MakeTextUppercase {Modelagem}}{30}
-\contentsline {section}{\numberline {5.1}\MakeTextUppercase {Planejamento}}{31}
-\contentsline {section}{\numberline {5.2}\MakeTextUppercase {Personas}}{31}
-\contentsline {subsection}{\numberline {5.2.1}\MakeTextUppercase {Pessoa com Defici\IeC {\^e}ncia Visual em Busca de Restaurantes nas Proximidades}}{31}
-\contentsline {subsection}{\numberline {5.2.2}\MakeTextUppercase {Pessoa com Defici\IeC {\^e}ncia Visual em Viagem}}{32}
-\contentsline {subsection}{\numberline {5.2.3}\MakeTextUppercase {Algu\IeC {\'e}m que Convive com Pessoas com Defici\IeC {\^e}ncias Visuais}}{32}
-\contentsline {section}{\numberline {5.3}\MakeTextUppercase {Hist\IeC {\'o}rias de Usu\IeC {\'a}rio}}{33}
-\contentsline {subsection}{\numberline {5.3.1}\MakeTextUppercase {US01 -- Acessar o sistema}}{33}
-\contentsline {subsection}{\numberline {5.3.2}\MakeTextUppercase {US02 -- Buscar Restaurante}}{33}
-\contentsline {subsection}{\numberline {5.3.3}\MakeTextUppercase {US03 -- Acessar Card\IeC {\'a}pio}}{34}
-\contentsline {subsection}{\numberline {5.3.4}\MakeTextUppercase {US04 -- Filtrar Card\IeC {\'a}pio}}{34}
-\contentsline {subsection}{\numberline {5.3.5}\MakeTextUppercase {US05 -- Favoritar Restaurante}}{34}
-\contentsline {section}{\numberline {5.4}\MakeTextUppercase {Fluxograma}}{35}
-\contentsline {subsection}{\numberline {5.4.1}\MakeTextUppercase {Fluxo das Telas}}{36}
-\contentsline {section}{\numberline {5.5}\MakeTextUppercase {Modelo Conceitual do Banco de Dados}}{36}
-\contentsline {section}{\numberline {5.6}\MakeTextUppercase {Estrutura das Classes}}{36}
-\contentsline {chapter}{\numberline {6}\MakeTextUppercase {Recursos Necess\IeC {\'a}rios}}{37}
-\contentsline {chapter}{\numberline {7}\MakeTextUppercase {Desenvolvimento}}{38}
-\contentsline {section}{\numberline {7.1}\MakeTextUppercase {Ontologia de Card\IeC {\'a}pio}}{38}
-\contentsline {section}{\numberline {7.2}\MakeTextUppercase {Integra\IeC {\c c}\IeC {\~a}o da Ontologia com a Aplica\IeC {\c c}\IeC {\~a}o}}{40}
-\contentsline {section}{\numberline {7.3}\MakeTextUppercase {Aplica\IeC {\c c}\IeC {\~a}o}}{45}
-\contentsline {chapter}{\numberline {8}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o}}{46}
-\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Tarefas}}{46}
-\contentsline {section}{\numberline {8.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{47}
-\contentsline {section}{\numberline {8.3}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{49}
-\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{51}
-\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{51}
-\contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{53}
-\contentsline {section}{\numberline {9.3}\MakeTextUppercase {Sugest\IeC {\~o}es e Melhorias}}{56}
-\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{58}
-\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{58}
-\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{60}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Ontologia de Card\IeC {\'a}pio}{63}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Termo de Consentimento Livre e Esclarecido}{64}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{68}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#2}{76}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#3}{84}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#4}{92}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace G\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#5}{99}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace H\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#6}{107}
+\contentsline {chapter}{\numberline {3}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o do Problema}}{15}
+\contentsline {section}{\numberline {3.1}\MakeTextUppercase {Cen\IeC {\'a}rio de Estudo e P\IeC {\'u}blico Alvo}}{15}
+\contentsline {section}{\numberline {3.2}\MakeTextUppercase {Acessibilidade, Ergonomia e Usabilidade em Aplica\IeC {\c c}\IeC {\~o}es M\IeC {\'o}veis}}{16}
+\contentsline {subsection}{\numberline {3.2.1}\MakeTextUppercase {Acessibilidade em Aplica\IeC {\c c}\IeC {\~o}es Android}}{17}
+\contentsline {subsection}{\numberline {3.2.2}\MakeTextUppercase {TalkBack}}{18}
+\contentsline {section}{\numberline {3.3}\MakeTextUppercase {Ontologia}}{19}
+\contentsline {subsection}{\numberline {3.3.1}\MakeTextUppercase {Criando uma Ontologia}}{21}
+\contentsline {section}{\numberline {3.4}\MakeTextUppercase {Internet das Coisas}}{24}
+\contentsline {section}{\numberline {3.5}\MakeTextUppercase {Trabalhos Relacionados}}{25}
+\contentsline {subsection}{\numberline {3.5.1}\MakeTextUppercase {Zomato}}{25}
+\contentsline {subsection}{\numberline {3.5.2}\MakeTextUppercase {Kapten PLUS}}{26}
+\contentsline {subsection}{\numberline {3.5.3}\MakeTextUppercase {Um Assistente Inteligente para Navega\IeC {\c c}\IeC {\~a}o de Pessoas com Defici\IeC {\^e}ncia Visual}}{27}
+\contentsline {subsection}{\numberline {3.5.4}\MakeTextUppercase {Um Sistema Rob\IeC {\'o}tico para a Localiza\IeC {\c c}\IeC {\~a}o de Pessoas com Defici\IeC {\^e}ncia Visual}}{27}
+\contentsline {subsection}{\numberline {3.5.5}\MakeTextUppercase {AudioGuider}}{28}
+\contentsline {subsection}{\numberline {3.5.6}\MakeTextUppercase {Good Food Talks}}{28}
+\contentsline {subsection}{\numberline {3.5.7}\MakeTextUppercase {Tappy Menu}}{29}
+\contentsline {section}{\numberline {3.6}\MakeTextUppercase {Vis\IeC {\~a}o Geral das Aplica\IeC {\c c}\IeC {\~o}es}}{30}
+\contentsline {chapter}{\numberline {4}\MakeTextUppercase {Requisitos}}{31}
+\contentsline {section}{\numberline {4.1}\MakeTextUppercase {Requisitos Funcionais}}{31}
+\contentsline {section}{\numberline {4.2}\MakeTextUppercase {Requisitos N\IeC {\~a}o-Funcionais}}{31}
+\contentsline {chapter}{\numberline {5}\MakeTextUppercase {Modelagem}}{32}
+\contentsline {section}{\numberline {5.1}\MakeTextUppercase {Planejamento}}{33}
+\contentsline {section}{\numberline {5.2}\MakeTextUppercase {Personas}}{33}
+\contentsline {subsection}{\numberline {5.2.1}\MakeTextUppercase {Pessoa com Defici\IeC {\^e}ncia Visual em Busca de Restaurantes nas Proximidades}}{33}
+\contentsline {subsection}{\numberline {5.2.2}\MakeTextUppercase {Pessoa com Defici\IeC {\^e}ncia Visual em Viagem}}{34}
+\contentsline {subsection}{\numberline {5.2.3}\MakeTextUppercase {Algu\IeC {\'e}m que Convive com Pessoas com Defici\IeC {\^e}ncias Visuais}}{34}
+\contentsline {section}{\numberline {5.3}\MakeTextUppercase {Hist\IeC {\'o}rias de Usu\IeC {\'a}rio}}{35}
+\contentsline {subsection}{\numberline {5.3.1}\MakeTextUppercase {US01 -- Acessar o sistema}}{35}
+\contentsline {subsection}{\numberline {5.3.2}\MakeTextUppercase {US02 -- Buscar Restaurante}}{35}
+\contentsline {subsection}{\numberline {5.3.3}\MakeTextUppercase {US03 -- Acessar Card\IeC {\'a}pio}}{36}
+\contentsline {subsection}{\numberline {5.3.4}\MakeTextUppercase {US04 -- Filtrar Card\IeC {\'a}pio}}{36}
+\contentsline {subsection}{\numberline {5.3.5}\MakeTextUppercase {US05 -- Favoritar Restaurante}}{36}
+\contentsline {section}{\numberline {5.4}\MakeTextUppercase {Fluxograma}}{37}
+\contentsline {section}{\numberline {5.5}\MakeTextUppercase {Modelagem do Banco de Dados}}{37}
+\contentsline {section}{\numberline {5.6}\MakeTextUppercase {Estrutura das Classes}}{38}
+\contentsline {chapter}{\numberline {6}\MakeTextUppercase {Recursos Necess\IeC {\'a}rios}}{39}
+\contentsline {chapter}{\numberline {7}\MakeTextUppercase {Desenvolvimento}}{40}
+\contentsline {section}{\numberline {7.1}\MakeTextUppercase {Ontologia de Card\IeC {\'a}pio}}{40}
+\contentsline {section}{\numberline {7.2}\MakeTextUppercase {Integra\IeC {\c c}\IeC {\~a}o da Ontologia com a Aplica\IeC {\c c}\IeC {\~a}o}}{41}
+\contentsline {section}{\numberline {7.3}\MakeTextUppercase {Aplica\IeC {\c c}\IeC {\~a}o}}{46}
+\contentsline {chapter}{\numberline {8}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o}}{50}
+\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Tarefas}}{50}
+\contentsline {section}{\numberline {8.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{51}
+\contentsline {section}{\numberline {8.3}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{53}
+\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{55}
+\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{55}
+\contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{57}
+\contentsline {section}{\numberline {9.3}\MakeTextUppercase {Sugest\IeC {\~o}es e Melhorias}}{60}
+\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{62}
+\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{62}
+\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{64}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Ontologia de Card\IeC {\'a}pio}{67}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Termo de Consentimento Livre e Esclarecido}{68}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{72}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#2}{80}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#3}{88}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#4}{96}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace G\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#5}{103}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace H\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#6}{111}

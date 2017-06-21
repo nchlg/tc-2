@@ -3,7 +3,7 @@ A diretriz do desenvolvimento deste trabalho seguirá algumas propostas da metod
 
 Essa é "uma técnica que traduz em linhas, colunas e cartões coloridos o fluxo existente no processo de produção"\ \cite{AUDY2015}. Palavra do idioma japonês, \textit{kanban} significa "quadro"\ \cite{GROSS2003} e este é o seu componente essencial -- um quadro com diversas colunas onde cada uma delas representa o estado de algum processo do projeto, como ilustrado na Figura ~\ref{fig:kanban1}. Por ser uma ferramenta sucinta e visual, uma rápida visualização do painel de tarefas deve permitir que se obtenha conhecimento de aspectos como: informações básicas sobre o processo; o estágio de cada um deles e qual sua prioridade ou nível de dificuldade, os quais são usualmente indicados por cores diferentes (Audy, 2015). 
 
-Todos estes aspectos devem ser previamente definidos pelo time durante o processo de projeção do \textit{kanban}. Cada projeto possuirá um \textit{kanban} específico de acordo com seu escopo e sua equipe, sendo delegadas funções para cada integrante do time. Outro fator que deve ser definido são os limitadores, os quais definirão algumas regras para o fluxo do desenvolvimento do processo, como número máximo de tarefas na fila de testes, entre outros \cite{AUDY2015}. Assim, cada integrante do time é responsável por manter o ritmo do processo e evitar que tarefas acumulem.
+Todos estes aspectos devem ser previamente definidos pelo time durante o processo de projeção do \textit{kanban}. Cada projeto possuirá um \textit{kanban} específico de acordo com seu escopo e sua equipe, sendo delegadas funções para cada integrante do time. Outro fator que deve ser definido são os limitadores, os quais definirão algumas regras para o fluxo do desenvolvimento do processo, como o número máximo de tarefas na fila de testes, entre outros \cite{AUDY2015}. Assim, cada integrante do time é responsável por manter o ritmo do processo e evitar que tarefas acumulem.
 
 \begin{figure}[htb]
 \centering
@@ -77,15 +77,23 @@ O que caracteriza esta história de usuário é a possibilidade de filtrar card�
 Nesta história, representamos a possibilidade de cada usuário ter uma lista pessoal de fácil acesso a locais de sua preferência. Podendo marcar um determinado local como "favorito", este estabelecimento ficará registrado em uma lista à parte, onde o usuário poderá acessá-la na página inicial do sistema. Sendo assim, caso deseje obter informações sobre o local, não será necessário procurar o restaurante no sistema de buscas.
 
 \section{Fluxograma}
-Um fluxograma é a representação visual da sequência de passos em um processo, onde diferentes passos são representados por caixas e o encadeamento destes passos é representado por setas \cite{REYNARD1995}. Estes diagramas ajudam a sistematizar um entendimento comum sobre o processo; a visualizar o processo como processos menores, os quais interagem entre si; a melhorar o processo, eliminando ineficiências; e a padronizar este processo, tornando-o mais consistente. Quando se deseja obter um esboço dos passos mais genéricos do processo em questão, \cite{REYNARD1995} indica o uso de um fluxograma básico sem atividades muito detalhadas. Um diagrama contendo estas características é apresentado a seguir.
+Um fluxograma é a representação visual da sequência de passos em um processo, onde diferentes passos são representados por caixas e o encadeamento destes passos é representado por setas \cite{REYNARD1995}. Estes diagramas ajudam a sistematizar um entendimento comum sobre o processo; a visualizar o processo como processos menores, os quais interagem entre si; a melhorar o processo, eliminando ineficiências; e a padronizar este processo, tornando-o mais consistente. Quando se deseja obter um esboço dos passos mais genéricos do processo em questão, \cite{REYNARD1995} indica o uso de um fluxograma básico sem atividades muito detalhadas. Um diagrama contendo estas características é apresentado a seguir, na Figura \ref{fig:fluxograma}.
 
 \begin{figure}[H]
     \centering
-    \caption[Fluxograma Geral do Sistema]{\label{fig:fluxograma}Fluxograma geral da aplicação. As setas pontilhadas indicam a saída do sistema.}
-    \includegraphics[width=0.7\textwidth]{pdf/fluxograma-usuario.pdf}
+    \caption[Fluxograma Geral do Sistema]{\label{fig:fluxograma}Fluxograma geral da aplicação. As setas tracejadas indicam a saída do sistema}
+    \includegraphics[width=0.9\textwidth]{./pdf/fluxograma-atual.pdf}
 \end{figure}
 
-\subsection{Fluxo das Telas}
 
-\section{Modelo Conceitual do Banco de Dados}
+\section{Modelagem do Banco de Dados}
+
+A aplicação desenvolvida neste trabalho não requer uma estrutura de dados muito robusta. O banco de dados aqui desenvolvido é composto por quatro tabelas: \emph{Restaurantes, Logs, Categorias\_Produtos} e \emph{Dúvidas}. A tabela de Restaurantes é composta pelos dados básicos de cada localização, bem como suas coordenadas; além disso, também há uma coluna (\emph{Favorito}) que demarca se este restaurante fora marcado como favorito ou não pelo usuário. A tabela de Logs guarda o nome dos produtos e quantas vezes eles foram acessados -- este item será importante para um dos critérios de ordenação do cardápio. Já a tabela Categorias\_Produtos armazena a relação entre os produtos e a categoria a qual eles pertencem, auxliando na construção do cardápio. Por fim, a tabela de Dúvidas é uma estrutura criada para armazenar os dados referentes ao sistema de Ajuda da aplicação. As tabelas descritas previamente e suas relações podem ser vistas na Figura \ref{fig:bd}:
+
+\begin{figure}[H]
+	\centering
+	\caption[Modelagem do Banco de Dados]{\label{fig:bd}Modelo do banco de dados para o sistema de Cardápios Virtuais}
+	\includegraphics[width=0.9\textwidth]{./pdf/bd.pdf}
+\end{figure}
+
 \section{Estrutura das Classes}

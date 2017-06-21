@@ -1,0 +1,45 @@
+\input{preambulo}
+
+\begin{document}
+	% Top-down transicao 5
+	\begin{figure}
+		\centering
+		\begin{tikzpicture}[scale=1.0, every node/.style={scale=1.0, thick}]
+		\draw[help lines, draw=black!00] (0,0) grid (12,12);
+		
+		% Pontinhos superiores
+		\node  at  (8,10) [pontinhos]   (pontos1)   {...};
+		
+		% Pastel
+		\node  at  (8,8)  [bolinha]     (Pastel)    {Pastel};
+		\node  at  (Pastel.east) [textod, right=0.5em] (PastelDir) {contável\\glúten\\preço};
+		
+		% Pastel de forno
+		\node  at  (4,4)  [bolinha]     (Pforno)    {Pastel de Forno};
+		\node  at  (Pforno.east) [textod, right=0.5em] (PfornoDir) {contável\\glúten\\lactose\\preço\\tem gordura\\tem sal\\vegetariano};
+		
+		% Pontinhos da direta
+		\node  at  (12,4)  [pontinhos]   (pontos2)   {...};
+		
+		% Pastel de frango
+		\node  at  (0,0)  [bolinha]     (Pfrango)   {Pastel de Forno de Frango};
+		\node  at  (Pfrango.east) [textod, right=0.5em] (PfrangoDir) {contável\\glúten\\lactose\\preço\\tem gordura\\tem sal\\vegetariano};
+		
+		% Pastel de 4 queijos
+		\node  at  (8,0)  [bolinha]     (Pqueijo)   {Pastel de Forno de 4 Queijos};
+		\node  at  (Pqueijo.east) [textod, right=0.5em] (PqueijoDir) {contável\\glúten\\lactose\\preço\\tem gordura\\tem sal\\vegetariano};
+		
+		% Arestas da arvore
+		\draw [-, very thick, dashed] (Pastel) -- (pontos1);
+		\draw [-, very thick]         (Pastel) -- (Pforno);
+		\draw [-, very thick, dashed] (Pastel) -- (pontos2);
+		\draw [-, very thick]         (Pforno) -- (Pfrango);
+		\draw [-, very thick]         (Pforno) -- (Pqueijo);
+		
+		% Arestas das transicoes
+		\path [anchor=south east,font=\Huge\bf, out=0, in=270, ->, very thick, densely dotted]
+			(PfornoDir) edge node{$\cup$} (PastelDir);
+		\end{tikzpicture}
+	\end{figure}
+	
+\end{document}

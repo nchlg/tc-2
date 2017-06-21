@@ -1,9 +1,8 @@
-
 \chapter{\label{chap:desenvolvimento}Desenvolvimento}
 
 O desenvolvimento do sistema pode ser dividido em duas partes: o desenvolvimento da ontologia de cardápio e o desenvolvimento da aplicação móvel para Android. Primeiramente, foi desenvolvida a estrutura da ontologia para, posteriormente, integrá-la à aplicação. A seguir, será apresentado o desenvolvimento de ambas as partes do sistema, bem como as modificações realizadas a partir da proposta inicial da aplicação e as dificuldades encontradas durante a evolução do projeto.
 
-\section{Ontologia de Cardápio}
+\section{\label{sec:ontologia}Ontologia de Cardápio}
 
 Apesar de haver algumas ontologias de comida ou restaurantes já desenvolvidas, optou-se pela criação de uma ontologia própria que condizesse com o escopo do trabalho (\ref{apnd:ontologia}). Para a construção desta ontologia para cardápios, foram usadas como base outras ontologias relacionadas a comidas. A principal influência foi uma ontologia de pizza desenvolvida pela universidade de Stanford\footnote{http://protege.stanford.edu/ontologies/pizza/pizza.owl}, uma vez que um cardápio é composto por diversos produtos que apresentam atributos semelhantes ao de uma pizza. Voltaremos a falar desses atributos nos próximos parágrafos.
 
@@ -24,22 +23,80 @@ A estrutura da ontologia é dividida em duas partições iniciais: \emph{Partiç
 
 Já a partição de valor é composta pelas classes \emph{Gorduras} e \emph{Nível de Sal}, representando todas as propriedades que podem ser compostas por uma gradação de valores. Cada uma dessas classes apresentam três subclasses que condizem à intensidade destas propriedades em um produto. Desta forma, o nível de sal de uma determinada comida pode ser indicado com um dos três níveis criados na ontologia, sendo eles: \emph{pouco salgado}, \emph{meio salgado} e \emph{salgado}. Para a indicação desta propriedade no produto, criou-se a propriedade \emph{temSal} cujo domínio é uma classe do tipo Produto e o alcance é uma classe do tipo Nível de Sal. 
 
-Para gerar relações entre classes e propriedades, foram criadas \emph{propriedades de objeto} e \emph{propriedades de dados}. As propriedades de objeto são utilizadas quando tanto o domínio quanto o alcance da expressão são classes da ontologia; já as propriedades de dados aplicam-se quando o alcance é composto por um tipo de dado, como um \emph{value} ou um \emph{boolean}. As propriedades e suas relações com a classe Produto são demonstradas a seguir, na Figura \ref{}.
+Para gerar relações entre classes e propriedades, foram criadas \emph{propriedades de objeto} e \emph{propriedades de dados}. As propriedades de objeto são utilizadas quando tanto o domínio quanto o alcance da expressão são classes da ontologia; já as propriedades de dados aplicam-se quando o alcance é composto por um tipo de dado, como um \emph{value} ou um \emph{boolean}. Algumas propriedades e suas relações com as classes são demonstradas a seguir, na Figura \ref{fig:propriedades}.
 \begin{figure}
-	
+	\centering
+	\caption[Propriedades da Ontologia]{Exemplos de propriedades da ontologia}
+	\label{fig:propriedades}
+	\subfigure[c][Propriedade \emph{temIngrediente}. Seu domínio são as classes \emph{Comida} ou \emph{Bebida} e o alcance, \emph{Ingrediente}]
+	{\includegraphics[width=0.40\textwidth]{./fig/propriedade-1.png}}
+	\qquad
+	\subfigure[c][Propriedade \emph{preco}. Seu domínio é a classe \emph{Produto} e o alcance, um valor do tipo \emph{double}]
+	{\includegraphics[width=0.40\textwidth]{./fig/propriedade-2.png}}
 \end{figure}
 
 \section{Integração da Ontologia com a Aplicação}
 
 Sendo Java a linguagem de programação utilizada no desenvolvimento da aplicação, buscou-se uma API que fosse compatível com a linguagem e que consultasse a ontologia de forma eficiente. A princípio, a interface escolhida fora a OWL API\footnote{http://owlapi.sourceforge.net/}, uma interface para criação, manipulação e serialização de ontologias OWL. Todavia, apesar de ser desenvolvida para a linguagem Java, esse sistema não se apresentou compatível com o ambiente Android, sendo assim necessária uma nova busca, resultando na descoberta do \emph{framework} Apache Jena\footnote{https://jena.apache.org/}. Jena é uma ferramenta para a construção de aplicações que utilizam web semântica ou dados conectados (\emph{linked data}) e é responsável pelo controle de APIs de diversas estruturas de dados, como ontologias, Resource Description Framework (RDF), SPARQL, entre outras. Esta ferramenta possui uma versão compatível com o ambiente Android, o AndroJena\footnote{https://github.com/lencinhaus/androjena} e, por isso, foi escolhida para realizar integração entre a ontologia e a aplicação do sistema.
 
-A integração da ontologia para a aplicação torna-se necessária uma vez que é a partir dela que os produtos do cardápio serão apresentados ao usuário. Um produto, ou uma categoria de produtos, deve apresentar todas as propriedades listadas na \ref{figura}, possibilitando, assim, a sua catalogação. Entretanto, algumas classes não apresentam certas características declaradas -- por exemplo, como mostrado na figura \ref{}, o produto X não possui as características a, b, c, porém suas classes sucessoras/antecessoras contêm tais informações. Isto se dá pelo fato de que a representação da informação neste contexto ocorre de forma esparsa; existem classes que herdam suas propriedades de \emph{forma anônima} ou aquelas que são muito abrangentes e, desta forma, ainda não dispõem de propriedades tão definidas. Sendo assim, fora preciso transformar a representação do conhecimento de uma estrutura para a outra.
+A integração da ontologia para a aplicação torna-se necessária uma vez que é a partir dela que os produtos do cardápio serão apresentados ao usuário. Um produto, ou uma categoria de produtos, deve apresentar todas as propriedades citadas na seção \ref{sec:ontologia}, possibilitando, assim, a sua catalogação. Entretanto, algumas classes não apresentam certas características declaradas -- por exemplo, como mostrado na Figura \ref{fig:integracao-1}, o produto \emph{Pastel} não possui as características \emph{tem gordura, tem sal, lactose} e \emph{vegetariano}, porém suas classes sucessoras contêm tais informações. Isto se dá pelo fato de que a representação da informação neste contexto ocorre de forma esparsa; existem classes que herdam suas propriedades de \emph{forma anônima} ou aquelas que são muito abrangentes e, desta forma, ainda não dispõem de propriedades tão definidas. Sendo assim, fora preciso transformar a representação do conhecimento de uma estrutura para a outra.
 
-O processo de aquisição de todas as propriedades de um produto começou com o caminhamento do nodo raiz até os nodos folhas da árvore. Observando a figura \ref{figura}, é possível notar que algumas propriedades devem ser passadas para os nodos filhos durante o percorrimento de cima pra baixo:
+\begin{figure}[H]
+		\centering
+		\caption[Integração da Ontologia -- Passo 0]{Passo 0 -- Estrutura da ontologia antes da integração. Os textos em tom acinzentado representam os atributos herdados de forma anônima e os textos em laranja representam os atributos das classes}
+		\label{fig:integracao-1}
+		\includegraphics[width=0.7\linewidth]{./pdf/tikz/toptop-1.pdf}
+\end{figure}
 
-Esse processo de repercussão de características é feito com o uso de uma estrutura de dados HashMap, a qual armazena as propriedades do nodo atual e seus valores (verdadeiro ou falso) e propaga estes dados para seus nodos filhos. Desta forma, ao chegar em um nodo folha, seu mapa de propriedades deve estar totalmente preenchido, como mostrado na figura \ref{}:
+O processo de aquisição de todas as propriedades de um produto começou com o caminhamento do nodo raiz até os nodos folhas da árvore. Observando a Figura \ref{fig:integracao-2}, é possível notar que algumas propriedades devem ser passadas para os nodos filhos durante o percorrimento de cima pra baixo:
 
-Nota-se que, apesar dos nodos folhas possuírem todos os valores de suas propriedades, o mesmo não ocorre com as classes mais gerais. Sendo assim, torna-se necessário um novo caminhamento, desta vez do nodo folha ao nodo raiz, buscando atribuir aos primeiros nodos as características que estão presentes em seus filhos. Para isso, foi desenvolvido um critério de atribuição de valores, buscando armazenar apenas os valores que seriam relevantes à aplicação. Este processo é demonstrado na figura \ref{}. 
+\begin{figure}[H]
+	\centering
+	\caption[Integração da Ontologia -- Passos 1--4]{Passos 1--4 -- Os atributos das classes superiores são passados para suas filhas. Os textos em tom acinzentado representam os atributos herdados de forma anônima e os textos em laranja representam os atributos das classes}
+	\label{fig:integracao-2}
+	\subfigure[c][Passo 1 -- A classe \emph{Pastel de Forno} recebe os atributos da classe \emph{Pastel}]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/topdown-1.pdf}}
+	\qquad
+	\subfigure[c][Passo 2 -- Os atributos recebidos são armazenados em sua própria lista de atributos]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/topdown-2.pdf}}
+	\qquad
+	\subfigure[c][Passo 3 -- O mesmo processo se repete, agora com a classe \emph{Pastel de Forno}]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/topdown-3.pdf}}
+	\qquad
+	\subfigure[c][Passo 4 -- Os atributos recebidos são armazenados em sua própria lista de atributos]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/topdown-4.pdf}}
+\end{figure}
+
+Esse processo de repercussão de características é feito com o uso de uma estrutura de dados HashMap, a qual armazena as propriedades do nodo atual e seus valores (verdadeiro ou falso) e propaga estes dados para seus nodos filhos. Desta forma, ao chegar em um nodo folha, seu mapa de propriedades deve estar totalmente preenchido, como mostrado na Figura \ref{fig:integracao-3}:
+
+\begin{figure}[H]
+	\centering
+	\caption[Integração da Ontologia -- Passo 5]{Passo 5 -- Todos os atributos foram transferidos às classes sucessoras. Os textos em tom acinzentado representam os atributos herdados de forma anônima e os textos em laranja representam os atributos das classes}
+	\label{fig:integracao-3}
+	\includegraphics[width=0.7\linewidth]{./pdf/tikz/topdown-5.pdf}
+\end{figure}
+
+Nota-se que, apesar dos nodos folhas possuírem todos os valores de suas propriedades, o mesmo não ocorre com as classes mais gerais. Sendo assim, torna-se necessário um novo caminhamento, desta vez do nodo folha ao nodo raiz, buscando atribuir aos primeiros nodos as características que estão presentes em seus filhos. Para isso, foi desenvolvido um critério de atribuição de valores, buscando armazenar apenas os valores que seriam relevantes à aplicação. Este processo é demonstrado na Figura \ref{fig:integracao-4}. 
+
+\begin{figure}[H]
+	\centering
+	\caption[Integração da Ontologia -- Passos 6--10]{Passos 6--10 -- Os atributos são repassados das folhas à raiz}
+	\label{fig:integracao-4}
+	\subfigure[c][Passo 6 -- União entre os atributos das classes folhas e os de sua classe mãe]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-1.pdf}}
+	\qquad
+	\subfigure[c][Passo 7 -- Classe \emph{Pastel de Forno} agora possui os atributos de suas filhas]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-2.pdf}}
+	\qquad
+	\subfigure[c][Passo 8 -- Classe \emph{Pastel de Forno} propaga estas informações a sua classe mãe]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-3.pdf}}
+	\qquad
+	\subfigure[c][Passo 9 -- Classe \emph{Pastel} agora possui os atributos de suas filhas]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-4.pdf}}
+	\qquad
+	\subfigure[c][Passo 10 -- Classe \emph{Pastel} propaga estas informações para suas classes antecessoras]
+	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-5.pdf}}
+\end{figure}
 
 \section{Aplicação}
 

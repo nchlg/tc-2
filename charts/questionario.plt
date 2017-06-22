@@ -18,7 +18,7 @@ unset key
 set grid
 #set auto x
 #set auto y
-set xrange[-0.5:6.0]
+set xrange[-0.5:7.0]
 set yrange[0:6]
 #set offsets -0.5,-0.5,0,0
 

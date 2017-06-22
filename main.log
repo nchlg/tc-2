@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  21 JUN 2017 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  22 JUN 2017 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,58 +833,91 @@ File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen131
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box33
+\sift@deathcycles=\count112
+\@vwid@loff=\dimen132
+\@vwid@roff=\dimen133
+)
+\c@taburow=\count113
+\tabu@nbcols=\count114
+\tabu@cnt=\count115
+\tabu@Xcol=\count116
+\tabu@alloc=\count117
+\tabu@nested=\count118
+\tabu@target=\dimen134
+\tabu@spreadtarget=\dimen135
+\tabu@naturalX=\dimen136
+\tabucolX=\dimen137
+\tabu@Xsum=\dimen138
+\extrarowdepth=\dimen139
+\abovetabulinesep=\dimen140
+\belowtabulinesep=\dimen141
+\tabustrutrule=\dimen142
+\tabu@thebody=\toks28
+\tabu@footnotes=\toks29
+\tabu@box=\box34
+\tabu@arstrutbox=\box35
+\tabu@hleads=\box36
+\tabu@vleads=\box37
+\tabu@cellskip=\skip52
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip52
-\LTright=\skip53
-\LTpre=\skip54
-\LTpost=\skip55
-\LTchunksize=\count112
-\LTcapwidth=\dimen132
-\LT@head=\box33
-\LT@firsthead=\box34
-\LT@foot=\box35
-\LT@lastfoot=\box36
-\LT@cols=\count113
-\LT@rows=\count114
-\c@LT@tables=\count115
-\c@LT@chunks=\count116
-\LT@p@ftn=\toks28
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count119
+\LTcapwidth=\dimen143
+\LT@head=\box38
+\LT@firsthead=\box39
+\LT@foot=\box40
+\LT@lastfoot=\box41
+\LT@cols=\count120
+\LT@rows=\count121
+\c@LT@tables=\count122
+\c@LT@chunks=\count123
+\LT@p@ftn=\toks30
 )
 (/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip56
-\L@UnitsRaiseTextstyle=\skip57
-\L@UnitsRaiseScriptstyle=\skip58
+\L@UnitsRaiseDisplaystyle=\skip57
+\L@UnitsRaiseTextstyle=\skip58
+\L@UnitsRaiseScriptstyle=\skip59
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
-\subfigtopskip=\skip59
-\subfigcapskip=\skip60
-\subfigcaptopadj=\dimen133
-\subfigbottomskip=\skip61
-\subfigcapmargin=\dimen134
-\subfiglabelskip=\skip62
-\c@subfigure=\count117
-\c@lofdepth=\count118
-\c@subtable=\count119
-\c@lotdepth=\count120
+\subfigtopskip=\skip60
+\subfigcapskip=\skip61
+\subfigcaptopadj=\dimen144
+\subfigbottomskip=\skip62
+\subfigcapmargin=\dimen145
+\subfiglabelskip=\skip63
+\c@subfigure=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@lotdepth=\count127
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
-\subfig@top=\skip63
-\subfig@bottom=\skip64
+\subfig@top=\skip64
+\subfig@bottom=\skip65
 )
 (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count121
-\c@ALC@line=\count122
-\c@ALC@rem=\count123
-\c@ALC@depth=\count124
-\ALC@tlm=\skip65
-\algorithmicindent=\skip66
+\c@ALC@unique=\count128
+\c@ALC@line=\count129
+\c@ALC@rem=\count130
+\c@ALC@depth=\count131
+\ALC@tlm=\skip66
+\algorithmicindent=\skip67
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
@@ -892,13 +925,13 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen135
-\captionmargin@=\dimen136
-\captionwidth=\dimen137
-\caption@tempdima=\dimen138
-\caption@indent=\dimen139
-\caption@parindent=\dimen140
-\caption@hangindent=\dimen141
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 )
@@ -911,7 +944,7 @@ Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
 p \sbox \@tempboxa {#1 -- #2}\ifdim \wd \@tempboxa >\hsize #1 -- #2\par \else \
 global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip 
 \belowcaptionskip .
-\c@ContinuedFloat=\count125
+\c@ContinuedFloat=\count132
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
@@ -925,20 +958,20 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip67
-\RaggedLeftLeftskip=\skip68
-\RaggedRightLeftskip=\skip69
-\CenteringRightskip=\skip70
-\RaggedLeftRightskip=\skip71
-\RaggedRightRightskip=\skip72
-\CenteringParfillskip=\skip73
-\RaggedLeftParfillskip=\skip74
-\RaggedRightParfillskip=\skip75
-\JustifyingParfillskip=\skip76
-\CenteringParindent=\skip77
-\RaggedLeftParindent=\skip78
-\RaggedRightParindent=\skip79
-\JustifyingParindent=\skip80
+\CenteringLeftskip=\skip68
+\RaggedLeftLeftskip=\skip69
+\RaggedRightLeftskip=\skip70
+\CenteringRightskip=\skip71
+\RaggedLeftRightskip=\skip72
+\RaggedRightRightskip=\skip73
+\CenteringParfillskip=\skip74
+\RaggedLeftParfillskip=\skip75
+\RaggedRightParfillskip=\skip76
+\JustifyingParfillskip=\skip77
+\CenteringParindent=\skip78
+\RaggedLeftParindent=\skip79
+\RaggedRightParindent=\skip80
+\JustifyingParindent=\skip81
 )
 (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
@@ -950,48 +983,15 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count126
-\l_MT_multwidth_dim=\dimen142
-\origjot=\skip81
-\l_MT_shortvdotswithinadjustabove_dim=\dimen143
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen144
-\l_MT_above_intertext_sep=\dimen145
-\l_MT_below_intertext_sep=\dimen146
-\l_MT_above_shortintertext_sep=\dimen147
-\l_MT_below_shortintertext_sep=\dimen148
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
-Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box37
-\sift@deathcycles=\count127
-\@vwid@loff=\dimen149
-\@vwid@roff=\dimen150
-)
-\c@taburow=\count128
-\tabu@nbcols=\count129
-\tabu@cnt=\count130
-\tabu@Xcol=\count131
-\tabu@alloc=\count132
-\tabu@nested=\count133
-\tabu@target=\dimen151
-\tabu@spreadtarget=\dimen152
-\tabu@naturalX=\dimen153
-\tabucolX=\dimen154
-\tabu@Xsum=\dimen155
-\extrarowdepth=\dimen156
-\abovetabulinesep=\dimen157
-\belowtabulinesep=\dimen158
-\tabustrutrule=\dimen159
-\tabu@thebody=\toks29
-\tabu@footnotes=\toks30
-\tabu@box=\box38
-\tabu@arstrutbox=\box39
-\tabu@hleads=\box40
-\tabu@vleads=\box41
-\tabu@cellskip=\skip82
+\g_MT_multlinerow_int=\count133
+\l_MT_multwidth_dim=\dimen153
+\origjot=\skip82
+\l_MT_shortvdotswithinadjustabove_dim=\dimen154
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
+\l_MT_above_intertext_sep=\dimen156
+\l_MT_below_intertext_sep=\dimen157
+\l_MT_above_shortintertext_sep=\dimen158
+\l_MT_below_shortintertext_sep=\dimen159
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count134
@@ -1357,26 +1357,26 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 (./chapters/cap-resultados.aux) (./chapters/cap-conclusao.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 129.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    ... okay on input line 129.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1427,27 +1427,27 @@ LaTeX Font Info:    ... okay on input line 127.
 \everyMPtoPDFconversion=\toks46
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 127.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 127.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 127.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
 
-Underfull \vbox (badness 10000) detected at line 127
+Underfull \vbox (badness 10000) detected at line 129
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 127--127
+Underfull \hbox (badness 1082) in paragraph at lines 129--129
 \T1/phv/m/n/12 como re-qui-sito par-cial à ob-ten-ção do
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 127--127
+Underfull \hbox (badness 5388) in paragraph at lines 129--129
 \T1/phv/m/n/12 grau de Ba-cha-rel em Sis-te-mas de
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 127--127
+Underfull \hbox (badness 2042) in paragraph at lines 129--129
 \T1/phv/m/n/12 In-for-ma-ção na Pon-ti-fí-cia Uni-ver-si-dade
  []
 
@@ -1517,11 +1517,11 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 127.
+LaTeX Info: Redefining \selectfont on input line 129.
 \c@lstlisting=\count183
  ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 135.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 137.
 
 [2
 
@@ -1562,12 +1562,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] (./main.toc [8
 
 ] [9]
-Overfull \hbox (1.41573pt too wide) detected at line 66
+Overfull \hbox (1.41573pt too wide) detected at line 65
  []\T1/phv/b/n/12 103
  []
 
 
-Overfull \hbox (1.41573pt too wide) detected at line 67
+Overfull \hbox (1.41573pt too wide) detected at line 66
  []\T1/phv/b/n/12 111
  []
 
@@ -1803,7 +1803,7 @@ Underfull \hbox (badness 10000) detected at line 251
  []
 
 )
-Overfull \hbox (0.89468pt too wide) in paragraph at lines 253--192
+Overfull \hbox (0.89468pt too wide) in paragraph at lines 253--194
 []\T1/phv/m/n/12 Os apli-ca-ti-vos para dis-po-si-ti-vos mó-veis tes-ta-dos e a
 pre-sen-ta-dos nesta se-ção (3.5.1[]
  []
@@ -2354,18 +2354,118 @@ Underfull \hbox (badness 10000) detected at line 11
 
 
 
-]) [63] (./main.bbl [64
+]) [63] (./main.bbl
+Underfull \hbox (badness 1635) in paragraph at lines 54--58
+\T1/phv/m/n/12 Melhorar a Cognição em Pessoas com Deficiência Visual ^^U Fase 2
+''. Projeto
+ []
 
+[64
 
-] [65]
-LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 165.
-) [66]
-\uppercase {Ap\^endice} A.
-[67
 
 ]
-\uppercase {Ap\^endice} B.
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
+[]\T1/phv/m/n/12 GÖDERT, W.; HU-BRICH, J.; NA-GELS-CH-MIDT, M. ``Se-man-tic kno
+-wledge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
+[]\T1/phv/m/n/12 Instituto Bra-si-leiro de Ge-o-gra-fia e Es-ta-tís-tica (ed.).
+ ``Censo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
+\T1/phv/m/n/12 de-mo-grá-fico 2010: ca-rac-te-rís-ti-cas ge-rais da po-pu-la-çã
+o,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
+\T1/phv/m/n/12 re-li-gião e pes-soas com de-fi-ci-ên-cia''. Cap-tu-rado em: $ht
+tp :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--124
+\T1/phv/m/n/12 / / biblioteca . ibge . gov . br / visualizacao / periodicos / 9
+4 / cd _ 2010 _ religiao _ de^^\ciencia . pdf$,
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 126--132
+[]\T1/phv/m/n/12 Instituto Brasileiro de Geografia e Estatística (ed.). ``Censo
+ demográfico 2010:
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 126--132
+\T1/phv/m/n/12 em: $http : / / biblioteca . ibge . gov . br / visualizacao / pe
+riodicos / 93 / cd _ 2010 _ caracteristicas _
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 160--165
+\T1/phv/m/n/12 ferramentas e linguagens''. Capturado em: $http : / / www . inf 
+. ufg . br / sites / default / ^^\les /
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
+[]\T1/phv/m/n/12 NOY, N. F.; MC-GUIN-NESS, D. L. ``On-to-logy de-ve-lop-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
+\T1/phv/m/n/12 101: A guide to cre-a-ting your first on-to-logy''. Cap-tu-rado 
+em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
+\T1/phv/m/n/12 http : / / liris . cnrs . fr / ~amille / enseignements / Ecole _
+ Centrale / What \ %20is \ %20an \
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 193--197
+[]\T1/phv/m/n/12 PATEL, K. K.; VIJ, S. ``Spatial learning using locomotion inte
+rface to virtual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--216
+[]\T1/phv/m/n/12 RIGON, L. ``Hu-awei e PU-CRS inau-gu-ram Cen-tro de Ino-va-ção
+ para
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--216
+\T1/phv/m/n/12 Ci-da-des In-te-li-gen-tes''. Cap-tu-rado em: $http : / / www . 
+pucrs . br / blog /
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 236--241
+[]\T1/phv/m/n/12 WICH, M.; KRA-MER, T. ``Enhan-ced human-computer in-te-rac-tio
+n for bu-si-ness
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 236--241
+\T1/phv/m/n/12 ap-pli-ca-ti-ons on mo-bile de-vi-ces: A design-oriented de-ve-l
+op-ment of a usa-bi-lity
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 236--241
+\T1/phv/m/n/12 eva-lu-a-tion ques-ti-on-naire''. In: 48th Hawaii In-ter-na-ti-o
+-nal Con-fe-rence on Sys-tem
+ []
+
+[66]) [67]
+\uppercase {Ap\^endice} A.
 <./pdf/tcle.pdf, id=524, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf>
@@ -2446,7 +2546,7 @@ Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 223.
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
 >]
-\uppercase {Ap\^endice} C.
+\uppercase {Ap\^endice} B.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2472,7 +2572,7 @@ LaTeX Warning: Float too large for page by 25.68369pt on input line 456.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [78] [79]
-\uppercase {Ap\^endice} D.
+\uppercase {Ap\^endice} C.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2498,7 +2598,7 @@ LaTeX Warning: Float too large for page by 25.68369pt on input line 688.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [86] [87]
-\uppercase {Ap\^endice} E.
+\uppercase {Ap\^endice} D.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2524,7 +2624,7 @@ LaTeX Warning: Float too large for page by 25.68369pt on input line 923.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [94] [95]
-\uppercase {Ap\^endice} F.
+\uppercase {Ap\^endice} E.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2556,7 +2656,7 @@ LaTeX Warning: Float too large for page by 25.68369pt on input line 1156.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [101] [102]
-\uppercase {Ap\^endice} G.
+\uppercase {Ap\^endice} F.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2582,7 +2682,7 @@ LaTeX Warning: Float too large for page by 25.68369pt on input line 1389.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [109] [110]
-\uppercase {Ap\^endice} H.
+\uppercase {Ap\^endice} G.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -2620,11 +2720,11 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 (./chapters/cap-avaliacao.aux) (./chapters/cap-resultados.aux)
 (./chapters/cap-conclusao.aux)) ) 
 Here is how much of TeX's memory you used:
- 22860 strings out of 493029
- 423758 string characters out of 6136235
- 563017 words of memory out of 5000000
- 25746 multiletter control sequences out of 15000+600000
- 54164 words of font info for 84 fonts, out of 8000000 for 9000
+ 22901 strings out of 493029
+ 424115 string characters out of 6136235
+ 563008 words of memory out of 5000000
+ 25751 multiletter control sequences out of 15000+600000
+ 53813 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,19n,65p,1885b,1015s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips
@@ -2635,7 +2735,7 @@ onts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
 etic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (117 pages, 3217317 bytes).
+Output written on main.pdf (117 pages, 3217130 bytes).
 PDF statistics:
  741 PDF objects out of 1000 (max. 8388607)
  480 compressed objects within 5 object streams

@@ -1,215 +1,254 @@
 \begin{thebibliography}{10}
+\pretolerance=2500
+\hyphenpenalty=10000
+\tolerance=200
+\emergencystretch=15em
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\urlprefix}{\bblcaptured}
+\providecommand{\selectlanguage}[1]{\relax}
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{#2}
 
-\bibitem{hersh2010assistive}
-{HERSH, M. e JOHNSON, M. A.}
-\newblock {\em Assistive Technology for Visually Impaired and Blind People}.
-\newblock {Springer London}, maio 2010.
+\bibitem{DEVACCESS2016}
+{ANDROID}. \enquote{{Making Applications Accessible}}.
+  \urlprefix\url{https://developer.android.com/guide/topics/ui/accessibility/apps.html},
+  novembro 2016.
+\bibAnnoteFile{DEVACCESS2016}
 
-\bibitem{IBGE2011}
-{Instituto Brasileiro de Geografia e Estatística (ed.)}.
-\newblock {Censo demográfico 2010: características da população e dos
-  domicílios. Resultados do universo}.
-\newblock Technical report, Rio de Janeiro, RJ, Brasil, 2011.
+\bibitem{ONTOLOGIAI}
+{ARVIDSSON, F.; FLYCHT-ERIKSSON, A.} \enquote{{Ontologies I}}.
+  \urlprefix\url{http://www.ida.liu.se/~janma56/SemWeb/Slides/ontologies1.pdf},
+  setembro 2016.
+\bibAnnoteFile{ONTOLOGIAI}
 
-\bibitem{PATEL2012}
-{PATEL, K. K.; VIJ, S.}
-\newblock Spatial learning using locomotion interface to virtual environment.
-\newblock In {\em IEEE Transactions on Learning Technologies, vol. 5, no. 2},
-  pages 170--176. IEEE, 2012.
+\bibitem{AUDY2015}
+{AUDY, J.} \enquote{Toolbox 360°}. 2015, 176\bbleidpp{}.
+\bibAnnoteFile{AUDY2015}
+
+\bibitem{BOURBAKIS2001}
+{BOURBAKIS, N. G.; KAVRAKI, D.} \enquote{An intelligent assistant for
+  navigation of visually impaired people}. \capitalize{\bblin{}}: Proceedings
+  of the 2nd IEEE International Symposium on Bioinformatics and Bioengineering,
+  2001, \bblpp{} 230--.
+\bibAnnoteFile{BOURBAKIS2001}
+
+\bibitem{D5296}
+Brasil. \enquote{Decreto nº 5.296}. Regulamenta as Leis nos 10.048, de 8 de
+  novembro de 2000, que dá prioridade de atendimento às pessoas que
+  especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais
+  e critérios básicos para a promoção da acessibilidade das pessoas
+  portadoras de deficiência ou com mobilidade reduzida, e dá outras
+  providências,
+  \urlprefix\url{http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm},
+  dezembro~2004.
+\bibAnnoteFile{D5296}
+
+\bibitem{CAMPOS2015}
+{CAMPOS, M.} \enquote{{Projeto Metodologia de Avaliação de Videojogos
+  Multimodais para Melhorar a Cognição em Pessoas com Deficiência Visual –
+  Fase 2}}. Projeto Institucional. PUCRS, 2015.
+\bibAnnoteFile{CAMPOS2015}
+
+\bibitem{COHN2004}
+{COHN, M.} \enquote{User Stories Applied: For Agile Software Development}.
+  Addison-Wesley Professional, 2004, 268\bbleidpp{}.
+\bibAnnoteFile{COHN2004}
+
+\bibitem{ERGO2015}
+{CYBIS, W. O.; BETIOL, A. H.; FAUST R.} \enquote{Ergonomia e Usabilidade:
+  conhecimentos, métodos e aplicações}. São Paulo: {Novatec}, 2015,
+  488\bbleidpp{}.
+\bibAnnoteFile{ERGO2015}
 
 \bibitem{DATRI2007}
 {D'ATRI, E.; MEDAGLIA, C. M.; SERBANATI, A.; CEIPIDOR, U. B.; PANIZZI, E.;
-  D'ATRI, A.}
-\newblock A system to aid blind people in the mobility: A usability test and
-  its results.
-\newblock In {\em Systems 2007. ICONS '07. Second International Conference},
-  pages 35--. IEEE Computer Society, 2007.
-
-\bibitem{NOY2001}
-{NOY, N. F.; MCGUINNESS, D. L.}
-\newblock Ontology development 101: A guide to creating your first ontology,
-  2001.
-
-\bibitem{FRIESS2013}
-{FRIESS, P.}
-\newblock {\em Internet of Things: Converging Technologies for Smart
-  Environments and Integrated Ecosystems}.
-\newblock River Publishers Series in Communications Series. River Publishers,
-  2013.
-
-\bibitem{MOURA2006}
-{MOURA, G. R.; PEDRO, E. N. R.}
-\newblock Adolescentes portadores de deficiência visual: Percepções sobre
-  sexualidade.
-\newblock pages 220--226, março 2006.
-
-\bibitem{TVESCOLA}
-{GIL, M.}
-\newblock {\em Deficiência Visual}.
-\newblock MEC. Secretaria de Educação a Distância, Brasília, 2000.
-
-\bibitem{ERGO2015}
-{CYBIS, W. O.; BETIOL, A. H.; FAUST R.}
-\newblock {\em Ergonomia e Usabilidade: conhecimentos, métodos e
-  aplicações}.
-\newblock {Novatec}, São Paulo, 2015.
-
-\bibitem{D5296}
-Brasil.
-\newblock Decreto nº 5.296.
-\newblock Technical report, Brasília, DF, dezembro 2004.
-\newblock Regulamenta as Leis nos 10.048, de 8 de novembro de 2000, que dá
-  prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de
-  dezembro de 2000, que estabelece normas gerais e critérios básicos para a
-  promoção da acessibilidade das pessoas portadoras de deficiência ou com
-  mobilidade reduzida, e dá outras providências.
-
-\bibitem{IBGE2010}
-{Instituto Brasileiro de Geografia e Estatística (ed.)}.
-\newblock Censo demográfico 2010: características gerais da população,
-  religião e pessoas com deficiência.
-\newblock Technical report, Rio de Janeiro, RJ, Brasil, 2010.
-
-\bibitem{PNAD2014}
-{Instituto Brasileiro de Geografia e Estatística (ed.)}.
-\newblock {\em Pesquisa Nacional por Amostra de Domicílios - Acesso à
-  internet e à televisão e posse de telefone móvel celular para uso pessoal:
-  2014}.
-\newblock {IBGE}, Rio de Janeiro, 2016.
-
-\bibitem{WCAG20}
-{PATCH, K; SPELLMAN, J.; WAHLBIN, K. (eds.)}.
-\newblock {Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines
-  Apply to Mobile}, 2015.
-
-\bibitem{W3C20}
-W3C.
-\newblock Introduction to understanding wcag 2.0, 2016.
-
-\bibitem{DEVACCESS2016}
-{ANDROID}.
-\newblock {Making Applications Accessible}, 2016.
-
-\bibitem{TALKB2016}
-{GOOGLE}.
-\newblock {Começar a utilizar o Android com o TalkBack}, 2016.
-
-\bibitem{godert2014}
-{GÖDERT, W.; HUBRICH, J.; NAGELSCHMIDT, M.}
-\newblock {\em Semantic knowledge representation for information retrieval}.
-\newblock {Walter de Gruyter GmbH}, Berlin, 2014.
-
-\bibitem{ONTOLOGIAI}
-{ARVIDSSON, F.; FLYCHT-ERIKSSON, A.}
-\newblock {Ontologies I}, 2008.
-
-\bibitem{WEISS1999}
-{WEISS, G. (ed.)}.
-\newblock {\em Multiagent Systems: A Modern Approach to Distributed Artificial
-  Intelligence}.
-\newblock {The MIT Press}, Estados Unidos, 2000.
-
-\bibitem{UFG2007}
-{MORAIS, E. A.; AMBRÓSIO, A. P. L.}
-\newblock Ontologias: conceitos, usos, tipos, metodologias, ferramentas e
-  linguagens.
-\newblock Technical report, Goiás, Brasil, 2007.
-
-\bibitem{MAEDCHE2002}
-{MAEDCHE, A. D.}
-\newblock {\em Ontology learning for the semantic Web}.
-\newblock Kluwer Academic Publishers, Norwell, MA, 2002.
-
-\bibitem{SHIN2014}
-{SHIN, D.}
-\newblock {A socio-technical framework for Internet-of-Things design: A
-  human-centered design for the Internet of Things}.
-\newblock {\em Telematics and Informatics}, 31(4):519--531, 2014.
-
-\bibitem{RIGON2016}
-{RIGON, L.}
-\newblock {Huawei e PUCRS inauguram Centro de Inovação para Cidades
-  Inteligentes}, 2016.
+  D'ATRI, A.} \enquote{A system to aid blind people in the mobility: A
+  usability test and its results}. \capitalize{\bblin{}}: Systems 2007. ICONS
+  '07. Second International Conference, 2007, \bblpp{} 35--.
+\bibAnnoteFile{DATRI2007}
 
 \bibitem{KAPTEN}
-J.~DENHAM.
-\newblock {Oh Kapten! My Kapten! Where am I?: A Review of the Kapten PLUS
-  Personal Navigation Device}, 2011.
+DENHAM, J. \enquote{{Oh Kapten! My Kapten! Where am I?: A Review of the Kapten
+  PLUS Personal Navigation Device}}.
+  \urlprefix\url{https://www.afb.org/afbpress/pub.asp?DocID=aw120707}, setembro
+  2016.
+\bibAnnoteFile{KAPTEN}
 
-\bibitem{BOURBAKIS2001}
-{BOURBAKIS, N. G.; KAVRAKI, D.}
-\newblock An intelligent assistant for navigation of visually impaired people.
-\newblock In {\em Proceedings of the 2nd IEEE International Symposium on
-  Bioinformatics and Bioengineering}, BIBE '01, pages 230--, Washington, DC,
-  EUA, 2001. IEEE Computer Society.
+\bibitem{FRIESS2013}
+{FRIESS, P.} \enquote{Internet of Things: Converging Technologies for Smart
+  Environments and Integrated Ecosystems}. River Publishers, 2013.
+\bibAnnoteFile{FRIESS2013}
 
-\bibitem{KULYUKIN2002}
-{KULYUKIN, V.; GHARPURE, C.; SUTE, P.}
-\newblock An intelligent assistant for navigation of visually impaired people.
-\newblock In {\em IAAI Emerging Applications}, pages 864--869. American
-  Association for Artificial Intelligence, 2002.
+\bibitem{TVESCOLA}
+{GIL, M.} \enquote{Deficiência Visual}. Brasília: MEC. Secretaria de
+  Educação a Distância, 2000, 79\bbleidpp{}.
+\bibAnnoteFile{TVESCOLA}
 
-\bibitem{ZHIGANG2010}
-{ZHIGANG, F.; TING, L.}
-\newblock Audification-based electronic travel aid system.
-\newblock In {\em IAAI Emerging Applications}, pages 864--869. IEEE, 2010.
+\bibitem{TALKB2016}
+{GOOGLE}. \enquote{{Começar a utilizar o Android com o TalkBack}}.
+  \urlprefix\url{https://support.google.com/accessibility/android/answer/6283677},
+  novembro 2016.
+\bibAnnoteFile{TALKB2016}
 
 \bibitem{GROSS2003}
-{GROSS, J. M.; MCINNIS, K. R.}
-\newblock {\em Kanban Made Simple: Desmystifying and Applying Toyota's
-  Legendary Manufacturing Process}.
-\newblock AMACOM, 2003.
+{GROSS, J. M.; MCINNIS, K. R.} \enquote{Kanban Made Simple: Desmystifying and
+  Applying Toyota's Legendary Manufacturing Process}. AMACOM, 2003,
+  256\bbleidpp{}.
+\bibAnnoteFile{GROSS2003}
 
-\bibitem{AUDY2015}
-{AUDY, J.}
-\newblock {\em Toolbox 360°}.
-\newblock 2015.
+\bibitem{godert2014}
+{GÖDERT, W.; HUBRICH, J.; NAGELSCHMIDT, M.} \enquote{Semantic knowledge
+  representation for information retrieval}. Berlin: {Walter de Gruyter GmbH},
+  2014, 294\bbleidpp{}.
+\bibAnnoteFile{godert2014}
 
-\bibitem{COHN2004}
-{COHN, M.}
-\newblock {\em User Stories Applied: For Agile Software Development}.
-\newblock Addison-Wesley Professional, 2004.
+\bibitem{hersh2010assistive}
+{HERSH, M. e JOHNSON, M. A.} \enquote{Assistive Technology for Visually
+  Impaired and Blind People}. {Springer London}, 2010, 725\bbleidpp{}.
+\bibAnnoteFile{hersh2010assistive}
 
-\bibitem{REYNARD1995}
-{REYNARD, S.}
-\newblock {\em Flowcharts: Plain \& Simple}.
-\newblock Learning and application guides. Oriel Incorporated, 1995.
+\bibitem{IBGE2010}
+{Instituto Brasileiro de Geografia e Estatística (ed.)}. \enquote{Censo
+  demográfico 2010: características gerais da população, religião e
+  pessoas com deficiência}.
+  \urlprefix\url{http://biblioteca.ibge.gov.br/visualizacao/periodicos/94/cd_2010_religiao_deficiencia.pdf},
+  2010.
+\bibAnnoteFile{IBGE2010}
 
-\bibitem{PRATES2003}
-{PRATES, R. O.; BARBOSA, S. D. J.}
-\newblock Avaliação de interfaces de usuário - conceitos e métodos.
-\newblock In {\em Juan Manuel Adán Coello; Sandra C. P. Ferraz Fabbri. (Org.).
-  Jornada de Atualização em Informática do Congresso da Sociedade Brasileira
-  de Computação}, pages 245--293. SBC, 2003.
+\bibitem{IBGE2011}
+{Instituto Brasileiro de Geografia e Estatística (ed.)}. \enquote{{Censo
+  demográfico 2010: características da população e dos domicílios.
+  Resultados do universo}}.
+  \urlprefix\url{http://biblioteca.ibge.gov.br/visualizacao/periodicos/93/cd_2010_caracteristicas_populacao_domicilios.pdf},
+  2011.
+\bibAnnoteFile{IBGE2011}
 
-\bibitem{WINCKLER2002}
-{WINCKLER, M. A.; PIMENTA, M. S.}
-\newblock Avaliação de usabilidade de sites web.
-\newblock In {\em Luciana Porcher Nedel (Org.). Escola de Informática da SBC
-  SUl (ERI 2002)}, pages 85--137, Porto Alegre, 2002. SBC.
+\bibitem{PNAD2014}
+{Instituto Brasileiro de Geografia e Estatística (ed.)}. \enquote{Pesquisa
+  Nacional por Amostra de Domicílios - Acesso à internet e à televisão e
+  posse de telefone móvel celular para uso pessoal: 2014}. Rio de Janeiro:
+  {IBGE}, 2016, 84\bbleidpp{}.
+\bibAnnoteFile{PNAD2014}
 
-\bibitem{WICH2015}
-{WICH, M.; KRAMER, T.}
-\newblock Enhanced human-computer interaction for business applications on
-  mobile devices: A design-oriented development of a usability evaluation
-  questionnaire.
-\newblock In {\em 48th Hawaii International Conference on System Sciences},
-  pages 472--481. IEEE Computer Society, 2015.
+\bibitem{KULYUKIN2002}
+{KULYUKIN, V.; GHARPURE, C.; SUTE, P.} \enquote{An intelligent assistant for
+  navigation of visually impaired people}. \capitalize{\bblin{}}: IAAI Emerging
+  Applications, 2002, \bblpp{} 864--869.
+\bibAnnoteFile{KULYUKIN2002}
 
-\bibitem{NIELSEN1995}
-{NIELSEN, J.}
-\newblock {10 Usability Heuristics for User Interface Design}, 1995.
-
-\bibitem{CAMPOS2015}
-{CAMPOS, M.}
-\newblock {Projeto Metodologia de Avaliação de Videojogos Multimodais para
-  Melhorar a Cognição em Pessoas com Deficiência Visual – Fase 2}, 2015.
-\newblock Projeto Institucional. PUCRS.
+\bibitem{MAEDCHE2002}
+{MAEDCHE, A. D.} \enquote{Ontology learning for the semantic Web}. Norwell, MA:
+  Kluwer Academic Publishers, 2002, 244\bbleidpp{}.
+\bibAnnoteFile{MAEDCHE2002}
 
 \bibitem{MSR466}
-{Ministério da Saúde}.
-\newblock {Aprova as diretrizes e normas regulamentadoras de pesquisas
-  envolvendo seres humanos}.
-\newblock Technical report.
+{Ministério da Saúde}. \enquote{{Aprova as diretrizes e normas
+  regulamentadoras de pesquisas envolvendo seres humanos}}. Resolução n. 466,
+  de 12 de dezembro de 2012,
+  \urlprefix\url{http://bvsms.saude.gov.br/bvs/saudelegis/cns/2013/res0466\_12\_12\_2012.html},
+  jun~2013.
+\bibAnnoteFile{MSR466}
+
+\bibitem{UFG2007}
+{MORAIS, E. A.; AMBRÓSIO, A. P. L.} \enquote{Ontologias: conceitos, usos,
+  tipos, metodologias, ferramentas e linguagens}.
+  \urlprefix\url{http://www.inf.ufg.br/sites/default/files/uploads/relatorios-tecnicos/RT-INF_001-07.pdf},
+  2007.
+\bibAnnoteFile{UFG2007}
+
+\bibitem{MOURA2006}
+{MOURA, G. R.; PEDRO, E. N. R.} \enquote{Adolescentes portadores de
+  deficiência visual: Percepções sobre sexualidade}, março~2006, \bblpp{}
+  220--226.
+\bibAnnoteFile{MOURA2006}
+
+\bibitem{NIELSEN1995}
+{NIELSEN, J.} \enquote{{10 Usability Heuristics for User Interface Design}}.
+  \urlprefix\url{https://www.nngroup.com/articles/ten-usability-heuristics/},
+  novembro 2016.
+\bibAnnoteFile{NIELSEN1995}
+
+\bibitem{NOY2001}
+{NOY, N. F.; MCGUINNESS, D. L.} \enquote{Ontology development 101: A guide to
+  creating your first ontology}.
+  \urlprefix\url{http://liris.cnrs.fr/~amille/enseignements/Ecole_Centrale/What\%20is\%20an\%20ontology\%20and\%20why\%20we\%20need\%20it.htm},
+  novembro 2016.
+\bibAnnoteFile{NOY2001}
+
+\bibitem{WCAG20}
+{PATCH, K; SPELLMAN, J.; WAHLBIN, K. (eds.)}. \enquote{{Mobile Accessibility:
+  How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile}}.
+  \urlprefix\url{https://www.w3.org/TR/mobile-accessibility-mapping/}, setembro
+  2016.
+\bibAnnoteFile{WCAG20}
+
+\bibitem{PATEL2012}
+{PATEL, K. K.; VIJ, S.} \enquote{Spatial learning using locomotion interface to
+  virtual environment}. \capitalize{\bblin{}}: IEEE Transactions on Learning
+  Technologies, vol. 5, no. 2, 2012, \bblpp{} 170--176.
+\bibAnnoteFile{PATEL2012}
+
+\bibitem{PRATES2003}
+{PRATES, R. O.; BARBOSA, S. D. J.} \enquote{Avaliação de interfaces de
+  usuário - conceitos e métodos}. \capitalize{\bblin{}}: Juan Manuel Adán
+  Coello; Sandra C. P. Ferraz Fabbri. (Org.). Jornada de Atualização em
+  Informática do Congresso da Sociedade Brasileira de Computação, 2003,
+  \bblpp{} 245--293.
+\bibAnnoteFile{PRATES2003}
+
+\bibitem{REYNARD1995}
+{REYNARD, S.} \enquote{Flowcharts: Plain \& Simple}. Oriel Incorporated, 1995.
+\bibAnnoteFile{REYNARD1995}
+
+\bibitem{RIGON2016}
+{RIGON, L.} \enquote{{Huawei e PUCRS inauguram Centro de Inovação para
+  Cidades Inteligentes}}.
+  \urlprefix\url{http://www.pucrs.br/blog/huawei-e-pucrs-inauguram-centro-de-inovacao-para-cidades-inteligentes/},
+  novembro 2016.
+\bibAnnoteFile{RIGON2016}
+
+\bibitem{SHIN2014}
+{SHIN, D.} \enquote{{A socio-technical framework for Internet-of-Things design:
+  A human-centered design for the Internet of Things}}, \textit{Telematics and
+  Informatics}, \bblvol{}~31--4, 2014, \bblpp{} 519--531.
+\bibAnnoteFile{SHIN2014}
+
+\bibitem{W3C20}
+W3C. \enquote{{Introduction to Understanding WCAG 2.0}}.
+  \urlprefix\url{https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html}, junho
+  2017.
+\bibAnnoteFile{W3C20}
+
+\bibitem{WEISS1999}
+{WEISS, G. (ed.)}. \enquote{Multiagent Systems: A Modern Approach to
+  Distributed Artificial Intelligence}. Estados Unidos: {The MIT Press}, 2000,
+  643\bbleidpp{}.
+\bibAnnoteFile{WEISS1999}
+
+\bibitem{WICH2015}
+{WICH, M.; KRAMER, T.} \enquote{Enhanced human-computer interaction for
+  business applications on mobile devices: A design-oriented development of a
+  usability evaluation questionnaire}. \capitalize{\bblin{}}: 48th Hawaii
+  International Conference on System Sciences, 2015, \bblpp{} 472--481.
+\bibAnnoteFile{WICH2015}
+
+\bibitem{WINCKLER2002}
+{WINCKLER, M. A.; PIMENTA, M. S.} \enquote{Avaliação de usabilidade de sites
+  web}. \capitalize{\bblin{}}: Luciana Porcher Nedel (Org.). Escola de
+  Informática da SBC SUl (ERI 2002), 2002, \bblpp{} 85--137.
+\bibAnnoteFile{WINCKLER2002}
+
+\bibitem{ZHIGANG2010}
+{ZHIGANG, F.; TING, L.} \enquote{Audification-based electronic travel aid
+  system}. \capitalize{\bblin{}}: IAAI Emerging Applications, 2010, \bblpp{}
+  864--869.
+\bibAnnoteFile{ZHIGANG2010}
 
 \end{thebibliography}

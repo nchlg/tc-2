@@ -49,6 +49,7 @@
 	\usepackage{pdfpages}
 	% Para tabelas com elementos ocupando mais de uma linha
 	\usepackage{multirow}
+	\usepackage{tabu}
 	\usepackage{longtable}
 	% Para frações na mesma linha (ex. ⅓).
 	\usepackage{nicefrac}
@@ -72,13 +73,14 @@
 	\newcolumntype{C}[1]{>{\Centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 	\newcolumntype{R}[1]{>{\RaggedLeft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 	\usepackage{mathtools}
-	\usepackage{tabu}
+	% Pacote para caixa de código dentro do texto
 	\usepackage{listings}
 	% Pacote para Gantt Chart
 	\usepackage{pgfgantt}
 	% Desenhar/escrever sobre imagens
 	\usepackage{tikz}
-	\renewcommand{\lstlistingname}{Expressão Lógica} % Listing -> Algorithm
+	\renewcommand{\lstlistingname}{Expressão Lógica}
+	% Listing -> Algorithm
 	\usepackage{enumitem}
 	
 	%----------------------------------------------------------------
@@ -207,7 +209,7 @@
 		%----------------------------------------------------------------
 		%\bibliographystyle{tcc-alpha-full}
 		%\bibliographystyle{tcc-num}
-		\bibliographystyle{unsrt}
+		\bibliographystyle{ppgcc-num}
 		%\bibliographystyle{prilike}
 		\bibliography{exemplo-bib}
 		
@@ -216,8 +218,6 @@
 		% numeração alfabética.
 		%----------------------------------------------------------------
 		\appendix
-		
-		\chapter{\label{apnd:ontologia}Ontologia de Cardápio}
 		
 		\chapter{\label{apnd:tcle}Termo de Consentimento Livre e Esclarecido}
 			\includepdf[pages={1-},scale=1.0]{./pdf/tcle.pdf}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  23 JUN 2017 19:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  23 JUN 2017 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1570,7 +1570,20 @@ decorations.markings.code.tex))
 (./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
 (./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
 (./chapters/cap-avaliacao.aux) (./chapters/cap-resultados.aux)
-(./chapters/cap-conclusao.aux))
+(./chapters/cap-conclusao.aux)
+
+LaTeX Warning: Label `tab:form-1-infos' multiply defined.
+
+
+LaTeX Warning: Label `tab:form-1-tarefas' multiply defined.
+
+
+LaTeX Warning: Label `tab:form-1-tarefas-aval' multiply defined.
+
+
+LaTeX Warning: Label `tab:form-1-questionario' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
@@ -1588,8 +1601,7 @@ LaTeX Font Info:    ... okay on input line 135.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 135.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 135.
@@ -1787,6 +1799,11 @@ Overfull \hbox (1.41573pt too wide) detected at line 66
  []\T1/phv/b/n/12 112
  []
 
+
+Overfull \hbox (1.41573pt too wide) detected at line 67
+ []\T1/phv/b/n/12 119
+ []
+
 )
 \tf@toc=\write7
 \openout7 = `main.toc'.
@@ -1888,139 +1905,139 @@ File: pdf/ontology-weiss.pdf Graphic file (type pdf)
 Package pdftex.def Info: pdf/ontology-weiss.pdf used on input line 83.
 (pdftex.def)             Requested size: 483.69687pt x 268.9745pt.
  [19] [20 <./pdf/ontology-weiss.pdf>]
-Underfull \hbox (badness 10000) detected at line 119
+Underfull \hbox (badness 10000) detected at line 120
 \T1/phv/m/n/12 3.3.1
  []
 
 [21]
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 124.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 125.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 124.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 125.
  <fig/protege1.png, id=106, 277.78781pt x 385.44pt>
 File: fig/protege1.png Graphic file (type png)
  <use fig/protege1.png>
-Package pdftex.def Info: fig/protege1.png used on input line 135.
+Package pdftex.def Info: fig/protege1.png used on input line 136.
 (pdftex.def)             Requested size: 277.78711pt x 385.43906pt.
 
 [22]
-Underfull \hbox (badness 10000) detected at line 163
+Underfull \hbox (badness 10000) detected at line 164
 \T1/phv/b/n/12 3.4
  []
 
 [23 <./fig/protege1.png>]
-Underfull \hbox (badness 10000) detected at line 171
+Underfull \hbox (badness 10000) detected at line 172
 \T1/phv/b/n/12 3.5
  []
 
 [24]
-Underfull \hbox (badness 10000) detected at line 176
+Underfull \hbox (badness 10000) detected at line 177
 \T1/phv/m/n/12 3.5.1
  []
 
 <fig/zomato1.PNG, id=117, 700.6175pt x 1003.75pt>
 File: fig/zomato1.PNG Graphic file (type png)
  <use fig/zomato1.PNG>
-Package pdftex.def Info: fig/zomato1.PNG used on input line 184.
+Package pdftex.def Info: fig/zomato1.PNG used on input line 185.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
 <fig/zomato4.PNG, id=118, 700.6175pt x 1003.75pt>
 File: fig/zomato4.PNG Graphic file (type png)
  <use fig/zomato4.PNG>
-Package pdftex.def Info: fig/zomato4.PNG used on input line 187.
+Package pdftex.def Info: fig/zomato4.PNG used on input line 188.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
 <fig/zomato3.PNG, id=119, 700.6175pt x 1003.75pt>
 File: fig/zomato3.PNG Graphic file (type png)
  <use fig/zomato3.PNG>
-Package pdftex.def Info: fig/zomato3.PNG used on input line 190.
+Package pdftex.def Info: fig/zomato3.PNG used on input line 191.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
 [25]
-Underfull \hbox (badness 10000) detected at line 193
+Underfull \hbox (badness 10000) detected at line 194
 \T1/phv/m/n/12 3.5.2
  []
 
 <fig/kapten1.jpeg, id=124, 72.27pt x 48.18pt>
 File: fig/kapten1.jpeg Graphic file (type jpg)
  <use fig/kapten1.jpeg>
-Package pdftex.def Info: fig/kapten1.jpeg used on input line 199.
+Package pdftex.def Info: fig/kapten1.jpeg used on input line 200.
 (pdftex.def)             Requested size: 338.58632pt x 225.78572pt.
  [26 <./fig/zomato1.PNG> <./fig/zomato4.PNG> <./fig/zomato3.PNG>]
-Underfull \hbox (badness 10000) detected at line 204
+Underfull \hbox (badness 10000) detected at line 205
 \T1/phv/m/n/12 3.5.3
  []
 
 
-Underfull \hbox (badness 10000) detected at line 209
+Underfull \hbox (badness 10000) detected at line 210
 \T1/phv/m/n/12 3.5.4
  []
 
 [27 <./fig/kapten1.jpeg>]
-Underfull \hbox (badness 10000) detected at line 214
+Underfull \hbox (badness 10000) detected at line 215
 \T1/phv/m/n/12 3.5.5
  []
 
 
-Underfull \hbox (badness 10000) detected at line 217
+Underfull \hbox (badness 10000) detected at line 218
 \T1/phv/m/n/12 3.5.6
  []
 
 [28] <fig/gft1.png, id=134, 542.025pt x 927.465pt>
 File: fig/gft1.png Graphic file (type png)
  <use fig/gft1.png>
-Package pdftex.def Info: fig/gft1.png used on input line 225.
+Package pdftex.def Info: fig/gft1.png used on input line 226.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-Underfull \hbox (badness 1661) in paragraph at lines 225--225
+Underfull \hbox (badness 1661) in paragraph at lines 226--226
 \T1/phv/m/n/10 rando o con-teúdo prin-ci-pal
  []
 
 <fig/gft3.png, id=135, 542.025pt x 927.465pt>
 File: fig/gft3.png Graphic file (type png)
  <use fig/gft3.png>
-Package pdftex.def Info: fig/gft3.png used on input line 228.
+Package pdftex.def Info: fig/gft3.png used on input line 229.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
 <fig/gft5.png, id=136, 542.025pt x 927.465pt>
 File: fig/gft5.png Graphic file (type png)
  <use fig/gft5.png>
-Package pdftex.def Info: fig/gft5.png used on input line 231.
+Package pdftex.def Info: fig/gft5.png used on input line 232.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-Underfull \hbox (badness 10000) detected at line 234
+Underfull \hbox (badness 10000) detected at line 235
 \T1/phv/m/n/12 3.5.7
  []
 
 <fig/tappy3.png, id=137, 542.025pt x 927.465pt>
 File: fig/tappy3.png Graphic file (type png)
  <use fig/tappy3.png>
-Package pdftex.def Info: fig/tappy3.png used on input line 242.
+Package pdftex.def Info: fig/tappy3.png used on input line 243.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
 <fig/tappy4.png, id=138, 542.025pt x 927.465pt>
 File: fig/tappy4.png Graphic file (type png)
  <use fig/tappy4.png>
-Package pdftex.def Info: fig/tappy4.png used on input line 245.
+Package pdftex.def Info: fig/tappy4.png used on input line 246.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
 <fig/tappy2.png, id=139, 542.025pt x 927.465pt>
 File: fig/tappy2.png Graphic file (type png)
  <use fig/tappy2.png>
-Package pdftex.def Info: fig/tappy2.png used on input line 248.
+Package pdftex.def Info: fig/tappy2.png used on input line 249.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-Underfull \hbox (badness 1755) in paragraph at lines 248--248
+Underfull \hbox (badness 1755) in paragraph at lines 249--249
 \T1/phv/m/n/10 op-ção pre-vi-a-mente se-le-ci-o-
  []
 
 
-Underfull \hbox (badness 10000) detected at line 251
+Underfull \hbox (badness 10000) detected at line 252
 \T1/phv/b/n/12 3.6
  []
 
 )
-Overfull \hbox (0.89468pt too wide) in paragraph at lines 253--200
+Overfull \hbox (0.89468pt too wide) in paragraph at lines 254--200
 []\T1/phv/m/n/12 Os apli-ca-ti-vos para dis-po-si-ti-vos mó-veis tes-ta-dos e a
 pre-sen-ta-dos nesta se-ção (3.5.1[]
  []
@@ -2950,32 +2967,68 @@ LaTeX Warning: Float too large for page by 25.68369pt on input line 1628.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[117] [118] (./main.aux (./chapters/cap-introducao.aux)
+[117] [118]
+\uppercase {Ap\^endice} H.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[119
+
+]
+
+LaTeX Warning: Text page 120 contains only floats.
+
+
+Overfull \vbox (18.1842pt too high) has occurred while \output is active []
+
+
+[120]
+Underfull \vbox (badness 10000) detected at line 1818
+ []
+
+[121] [122] [123]
+
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1862.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[124] [125] (./main.aux (./chapters/cap-introducao.aux)
 (./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
 (./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
 (./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
 (./chapters/cap-avaliacao.aux) (./chapters/cap-resultados.aux)
-(./chapters/cap-conclusao.aux)) ) 
+(./chapters/cap-conclusao.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 26396 strings out of 493029
- 517764 string characters out of 6136235
- 742173 words of memory out of 5000000
- 29173 multiletter control sequences out of 15000+600000
+ 26402 strings out of 493029
+ 517877 string characters out of 6136235
+ 742338 words of memory out of 5000000
+ 29179 multiletter control sequences out of 15000+600000
  53813 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,19n,84p,1885b,1015s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips
-/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
-etic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (118 pages, 3243297 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt
+1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (125 pages, 3259910 bytes).
 PDF statistics:
- 776 PDF objects out of 1000 (max. 8388607)
- 495 compressed objects within 5 object streams
+ 799 PDF objects out of 1000 (max. 8388607)
+ 510 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  399 words of extra memory for PDF output out of 10000 (max. 10000000)
 

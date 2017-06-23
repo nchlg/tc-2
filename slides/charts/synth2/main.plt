@@ -1,0 +1,8 @@
+load "synth2-communications-heatmap.plt"
+load "synth2-path-cost-comparison.plt"
+load "synth2-path-cost-comparison-optimal.plt"
+load "synth2-path-cost-comparison-relative.plt"
+load "synth2-piz-routes.plt"
+load "synth2-routing-tables.plt"
+load "synth2-routing-tables-bits.plt"
+load "synth2-routing-tables-heatmap.plt"

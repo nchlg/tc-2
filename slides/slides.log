@@ -1,0 +1,2399 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  23 JUN 2017 17:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**slides.tex
+(./slides.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasercs.sty
+Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+)
+Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
+cs-revision 8a39122e1f63)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen139
+\extrarowheight=\dimen140
+\NC@list=\toks23
+\extratabsurround=\skip44
+\backup@length=\skip45
+)
+\everycr=\toks24
+\minrowclearance=\skip46
+)
+\rownum=\count112
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen141
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen142
+\pgf@picmaxx=\dimen143
+\pgf@picminy=\dimen144
+\pgf@picmaxy=\dimen145
+\pgf@pathminx=\dimen146
+\pgf@pathmaxx=\dimen147
+\pgf@pathminy=\dimen148
+\pgf@pathmaxy=\dimen149
+\pgf@xx=\dimen150
+\pgf@xy=\dimen151
+\pgf@yx=\dimen152
+\pgf@yy=\dimen153
+\pgf@zx=\dimen154
+\pgf@zy=\dimen155
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen156
+\pgf@path@lasty=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen158
+\pgf@shorten@start@additional=\dimen159
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen160
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen161
+\pgf@pt@y=\dimen162
+\pgf@pt@temp=\dimen163
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen164
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen165
+\pgf@sys@shading@range@num=\count116
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `implicit' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count122
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen167
+\Fld@menulength=\count123
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-
+mappings.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count127
+\beamer@lastskipcover=\skip47
+\beamer@trivlistdepth=\count128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count129
+\c@part=\count130
+\c@section=\count131
+\c@subsection=\count132
+\c@subsubsection=\count133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count134
+\beamer@zoomframecount=\count135
+\beamer@frametextheight=\dimen170
+\c@subsectionslide=\count136
+\beamer@frametopskip=\skip48
+\beamer@framebottomskip=\skip49
+\beamer@frametopskipautobreak=\skip50
+\beamer@framebottomskipautobreak=\skip51
+\beamer@envbody=\toks29
+\framewidth=\dimen171
+\c@framenumber=\count137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count138
+\beamer@autobreaklastheight=\dimen172
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
+Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks32
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen173
+\bmb@dima=\dimen174
+\bmb@dimb=\dimen175
+\bmb@prevheight=\dimen176
+)
+\beamer@blockheadheight=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\c@figure=\count139
+\c@table=\count140
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+\beamer@section@min@dim=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen179
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count141
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count142
+\leftroot@=\count143
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count144
+\DOTSCASE@=\count145
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
+\dotsspace@=\muskip11
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
+\tag@help=\toks35
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
+\andhelp@=\toks36
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks37
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
+\thm@preskip=\skip57
+\thm@postskip=\skip58
+\thm@headsep=\skip59
+\dth@everypar=\toks44
+)
+\c@theorem=\count153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemedefault
+.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemedefa
+ult.sty
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemede
+fault.sty
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemede
+fault.sty
+Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+\beamer@dima=\dimen188
+\beamer@dimb=\dimen189
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemede
+fault.sty
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeSzeged.
+sty
+Package: beamerthemeSzeged 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthememi
+niframes.sty
+Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemebe
+aver.sty
+Package: beamercolorthemebeaver 2010/06/17  (rcs-revision d02a7cf4d8ae)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count154
+\U@D=\dimen190
+LaTeX Info: Redefining \textlatin on input line 1448.
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen191
+\lightrulewidth=\dimen192
+\cmidrulewidth=\dimen193
+\belowrulesep=\dimen194
+\belowbottomsep=\dimen195
+\aboverulesep=\dimen196
+\abovetopsep=\dimen197
+\cmidrulesep=\dimen198
+\cmidrulekern=\dimen199
+\defaultaddspace=\dimen256
+\@cmidla=\count155
+\@cmidlb=\count156
+\@aboverulesep=\dimen257
+\@belowrulesep=\dimen258
+\@thisruleclass=\count157
+\@lastruleclass=\count158
+\@thisrulewidth=\dimen259
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2014/01/03 v1.7j
+
+Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
+\TP@textbox=\box53
+\TP@holdbox=\box54
+\TPHorizModule=\dimen260
+\TPVertModule=\dimen261
+\TP@margin=\dimen262
+\TP@absmargin=\dimen263
+Grid set 16 x 16 = 22.7622pt x 17.07166pt
+\TPboxrulesize=\dimen264
+\TP@ox=\dimen265
+\TP@oy=\dimen266
+\TP@tbargs=\toks47
+\TP@prevdepth=\dimen267
+TextBlockOrigin set to 0pt x 0pt
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count159
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip60
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip61
+\skiplinenumber=\skip62
+\skiprule=\skip63
+\skiphlne=\skip64
+\skiptext=\skip65
+\skiplength=\skip66
+\algomargin=\skip67
+\skipalgocfslide=\skip68
+\algowidth=\dimen268
+\inoutsize=\dimen269
+\inoutindent=\dimen270
+\interspacetitleruled=\dimen271
+\interspacealgoruled=\dimen272
+\interspacetitleboxruled=\dimen273
+\algocf@ruledwidth=\skip69
+\algocf@inoutbox=\box55
+\algocf@inputbox=\box56
+\AlCapSkip=\skip70
+\AlCapHSkip=\skip71
+\algoskipindent=\skip72
+\algocf@nlbox=\box57
+\algocf@hangingbox=\box58
+\algocf@untilbox=\box59
+\algocf@skipuntil=\skip73
+\algocf@capbox=\box60
+\algoheightruledefault=\skip74
+\algoheightrule=\skip75
+\algotitleheightruledefault=\skip76
+\algotitleheightrule=\skip77
+\c@algocfline=\count160
+\c@algocfproc=\count161
+\c@algocf=\count162
+\algocf@algoframe=\box61
+\algocf@algobox=\box62
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen274
+\captionmargin@=\dimen275
+\captionwidth=\dimen276
+\caption@tempdima=\dimen277
+\caption@indent=\dimen278
+\caption@parindent=\dimen279
+\caption@hangindent=\dimen280
+)
+\c@ContinuedFloat=\count163
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count164
+\c@subtable=\count165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box63
+\sift@deathcycles=\count166
+\@vwid@loff=\dimen281
+\@vwid@roff=\dimen282
+)
+\c@taburow=\count167
+\tabu@nbcols=\count168
+\tabu@cnt=\count169
+\tabu@Xcol=\count170
+\tabu@alloc=\count171
+\tabu@nested=\count172
+\tabu@target=\dimen283
+\tabu@spreadtarget=\dimen284
+\tabu@naturalX=\dimen285
+\tabucolX=\dimen286
+\tabu@Xsum=\dimen287
+\extrarowdepth=\dimen288
+\abovetabulinesep=\dimen289
+\belowtabulinesep=\dimen290
+\tabustrutrule=\dimen291
+\tabu@thebody=\toks48
+\tabu@footnotes=\toks49
+\tabu@box=\box64
+\tabu@arstrutbox=\box65
+\tabu@hleads=\box66
+\tabu@vleads=\box67
+\tabu@cellskip=\skip78
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen292
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count173
+\mult@box=\box68
+\multicol@leftmargin=\dimen293
+\c@unbalance=\count174
+\c@collectmore=\count175
+\doublecol@number=\count176
+\multicoltolerance=\count177
+\multicolpretolerance=\count178
+\full@width=\dimen294
+\page@free=\dimen295
+\premulticols=\dimen296
+\postmulticols=\dimen297
+\multicolsep=\skip79
+\multicolbaselineskip=\skip80
+\partial@page=\box69
+\last@line=\box70
+\maxbalancingoverflow=\dimen298
+\mult@rightbox=\box71
+\mult@grightbox=\box72
+\mult@gfirstbox=\box73
+\mult@firstbox=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\c@columnbadness=\count179
+\c@finalcolumnbadness=\count180
+\last@try=\dimen299
+\multicolovershoot=\dimen300
+\multicolundershoot=\dimen301
+\mult@nat@firstbox=\box92
+\colbreak@box=\box93
+\mc@col@check@num=\count181
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 67.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\new@ifnextchar' on input line 67.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 67.
+
+(./slides.aux)
+\openout1 = `slides.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count182
+\scratchdimen=\dimen302
+\scratchbox=\box94
+\nofMPsegments=\count183
+\nofMParguments=\count184
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count185
+\MPscratchDim=\dimen303
+\MPnumerator=\count186
+\makeMPintoPDFobject=\count187
+\everyMPtoPDFconversion=\toks51
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box95
+Package hyperref Info: Link coloring OFF on input line 77.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count188
+)
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
+LaTeX Info: Redefining \nameref on input line 77.
+
+(./slides.out) (./slides.out)
+\@outlinefile=\write5
+\openout5 = `slides.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 77.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 77.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 77.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 77.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `normal' on input line 77
+.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 77
+.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `bold' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 7
+7.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 77.
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
+ic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bib
+liography-dictionary/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-env
+ironment-dictionary/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-mon
+ths-dictionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-num
+bers-dictionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-the
+orem-dictionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 77.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (./slides.nav)
+Overfull \hbox (6.07791pt too wide) in paragraph at lines 77--77
+ [][][][]  
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 87.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[2
+
+] (./introduction.tex (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[3
+
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+
+LaTeX Warning: Citation `sgroi_addressing_2001' on page 4 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Citation `ye_packetization_2004' on page 4 undefined on input li
+ne 18.
+
+
+LaTeX Warning: Citation `diguet_noc-centric_2007' on page 4 undefined on input 
+line 18.
+
+
+LaTeX Warning: Citation `sepulveda_noc-based_2015' on page 4 undefined on input
+ line 18.
+
+
+LaTeX Warning: Citation `grammatikakis_security_2014' on page 4 undefined on in
+put line 18.
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[4
+
+]
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[5
+
+
+] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[6
+
+]
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
+
+]) (./proposal.tex (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[8
+
+]
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[9
+
+] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[10
+
+]
+<images/threat_model/timing-attack.pdf, id=647, 1237.62375pt x 568.37344pt>
+File: images/threat_model/timing-attack.pdf Graphic file (type pdf)
+
+<use images/threat_model/timing-attack.pdf>
+Package pdftex.def Info: images/threat_model/timing-attack.pdf used on input li
+ne 33.
+(pdftex.def)             Requested size: 230.46739pt x 105.84125pt.
+
+Overfull \vbox (13.41579pt too high) detected at line 33
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[11
+
+ <./images/threat_model/timing-attack.pdf>] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[12
+
+]
+<images/secure_routing/security-zones-shapes.pdf, id=805, 1479.27657pt x 793.46
+437pt>
+File: images/secure_routing/security-zones-shapes.pdf Graphic file (type pdf)
+ <use images/secure_routing/security-zones-shapes.pdf>
+Package pdftex.def Info: images/secure_routing/security-zones-shapes.pdf used o
+n input line 50.
+(pdftex.def)             Requested size: 184.3758pt x 98.89223pt.
+
+Overfull \vbox (6.46677pt too high) detected at line 50
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[13
+
+ <./images/secure_routing/security-zones-shapes.pdf>]
+<images/secure_routing/security-zones-fiz.pdf, id=937, 1365.60187pt x 596.98032
+pt>
+File: images/secure_routing/security-zones-fiz.pdf Graphic file (type pdf)
+ <use images/secure_routing/security-zones-fiz.pdf>
+Package pdftex.def Info: images/secure_routing/security-zones-fiz.pdf used on i
+nput line 66.
+(pdftex.def)             Requested size: 261.19826pt x 114.18349pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[14
+
+ <./images/secure_routing/security-zones-fiz.pdf>]
+<images/secure_routing/security-zones-piz.pdf, id=1282, 1365.60187pt x 596.9803
+2pt>
+File: images/secure_routing/security-zones-piz.pdf Graphic file (type pdf)
+ <use images/secure_routing/security-zones-piz.pdf>
+Package pdftex.def Info: images/secure_routing/security-zones-piz.pdf used on i
+nput line 66.
+(pdftex.def)             Requested size: 261.19826pt x 114.18349pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[15
+
+ <./images/secure_routing/security-zones-piz.pdf>]
+<images/secure_routing/security-zones-iz.pdf, id=1624, 1365.60187pt x 596.98032
+pt>
+File: images/secure_routing/security-zones-iz.pdf Graphic file (type pdf)
+ <use images/secure_routing/security-zones-iz.pdf>
+Package pdftex.def Info: images/secure_routing/security-zones-iz.pdf used on in
+put line 66.
+(pdftex.def)             Requested size: 261.19826pt x 114.18349pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[16
+
+ <./images/secure_routing/security-zones-iz.pdf>]
+<images/secure_routing/sbr.pdf, id=1965, 1393.45593pt x 947.03813pt>
+File: images/secure_routing/sbr.pdf Graphic file (type pdf)
+
+<use images/secure_routing/sbr.pdf>
+Package pdftex.def Info: images/secure_routing/sbr.pdf used on input line 79.
+(pdftex.def)             Requested size: 199.73653pt x 135.73466pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[17
+
+ <./images/secure_routing/sbr.pdf>]
+File: images/secure_routing/sbr.pdf Graphic file (type pdf)
+ <use images/secure_routing/sbr.pdf>
+Package pdftex.def Info: images/secure_routing/sbr.pdf used on input line 79.
+(pdftex.def)             Requested size: 199.73653pt x 135.73466pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[18
+
+]
+File: images/secure_routing/sbr.pdf Graphic file (type pdf)
+ <use images/secure_routing/sbr.pdf>
+Package pdftex.def Info: images/secure_routing/sbr.pdf used on input line 79.
+(pdftex.def)             Requested size: 199.73653pt x 135.73466pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[19
+
+]
+<images/secure_routing/sbr-configs.pdf, id=2209, 1330.9725pt x 668.4975pt>
+File: images/secure_routing/sbr-configs.pdf Graphic file (type pdf)
+
+<use images/secure_routing/sbr-configs.pdf>
+Package pdftex.def Info: images/secure_routing/sbr-configs.pdf used on input li
+ne 92.
+(pdftex.def)             Requested size: 261.19826pt x 131.18782pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[20
+
+ <./images/secure_routing/sbr-configs.pdf>]
+<images/secure_routing/sbr-sza.pdf, id=2346, 1271.5003pt x 844.65562pt>
+File: images/secure_routing/sbr-sza.pdf Graphic file (type pdf)
+
+<use images/secure_routing/sbr-sza.pdf>
+Package pdftex.def Info: images/secure_routing/sbr-sza.pdf used on input line 9
+2.
+(pdftex.def)             Requested size: 230.46739pt x 153.0883pt.
+
+Overfull \vbox (9.45328pt too high) detected at line 92
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[21
+
+ <./images/secure_routing/sbr-sza.pdf>]
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[22
+
+] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[23
+
+]
+<images/secure_routing/rbr-path-finding.pdf, id=2547, 1522.93968pt x 710.655pt>
+File: images/secure_routing/rbr-path-finding.pdf Graphic file (type pdf)
+<use images/secure_routing/rbr-path-finding.pdf>
+Package pdftex.def Info: images/secure_routing/rbr-path-finding.pdf used on inp
+ut line 128.
+(pdftex.def)             Requested size: 230.46739pt x 107.53705pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[24
+
+ <./images/secure_routing/rbr-path-finding.pdf>]
+File: images/secure_routing/rbr-path-finding.pdf Graphic file (type pdf)
+
+<use images/secure_routing/rbr-path-finding.pdf>
+Package pdftex.def Info: images/secure_routing/rbr-path-finding.pdf used on inp
+ut line 128.
+(pdftex.def)             Requested size: 230.46739pt x 107.53705pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[25
+
+]
+File: images/secure_routing/rbr-path-finding.pdf Graphic file (type pdf)
+ <use images/secure_routing/rbr-path-finding.pdf>
+Package pdftex.def Info: images/secure_routing/rbr-path-finding.pdf used on inp
+ut line 128.
+(pdftex.def)             Requested size: 230.46739pt x 107.53705pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[26
+
+]) (./evaluation.tex (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[27
+
+] <images/evaluation/shocgentool.png, id=2792, 1423.3175pt x 756.8275pt>
+File: images/evaluation/shocgentool.png Graphic file (type png)
+
+<use images/evaluation/shocgentool.png>
+Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
+5.
+(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[28
+
+ <./images/evaluation/shocgentool.png>]
+File: images/evaluation/shocgentool.png Graphic file (type png)
+
+<use images/evaluation/shocgentool.png>
+Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
+5.
+(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[29
+
+]
+File: images/evaluation/shocgentool.png Graphic file (type png)
+ <use images/evaluation/shocgentool.png>
+Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
+5.
+(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[30
+
+]
+File: images/evaluation/shocgentool.png Graphic file (type png)
+ <use images/evaluation/shocgentool.png>
+Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
+5.
+(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[31
+
+] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[32
+
+]
+Overfull \vbox (4.18272pt too high) detected at line 68
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[33
+
+]
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[34
+
+] (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[35
+
+]
+Package epstopdf Info: Source file: <charts/synth1/synth1-routing-tables-bits-b
+ezier.eps>
+(epstopdf)                    date: 2016-06-24 20:13:48
+(epstopdf)                    size: 28423 bytes
+(epstopdf)             Output file: <charts/synth1/synth1-routing-tables-bits-b
+ezier-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-29 17:42:20
+(epstopdf)                    size: 9095 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-routi
+ng-tables-bits-bezier-eps-converted-to.pdf charts/synth1/synth1-routing-tables-
+bits-bezier.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf, id=3219,
+ 361.35pt x 252.945pt>
+File: charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf Grap
+hic file (type pdf)
+
+<use charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth1/synth1-routing-tables-bits-bezier-eps-co
+nverted-to.pdf used on input line 88.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/synth2/synth2-routing-tables-bits-b
+ezier.eps>
+(epstopdf)                    date: 2016-10-31 10:59:00
+(epstopdf)                    size: 29849 bytes
+(epstopdf)             Output file: <charts/synth2/synth2-routing-tables-bits-b
+ezier-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:46
+(epstopdf)                    size: 9600 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-routi
+ng-tables-bits-bezier-eps-converted-to.pdf charts/synth2/synth2-routing-tables-
+bits-bezier.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf, id=3220,
+ 361.35pt x 252.945pt>
+File: charts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf Grap
+hic file (type pdf)
+
+<use charts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth2/synth2-routing-tables-bits-bezier-eps-co
+nverted-to.pdf used on input line 88.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/nasa/nasa-routing-tables-bits-bezie
+r.eps>
+(epstopdf)                    date: 2016-10-31 11:40:52
+(epstopdf)                    size: 34928 bytes
+(epstopdf)             Output file: <charts/nasa/nasa-routing-tables-bits-bezie
+r-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:46
+(epstopdf)                    size: 8357 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-routing-t
+ables-bits-bezier-eps-converted-to.pdf charts/nasa/nasa-routing-tables-bits-bez
+ier.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/nasa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf, id=3221, 361
+.35pt x 252.945pt>
+File: charts/nasa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use charts/nasa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf>
+Package pdftex.def Info: charts/nasa/nasa-routing-tables-bits-bezier-eps-conver
+ted-to.pdf used on input line 88.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+
+Overfull \vbox (30.65086pt too high) detected at line 88
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[36
+
+ <./charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf> <./ch
+arts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf> <./charts/n
+asa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <charts/synth1/synth1-routing-tables-heatma
+p-sla-off-optimal.eps>
+(epstopdf)                    date: 2016-10-31 10:54:40
+(epstopdf)                    size: 30741 bytes
+(epstopdf)             Output file: <charts/synth1/synth1-routing-tables-heatma
+p-sla-off-optimal-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:48
+(epstopdf)                    size: 19288 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-routi
+ng-tables-heatmap-sla-off-optimal-eps-converted-to.pdf charts/synth1/synth1-rou
+ting-tables-heatmap-sla-off-optimal.eps>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted-to.p
+df, id=3288, 361.35pt x 252.945pt>
+File: charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted
+-to.pdf Graphic file (type pdf)
+
+<use charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted-
+to.pdf>
+Package pdftex.def Info: charts/synth1/synth1-routing-tables-heatmap-sla-off-op
+timal-eps-converted-to.pdf used on input line 104.
+(pdftex.def)             Requested size: 138.2795pt x 96.79553pt.
+Package epstopdf Info: Source file: <charts/synth2/synth2-routing-tables-heatma
+p-sla-off-optimal.eps>
+(epstopdf)                    date: 2016-10-31 10:59:00
+(epstopdf)                    size: 33907 bytes
+(epstopdf)             Output file: <charts/synth2/synth2-routing-tables-heatma
+p-sla-off-optimal-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:48
+(epstopdf)                    size: 19409 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-routi
+ng-tables-heatmap-sla-off-optimal-eps-converted-to.pdf charts/synth2/synth2-rou
+ting-tables-heatmap-sla-off-optimal.eps>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-converted-to.p
+df, id=3289, 361.35pt x 252.945pt>
+File: charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-converted
+-to.pdf Graphic file (type pdf)
+
+<use charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-converted-
+to.pdf>
+Package pdftex.def Info: charts/synth2/synth2-routing-tables-heatmap-sla-off-op
+timal-eps-converted-to.pdf used on input line 104.
+(pdftex.def)             Requested size: 138.2795pt x 96.79553pt.
+Package epstopdf Info: Source file: <charts/nasa/nasa-routing-tables-heatmap-sl
+a-off-optimal.eps>
+(epstopdf)                    date: 2016-10-31 11:40:52
+(epstopdf)                    size: 43820 bytes
+(epstopdf)             Output file: <charts/nasa/nasa-routing-tables-heatmap-sl
+a-off-optimal-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:48
+(epstopdf)                    size: 20389 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-routing-t
+ables-heatmap-sla-off-optimal-eps-converted-to.pdf charts/nasa/nasa-routing-tab
+les-heatmap-sla-off-optimal.eps>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-converted-to.pdf, 
+id=3290, 361.35pt x 252.945pt>
+File: charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-converted-to.
+pdf Graphic file (type pdf)
+
+<use charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-converted-to.p
+df>
+Package pdftex.def Info: charts/nasa/nasa-routing-tables-heatmap-sla-off-optima
+l-eps-converted-to.pdf used on input line 104.
+(pdftex.def)             Requested size: 138.2795pt x 96.79553pt.
+
+Overfull \vbox (13.43694pt too high) detected at line 104
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[37
+
+ <./charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted-t
+o.pdf> <./charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-conve
+rted-to.pdf> <./charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-con
+verted-to.pdf>]
+Package epstopdf Info: Source file: <charts/synth1/synth1-piz-routes-bezier.eps
+>
+(epstopdf)                    date: 2016-10-31 10:54:40
+(epstopdf)                    size: 26683 bytes
+(epstopdf)             Output file: <charts/synth1/synth1-piz-routes-bezier-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:50
+(epstopdf)                    size: 7653 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-piz-r
+outes-bezier-eps-converted-to.pdf charts/synth1/synth1-piz-routes-bezier.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf, id=3360, 361.35pt
+ x 252.945pt>
+File: charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth1/synth1-piz-routes-bezier-eps-converted-t
+o.pdf used on input line 120.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/synth2/synth2-piz-routes-bezier.eps
+>
+(epstopdf)                    date: 2016-10-31 10:59:00
+(epstopdf)                    size: 29248 bytes
+(epstopdf)             Output file: <charts/synth2/synth2-piz-routes-bezier-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:50
+(epstopdf)                    size: 8396 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-piz-r
+outes-bezier-eps-converted-to.pdf charts/synth2/synth2-piz-routes-bezier.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth2/synth2-piz-routes-bezier-eps-converted-to.pdf, id=3361, 361.35pt
+ x 252.945pt>
+File: charts/synth2/synth2-piz-routes-bezier-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use charts/synth2/synth2-piz-routes-bezier-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth2/synth2-piz-routes-bezier-eps-converted-t
+o.pdf used on input line 120.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/nasa/nasa-piz-routes-bezier.eps>
+(epstopdf)                    date: 2016-10-31 11:40:52
+(epstopdf)                    size: 33995 bytes
+(epstopdf)             Output file: <charts/nasa/nasa-piz-routes-bezier-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:52
+(epstopdf)                    size: 7393 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-piz-route
+s-bezier-eps-converted-to.pdf charts/nasa/nasa-piz-routes-bezier.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pdf, id=3362, 361.35pt x 2
+52.945pt>
+File: charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pdf>
+Package pdftex.def Info: charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pd
+f used on input line 120.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+
+Overfull \vbox (30.65086pt too high) detected at line 120
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[38
+
+ <./charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf> <./charts/synt
+h2/synth2-piz-routes-bezier-eps-converted-to.pdf> <./charts/nasa/nasa-piz-route
+s-bezier-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <charts/synth1/synth1-path-cost-comparison-
+relative.eps>
+(epstopdf)                    date: 2016-06-24 16:31:50
+(epstopdf)                    size: 25209 bytes
+(epstopdf)             Output file: <charts/synth1/synth1-path-cost-comparison-
+relative-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-24 16:32:06
+(epstopdf)                    size: 14799 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-path-
+cost-comparison-relative-eps-converted-to.pdf charts/synth1/synth1-path-cost-co
+mparison-relative.eps>
+(epstopdf)             \includegraphics on input line 136.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf, id=34
+29, 361.35pt x 252.945pt>
+File: charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf G
+raphic file (type pdf)
+
+<use charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth1/synth1-path-cost-comparison-relative-eps
+-converted-to.pdf used on input line 136.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/synth2/synth2-path-cost-comparison-
+relative.eps>
+(epstopdf)                    date: 2016-10-31 10:59:00
+(epstopdf)                    size: 25129 bytes
+(epstopdf)             Output file: <charts/synth2/synth2-path-cost-comparison-
+relative-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:52
+(epstopdf)                    size: 13754 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-path-
+cost-comparison-relative-eps-converted-to.pdf charts/synth2/synth2-path-cost-co
+mparison-relative.eps>
+(epstopdf)             \includegraphics on input line 136.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf, id=34
+30, 361.35pt x 252.945pt>
+File: charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf G
+raphic file (type pdf)
+
+<use charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth2/synth2-path-cost-comparison-relative-eps
+-converted-to.pdf used on input line 136.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/nasa/nasa-path-cost-comparison-rela
+tive.eps>
+(epstopdf)                    date: 2016-10-31 11:40:50
+(epstopdf)                    size: 25143 bytes
+(epstopdf)             Output file: <charts/nasa/nasa-path-cost-comparison-rela
+tive-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:54
+(epstopdf)                    size: 15244 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-path-cost
+-comparison-relative-eps-converted-to.pdf charts/nasa/nasa-path-cost-comparison
+-relative.eps>
+(epstopdf)             \includegraphics on input line 136.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf, id=3431, 
+361.35pt x 252.945pt>
+File: charts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use charts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf>
+Package pdftex.def Info: charts/nasa/nasa-path-cost-comparison-relative-eps-con
+verted-to.pdf used on input line 136.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+
+Overfull \vbox (30.65086pt too high) detected at line 136
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[39
+
+ <./charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf> <.
+/charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf> <./ch
+arts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <charts/synth1/synth1-path-cost-comparison-
+optimal.eps>
+(epstopdf)                    date: 2016-06-24 16:34:04
+(epstopdf)                    size: 21574 bytes
+(epstopdf)             Output file: <charts/synth1/synth1-path-cost-comparison-
+optimal-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-24 16:34:12
+(epstopdf)                    size: 11252 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-path-
+cost-comparison-optimal-eps-converted-to.pdf charts/synth1/synth1-path-cost-com
+parison-optimal.eps>
+(epstopdf)             \includegraphics on input line 149.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf, id=349
+8, 361.35pt x 252.945pt>
+File: charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf Gr
+aphic file (type pdf)
+
+<use charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth1/synth1-path-cost-comparison-optimal-eps-
+converted-to.pdf used on input line 149.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+Package epstopdf Info: Source file: <charts/synth2/synth2-path-cost-comparison-
+optimal.eps>
+(epstopdf)                    date: 2016-10-31 10:59:00
+(epstopdf)                    size: 21574 bytes
+(epstopdf)             Output file: <charts/synth2/synth2-path-cost-comparison-
+optimal-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-11-17 17:14:54
+(epstopdf)                    size: 9647 bytes
+(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-path-
+cost-comparison-optimal-eps-converted-to.pdf charts/synth2/synth2-path-cost-com
+parison-optimal.eps>
+(epstopdf)             \includegraphics on input line 149.
+Package epstopdf Info: Output file is already uptodate.
+
+<charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf, id=349
+9, 361.35pt x 252.945pt>
+File: charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf Gr
+aphic file (type pdf)
+
+<use charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf>
+Package pdftex.def Info: charts/synth2/synth2-path-cost-comparison-optimal-eps-
+converted-to.pdf used on input line 149.
+(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[40
+
+ <./charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf> <./
+charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf>])
+(./work-schedule.tex (./slides.toc)
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[41
+
+]
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 07| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 08| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 09| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 10| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 11| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 12| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 01| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 02| 
+ []
+
+
+Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
+ []\T1/cmss/m/n/10.95 03 
+ []
+
+
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[42
+
+])
+Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[43
+
+]
+\tf@nav=\write6
+\openout6 = `slides.nav'.
+
+\tf@toc=\write7
+\openout7 = `slides.toc'.
+
+\tf@snm=\write8
+\openout8 = `slides.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+ (./slides.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package rerunfilecheck Info: File `slides.out' has not changed.
+(rerunfilecheck)             Checksum: 09B6405DB3335C8CF3D4E2F239141B5F;573.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
+ ) 
+Here is how much of TeX's memory you used:
+ 21169 strings out of 493029
+ 393261 string characters out of 6136235
+ 522485 words of memory out of 5000000
+ 24049 multiletter control sequences out of 15000+600000
+ 22100 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,19n,56p,403b,767s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfso1095.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+ss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on slides.pdf (43 pages, 1964771 bytes).
+PDF statistics:
+ 3798 PDF objects out of 4296 (max. 8388607)
+ 2723 compressed objects within 28 object streams
+ 102 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,136 @@
+\documentclass[11pt,xcolor=dvipsnames,table]{beamer}
+\usetheme{Szeged}
+\usecolortheme{beaver}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+%\usepackage{tikz}
+%\usetikzlibrary{calc,arrows,automata,shadows.blur,shapes,positioning,intersections}
+\usepackage{hyperref}
+\usepackage[absolute,overlay]{textpos}
+%\usepackage[backend=biber, style=alphabetic, maxalphanames=1, sortlocale=en_US, natbib=true, url=false, doi=true, eprint=false, maxcitenames=1]{biblatex}
+%\renewcommand*{\labelalphaothers}{}
+\usepackage[algo2e]{algorithm2e}
+\usepackage{caption}
+\usepackage{subcaption}
+\captionsetup{compatibility=false}
+\usepackage{tabu}
+\usepackage{multirow}
+\usepackage{multicol}
+%\addbibresource{References.bib}
+%\bibliography{References}
+%\renewcommand*{\bibfont}{\tiny} % resizes bibliography font size
+
+\setbeamercolor{title}{fg=Brown,bg=Brown!20}
+\setbeamercolor{frametitle}{fg=Brown,bg=Brown!20}
+\setbeamercolor{section in head/foot}{bg=Brown}
+\setbeamercolor{author in head/foot}{bg=Brown}
+\setbeamercolor{date in head/foot}{fg=Brown}
+\setbeamercolor*{item}{fg=Brown}
+
+
+%\deftranslation[to=portuguese]{Theorem}{Teorema}
+%\deftranslation[to=portuguese]{Proof}{Prova}
+
+\defbeamertemplate*{footline}{shadow theme}
+{%
+	\leavevmode%
+	\hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fil,rightskip=.3cm]{author in head/foot}%
+			\usebeamerfont{author in head/foot}\insertframenumber\,/\,\inserttotalframenumber\hfill\insertshortauthor
+		\end{beamercolorbox}%
+		\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+			\usebeamerfont{title in head/foot}\insertshorttitle%
+		\end{beamercolorbox}}%
+		\vskip0pt%
+	}
+
+\AtBeginSection[]
+{
+	\begin{frame}{Index}
+		\tableofcontents[currentsection, currentsubsection]
+	\end{frame}
+}
+
+\AtBeginSubsection[]
+{
+	\begin{frame}{Index}
+		\tableofcontents[currentsection, currentsubsection]
+	\end{frame}
+}
+
+\author[Ramon Costi Fernandes]{\textbf{Priscila Giovanella Vivian} \\ \vspace{20pt} {\scriptsize \textbf{Advisor: Prof. Ph.D. César Augusto Missio Marcon \\ Co-Advisor: Prof. Ph.D. Martha Johanna Sepúlveda Flórez}}}
+\title{A Security Aware Routing Approach for Networks-on-Chip}
+%\subtitle{}
+%\logo{\includegraphics[scale=0.35]{logo-pucrs.jpg}\hspace{1.05\linewidth}\includegraphics[scale=0.35]{logo-facin.jpg}}
+\institute[]{Pontifical Catholic University of Rio Grande do Sul\\Faculty of Informatics\\Computer Science Graduate Program}
+\date{July 20, 2016}
+%\subject{}
+%\setbeamercovered{transparent}
+%\setbeamertemplate{navigation symbols}{}
+
+\begin{document}
+
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% TITLE PAGE %%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	{
+		\setbeamertemplate{headline}{}
+		\setbeamertemplate{footline}{}
+		\begin{frame}
+			\titlepage
+		\end{frame}
+	}
+	\addtocounter{framenumber}{-1} %desconta o primeiro slide da numeracao
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% INDEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}{Index}
+		\tableofcontents
+	\end{frame}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\input{introduction}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% PROJECT PROPOSAL %%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\input{proposal}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% EVALUATION AND RESULTS %%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\input{evaluation}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% WORK SCHEDULE %%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\input{work-schedule}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% QUESTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\begin{frame}
+		\begin{center}
+			{
+				\huge
+				Questions?	
+			}
+		\end{center}
+	\end{frame}
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%%% BIBLIOGRAPHY %%%%%%%%%%%%%%%%%%%%%%%%%
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\begin{frame}[allowframebreaks]
+%		\printbibliography
+%	\end{frame}
+\end{document}

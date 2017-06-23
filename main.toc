@@ -40,27 +40,27 @@
 \contentsline {subsection}{\numberline {5.3.5}\MakeTextUppercase {US05 -- Favoritar Restaurante}}{36}
 \contentsline {section}{\numberline {5.4}\MakeTextUppercase {Fluxograma}}{37}
 \contentsline {section}{\numberline {5.5}\MakeTextUppercase {Modelagem do Banco de Dados}}{37}
-\contentsline {section}{\numberline {5.6}\MakeTextUppercase {Estrutura das Classes}}{38}
-\contentsline {chapter}{\numberline {6}\MakeTextUppercase {Recursos Necess\IeC {\'a}rios}}{39}
-\contentsline {chapter}{\numberline {7}\MakeTextUppercase {Desenvolvimento}}{40}
-\contentsline {section}{\numberline {7.1}\MakeTextUppercase {Ontologia de Card\IeC {\'a}pio}}{40}
-\contentsline {section}{\numberline {7.2}\MakeTextUppercase {Integra\IeC {\c c}\IeC {\~a}o da Ontologia com a Aplica\IeC {\c c}\IeC {\~a}o}}{41}
-\contentsline {section}{\numberline {7.3}\MakeTextUppercase {Aplica\IeC {\c c}\IeC {\~a}o}}{46}
-\contentsline {chapter}{\numberline {8}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o}}{50}
-\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Tarefas}}{50}
-\contentsline {section}{\numberline {8.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{51}
-\contentsline {section}{\numberline {8.3}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{53}
-\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{55}
-\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{55}
-\contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{57}
-\contentsline {section}{\numberline {9.3}\MakeTextUppercase {Sugest\IeC {\~o}es e Melhorias}}{60}
-\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{62}
-\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{62}
-\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{64}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Termo de Consentimento Livre e Esclarecido}{68}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{72}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#2}{80}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#3}{88}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#4}{96}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#5}{103}
-\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace G\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#6}{111}
+\contentsline {section}{\numberline {5.6}\MakeTextUppercase {Estrutura de Classes}}{39}
+\contentsline {chapter}{\numberline {6}\MakeTextUppercase {Recursos Necess\IeC {\'a}rios}}{40}
+\contentsline {chapter}{\numberline {7}\MakeTextUppercase {Desenvolvimento}}{41}
+\contentsline {section}{\numberline {7.1}\MakeTextUppercase {Ontologia de Card\IeC {\'a}pio}}{41}
+\contentsline {section}{\numberline {7.2}\MakeTextUppercase {Integra\IeC {\c c}\IeC {\~a}o da Ontologia com a Aplica\IeC {\c c}\IeC {\~a}o}}{42}
+\contentsline {section}{\numberline {7.3}\MakeTextUppercase {Aplica\IeC {\c c}\IeC {\~a}o}}{47}
+\contentsline {chapter}{\numberline {8}\MakeTextUppercase {Avalia\IeC {\c c}\IeC {\~a}o}}{51}
+\contentsline {section}{\numberline {8.1}\MakeTextUppercase {Tarefas}}{51}
+\contentsline {section}{\numberline {8.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{52}
+\contentsline {section}{\numberline {8.3}\MakeTextUppercase {Quest\IeC {\~o}es \IeC {\'E}ticas}}{54}
+\contentsline {chapter}{\numberline {9}\MakeTextUppercase {Resultados}}{56}
+\contentsline {section}{\numberline {9.1}\MakeTextUppercase {Tarefas}}{56}
+\contentsline {section}{\numberline {9.2}\MakeTextUppercase {Question\IeC {\'a}rio}}{58}
+\contentsline {section}{\numberline {9.3}\MakeTextUppercase {Sugest\IeC {\~o}es e Melhorias}}{61}
+\contentsline {chapter}{\numberline {10}\MakeTextUppercase {Conclus\IeC {\~o}es}}{63}
+\contentsline {section}{\numberline {10.1}\MakeTextUppercase {Trabalhos Futuros}}{63}
+\contentsline {chapter}{\numberline {\hbox {}}\uppercase {Refer\^{e}ncias}}{65}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace A\nobreakspace --\nobreakspace \normalfont Termo de Consentimento Livre e Esclarecido}{69}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace B\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#1}{73}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace C\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#2}{81}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace D\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#3}{89}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace E\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#4}{97}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace F\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#5}{104}
+\contentsline {chapter}{\numberline {}\uppercase {Ap\^endice}\nobreakspace G\nobreakspace --\nobreakspace \normalfont Formul\IeC {\'a}rios do Avaliador \#6}{112}

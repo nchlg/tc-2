@@ -1,0 +1,78 @@
+\input{preambulo}
+
+\begin{document}
+	\begin{figure}
+		\resizebox{1.0\linewidth}{!}{
+		\begin{tikzpicture}
+		%\draw[help lines, draw=black!40] (-5,-5) grid (15,15);
+		
+		\begin{umlpackage}{cardapio virtual}
+			%Principais
+			\umlemptyclass[x=0, y=3]{ProductRecyclerViewAdapter}
+			\umlemptyclass[right=0.6cm of ProductRecyclerViewAdapter]{QuestionRecyclerViewAdapter}
+			\umlemptyclass[right=0.6cm of QuestionRecyclerViewAdapter]{RestaurantRecyclerViewAdapter}
+			\umlemptyclass[right=0.6cm of RestaurantRecyclerViewAdapter]{FavouriteRecyclerViewAdapter}
+			\umlemptyclass[below=1cm of ProductRecyclerViewAdapter]{Product}
+			\umlemptyclass[below=1cm of QuestionRecyclerViewAdapter]{Question}
+			\umlemptyclass[below=1cm of RestaurantRecyclerViewAdapter]{Restaurant}
+			\umlemptyclass[above=1cm of FavouriteRecyclerViewAdapter]{FavouritesFragment}
+			\umlemptyclass[above=1cm of ProductRecyclerViewAdapter]{ProductFragment}
+			\umlemptyclass[above=1cm of QuestionRecyclerViewAdapter]{QuestionFragment}
+			\umlemptyclass[above=1cm of RestaurantRecyclerViewAdapter]{RestaurantFragment}
+			\umlemptyclass[above=1cm of QuestionFragment]{HelpActivity}
+			\umlemptyclass[above=1cm of RestaurantFragment]{MainActivity}
+			\umlemptyclass[above=1cm of ProductFragment]{MenuActivity}
+			\umlemptyclass[above=1cm of FavouritesFragment]{SearchableActivity}
+			\umlemptyclass[above=1cm of MenuActivity]{ProductInfoActivity}
+			\umlemptyclass[above=1cm of HelpActivity]{QuestionInfoActivity}
+			\umlemptyclass[above=1cm of MainActivity]{RestaurantInfoActivity}
+			
+			%Conexões
+			\umluniassoc[geometry=-|]{ProductRecyclerViewAdapter}{Product}
+			\umldep[anchor1=180, anchor2=180, geometry=-|-, arm1=-2cm]{ProductFragment}{Product}
+			\umldep[anchor1=180, anchor2=180, geometry=-|-, arm1=-2cm]{MenuActivity}{Product}
+			\umldep[geometry=-|]{MenuActivity}{ProductFragment}
+			
+			\umluniassoc[geometry=-|]{QuestionRecyclerViewAdapter}{Question}
+			\umldep[anchor1=180, anchor2=180, geometry=-|-, arm1=-1.5cm]{QuestionFragment}{Question}
+			\umldep[anchor1=180, anchor2=180, geometry=-|-, arm1=-1.6cm]{HelpActivity}{Question}
+			\umldep[geometry=-|]{HelpActivity}{QuestionFragment}
+			
+			\umluniassoc[geometry=-|]{RestaurantRecyclerViewAdapter}{Restaurant}
+			\umluniassoc[geometry=|-]{FavouriteRecyclerViewAdapter}{Restaurant}
+			\umldep[anchor1=0, anchor2=0, geometry=-|-, arm1=1.5cm, arm2=1cm]{FavouritesFragment}{Restaurant}
+			\umldep[anchor1=0, anchor2=0, geometry=-|-, arm1=1.2cm]{SearchableActivity}{Restaurant}
+			\umldep[anchor1=180, anchor2=180, geometry=-|-, arm1=-2cm]{MainActivity}{Restaurant}
+			\umldep[anchor1=180, anchor2=180, geometry=-|-, arm1=-1.1cm]{RestaurantFragment}{Restaurant}
+			\umluniassoc[geometry=-|]{MainActivity}{RestaurantFragment}
+			\umldep[anchor1=180, anchor2=0, geometry=-|-, arm1=-1cm]{SearchableActivity}{RestaurantFragment}
+			\umluniassoc[geometry=-|-]{MainActivity}{FavouritesFragment}
+			
+			%Auxiliares
+			\begin{umlpackage}[x=0, y=-2.5]{auxiliaries}
+				\umlemptyclass{FilterInterface}
+				\umlemptyclass[right=1cm of FilterInterface]{Filters}
+				\umlemptyclass[below=1cm of FilterInterface]{Node}
+				\umlemptyclass[right=1cm of Node]{SimpleDividerItemDecotarion}
+				\umlemptyclass[below=1cm of Node]{Utilitarians}
+				\umlemptyclass[right=1cm of Utilitarians]{RestrictionVerifier}
+				
+				%Conexões
+				\umlimpl[geometry=|-]{Filters}{FilterInterface}
+			\end{umlpackage}
+			
+			%Data
+			\begin{umlpackage}[x=11, y=-2.5]{data}
+				\umlemptyclass{DatabaseProvider}
+				\umlemptyclass[right=1cm of DatabaseProvider]{DatabaseContract}
+				\umlemptyclass[below=1cm of DatabaseProvider]{DatabaseHelper}
+				\umlemptyclass[right=1cm of DatabaseHelper]{SuggestionProvider}
+				
+				%Conexões
+				\umluniassoc[geometry=-|]{DatabaseProvider}{DatabaseHelper}
+			\end{umlpackage}
+		\end{umlpackage}
+		\end{tikzpicture}
+		}
+	\end{figure}
+\end{document}

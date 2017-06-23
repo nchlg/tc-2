@@ -1,6 +1,7 @@
 from subprocess import call
 
 # Compila os .tex
+call(['pdflatex', 'diagrama-classes.tex'])
 call(['pdflatex', 'toptop-1.tex'])
 call(['pdflatex', 'topdown-1.tex'])
 call(['pdflatex', 'topdown-2.tex'])
@@ -14,6 +15,7 @@ call(['pdflatex', 'bottomup-4.tex'])
 call(['pdflatex', 'bottomup-5.tex'])
 
 # Faz o crop dos pdfs de saida
+call(['pdfcrop', 'diagrama-classes.pdf', 'diagrama-classes.pdf'])
 call(['pdfcrop', 'toptop-1.pdf', 'toptop-1.pdf'])
 call(['pdfcrop', 'topdown-1.pdf', 'topdown-1.pdf'])
 call(['pdfcrop', 'topdown-2.pdf', 'topdown-2.pdf'])

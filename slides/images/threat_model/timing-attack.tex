@@ -1,0 +1,144 @@
+\documentclass{standalone}
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows, automata, calc, calendar, chains, circuits, datavisualization, decorations, er, external, fadings, fit, fixedpointarithmetic, folding, fpu, graphs, intersections, lindenmayersystems, matrix, mindmap, patterns, petri, plothandlers, plotmarks, positioning, profiler, quotes, shadings, shadows, shapes, spy, svg.path, through, topaths, trees, turtle}
+
+\def \routerSide {4}
+\def \bufferDepth {5}
+\def \nocHeight {5}
+\def \nocWidth {5}
+\def \routerSpacing {5}
+
+\newcommand{\drawBuffer}[3] % #1: X coordinate, #2: Y coordinate, #3: angle
+{
+	\coordinate (l0) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * cos(#3)) - (0 * sin(#3)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * sin(#3)) + (0 * cos(#3)) + #2 + \routerSide*0/4}
+		) $);
+	\coordinate (l1) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * cos(#3)) - (0 * sin(#3)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * sin(#3)) + (0 * cos(#3)) + #2 + \routerSide*0/4}
+		) $);
+	\coordinate (l2) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * cos(#3)) - (\routerSide/4 * sin(#3)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * sin(#3)) + (\routerSide/4 * cos(#3)) + #2 + \routerSide*0/4}
+		) $);
+	\coordinate (l3) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * cos(#3)) - (\routerSide/4 * sin(#3)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * sin(#3)) + (\routerSide/4 * cos(#3)) + #2 + \routerSide*0/4}
+		) $);
+		
+	\draw [] (l0) -- (l1) -- (l2) -- (l3) -- (l0);
+	\foreach \s in {1,...,\bufferDepth}
+	{
+		\coordinate (p0) at ($ (
+			{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * cos(#3)) - (\s * \routerSide/20 * sin(#3)) + #1 + \routerSide*3/4},
+			{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * sin(#3)) + (\s * \routerSide/20 * cos(#3)) + #2 + \routerSide*0/4}
+			) $);
+		\coordinate (p1) at ($ (
+			{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * cos(#3)) - (\s * \routerSide/20 * sin(#3)) + #1 + \routerSide*3/4},
+			{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * sin(#3)) + (\s * \routerSide/20 * cos(#3)) + #2 + \routerSide*0/4}
+			) $);
+		
+		\draw [] (p0) -- (p1);
+	}	
+}
+
+\newcommand{\drawRouter}[2] % #1: X coordinate, #2: Y coordinate
+{
+	%Router Perimeter
+	\coordinate (r0) at ($ ({#1 + 0},{#2 + 0}) $);
+	\coordinate (r1) at ($ ({#1 + 3/4 * \routerSide},{#2 + 0}) $);
+	\coordinate (r2) at ($ ({#1 + \routerSide},{#2 + 1/4 * \routerSide}) $);
+	\coordinate (r3) at ($ ({#1 + \routerSide},{#2 + \routerSide}) $);
+	\coordinate (r4) at ($ ({#1 + 0},{#2 + \routerSide}) $);
+	\draw [] (r0) -- (r1) -- (r2) -- (r3) -- (r4) -- (r0);
+	
+	%South Buffer
+	\coordinate (s0) at ($ ({#1 + \routerSide/2 - 0.25}, {#2 + 0.00 * \routerSide}) $);
+	\coordinate (s1) at ($ ({#1 + \routerSide/2 + 0.25}, {#2 + 0.25 * \routerSide}) $);
+	\draw [] (s0) rectangle (s1);
+	\foreach \s in {1,...,\bufferDepth}
+	{
+		\coordinate (p0) at ($ ({#1 + \routerSide/2 - 0.25}, {#2 + 0.00 * \routerSide + \s * 1/\bufferDepth}) $);
+		\coordinate (p1) at ($ ({#1 + \routerSide/2 + 0.25}, {#2 + 0.00 * \routerSide + \s * 1/\bufferDepth}) $);
+		\draw [] (p0) -- (p1);
+	}
+	
+	%North Buffer
+	\coordinate (n0) at ($ ({#1 + \routerSide/2 - 0.25}, {#2 + 0.75 * \routerSide}) $);
+	\coordinate (n1) at ($ ({#1 + \routerSide/2 + 0.25}, {#2 + 1.00 * \routerSide}) $);
+	\draw [] (n0) rectangle (n1);
+	\foreach \s in {1,...,\bufferDepth}
+	{
+		\coordinate (p0) at ($ ({#1 + \routerSide/2 - 0.25}, {#2 + 0.75 * \routerSide + \s * 1/\bufferDepth}) $);
+		\coordinate (p1) at ($ ({#1 + \routerSide/2 + 0.25}, {#2 + 0.75 * \routerSide + \s * 1/\bufferDepth}) $);
+		\draw [] (p0) -- (p1);
+	}
+	
+	%West Buffer
+	\coordinate (w0) at ($ ({#1 + 0.00 * \routerSide}, {#2 + \routerSide/2 - 0.25}) $);
+	\coordinate (w1) at ($ ({#1 + 0.25 * \routerSide}, {#2 + \routerSide/2 + 0.25}) $);
+	\draw [] (w0) rectangle (w1);
+	\foreach \s in {1,...,\bufferDepth}
+	{
+		\coordinate (p0) at ($ ({#1 + 0.00 * \routerSide + \s * 1/\bufferDepth}, {#2 + \routerSide/2 - 0.25}) $);
+		\coordinate (p1) at ($ ({#1 + 0.00 * \routerSide + \s * 1/\bufferDepth}, {#2 + \routerSide/2 + 0.25}) $);
+		\draw [] (p0) -- (p1);
+	}
+	
+	%East Buffer
+	\coordinate (e0) at ($ ({#1 + 0.75 * \routerSide}, {#2 + \routerSide/2 - 0.25}) $);
+	\coordinate (e1) at ($ ({#1 + 1.00 * \routerSide}, {#2 + \routerSide/2 + 0.25}) $);
+	\draw [] (e0) rectangle (e1);
+	\foreach \s in {1,...,\bufferDepth}
+	{
+		\coordinate (p0) at ($ ({#1 + 0.75 * \routerSide + \s * 1/\bufferDepth}, {#2 + \routerSide/2 - 0.25}) $);
+		\coordinate (p1) at ($ ({#1 + 0.75 * \routerSide + \s * 1/\bufferDepth}, {#2 + \routerSide/2 + 0.25}) $);
+		\draw [] (p0) -- (p1);
+	}
+	
+	%Local Buffer
+	\coordinate (l0) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * cos(45)) - (0 * sin(45)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * sin(45)) + (0 * cos(45)) + #2 + \routerSide*0/4}
+		) $);
+	\coordinate (l1) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * cos(45)) - (0 * sin(45)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * sin(45)) + (0 * cos(45)) + #2 + \routerSide*0/4}
+		) $);
+	\coordinate (l2) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * cos(45)) - (\routerSide/4 * sin(45)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * sin(45)) + (\routerSide/4 * cos(45)) + #2 + \routerSide*0/4}
+		) $);
+	\coordinate (l3) at ($ (
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * cos(45)) - (\routerSide/4 * sin(45)) + #1 + \routerSide*3/4},
+		{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * sin(45)) + (\routerSide/4 * cos(45)) + #2 + \routerSide*0/4}
+		) $);
+
+	\draw [] (l0) -- (l1) -- (l2) -- (l3) -- (l0);
+	\foreach \s in {1,...,\bufferDepth}
+	{
+		\coordinate (p0) at ($ (
+			{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * cos(45)) - (\s * \routerSide/20 * sin(45)) + #1 + \routerSide*3/4},
+			{((sqrt((\routerSide/4)^2 * 2)/2 - 0.25) * sin(45)) + (\s * \routerSide/20 * cos(45)) + #2 + \routerSide*0/4}
+			) $);
+		\coordinate (p1) at ($ (
+			{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * cos(45)) - (\s * \routerSide/20 * sin(45)) + #1 + \routerSide*3/4},
+			{((sqrt((\routerSide/4)^2 * 2)/2 + 0.25) * sin(45)) + (\s * \routerSide/20 * cos(45)) + #2 + \routerSide*0/4}
+			) $);
+		
+		\draw [] (p0) -- (p1);
+	}	
+}
+
+\begin{document}
+\begin{tikzpicture}
+	\foreach \row in {0,8,16,24,32}
+	{
+		\foreach \col in {0,8,16,24,32}
+		{
+			\drawRouter{\col}{\row}	
+		}
+	}
+\end{tikzpicture}
+\end{document}

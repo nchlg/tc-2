@@ -1,0 +1,7 @@
+cd "./nasa"
+load "main.plt"
+cd "../synth1"
+load "main.plt"
+cd "../synth2"
+load "main.plt"
+cd "../"

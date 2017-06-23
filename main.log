@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  22 JUN 2017 14:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  23 JUN 2017 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1349,34 +1349,250 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@toks=\toks44
 \enit@inbox=\box57
 \enitdp@description=\count176
-) (./main.aux
-(./chapters/cap-introducao.aux) (./chapters/cap-objetivos.aux)
-(./chapters/cap-caracterizacao-problema.aux) (./chapters/cap-requisitos.aux)
-(./chapters/cap-modelagem.aux) (./chapters/cap-recursos-necessarios.aux)
-(./chapters/cap-desenvolvimento.aux) (./chapters/cap-avaliacao.aux)
-(./chapters/cap-resultados.aux) (./chapters/cap-conclusao.aux))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count177
+\decimalpart=\count178
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks45
+\pgfopts@list@add@b@toks=\toks46
+) (./tikz-uml.sty
+Package: tikz-uml 2011/01/26
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box58
+\pgfnodeparttwobox=\box59
+\pgfnodepartthreebox=\box60
+\pgfnodepartfourbox=\box61
+\pgfnodeparttwentybox=\box62
+\pgfnodepartnineteenbox=\box63
+\pgfnodeparteighteenbox=\box64
+\pgfnodepartseventeenbox=\box65
+\pgfnodepartsixteenbox=\box66
+\pgfnodepartfifteenbox=\box67
+\pgfnodepartfourteenbox=\box68
+\pgfnodepartthirteenbox=\box69
+\pgfnodeparttwelvebox=\box70
+\pgfnodepartelevenbox=\box71
+\pgfnodeparttenbox=\box72
+\pgfnodepartninebox=\box73
+\pgfnodeparteightbox=\box74
+\pgfnodepartsevenbox=\box75
+\pgfnodepartsixbox=\box76
+\pgfnodepartfivebox=\box77
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.markings.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen268
+\pgfdecoratedremainingdistance=\dimen269
+\pgfdecoratedinputsegmentcompleteddistance=\dimen270
+\pgfdecoratedinputsegmentremainingdistance=\dimen271
+\pgf@decorate@distancetomove=\dimen272
+\pgf@decorate@repeatstate=\count179
+\pgfdecorationsegmentamplitude=\dimen273
+\pgfdecorationsegmentlength=\dimen274
+)
+\tikz@lib@dec@box=\box78
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.markings.code.tex))
+\c@tikzumlPackageLayers=\count180
+\pgf@layerbox@package0=\box79
+\pgf@layerboxsaved@package0=\box80
+\pgf@layerbox@package1=\box81
+\pgf@layerboxsaved@package1=\box82
+\pgf@layerbox@package2=\box83
+\pgf@layerboxsaved@package2=\box84
+\pgf@layerbox@package3=\box85
+\pgf@layerboxsaved@package3=\box86
+\c@tikzumlFragmentLayers=\count181
+\pgf@layerbox@fragment0=\box87
+\pgf@layerboxsaved@fragment0=\box88
+\pgf@layerbox@fragment1=\box89
+\pgf@layerboxsaved@fragment1=\box90
+\pgf@layerbox@fragment2=\box91
+\pgf@layerboxsaved@fragment2=\box92
+\pgf@layerbox@fragment3=\box93
+\pgf@layerboxsaved@fragment3=\box94
+\c@tikzumlStateLayers=\count182
+\pgf@layerbox@state0=\box95
+\pgf@layerboxsaved@state0=\box96
+\pgf@layerbox@state1=\box97
+\pgf@layerboxsaved@state1=\box98
+\pgf@layerbox@state2=\box99
+\pgf@layerboxsaved@state2=\box100
+\pgf@layerbox@state3=\box101
+\pgf@layerboxsaved@state3=\box102
+\c@tikzumlComponentLayers=\count183
+\pgf@layerbox@component0=\box103
+\pgf@layerboxsaved@component0=\box104
+\pgf@layerbox@component1=\box105
+\pgf@layerboxsaved@component1=\box106
+\pgf@layerbox@component2=\box107
+\pgf@layerboxsaved@component2=\box108
+\pgf@layerbox@component3=\box109
+\pgf@layerboxsaved@component3=\box110
+\pgf@layerbox@lifelines=\box111
+\pgf@layerboxsaved@lifelines=\box112
+\pgf@layerbox@activity=\box113
+\pgf@layerboxsaved@activity=\box114
+\pgf@layerbox@connections=\box115
+\pgf@layerboxsaved@connections=\box116
+\c@tikzumlPackageClassNum=\count184
+\c@tikzumlPackageSubPackageNum=\count185
+\c@tikzumlRelationNum=\count186
+\c@tikzumlNoteNum=\count187
+\c@pos=\count188
+\c@posT=\count189
+\c@posStereo=\count190
+\c@tikzumlPackageLevel=\count191
+\tikzumlNestingSymbolSize=\dimen275
+\c@tikzumlSystemUseCaseNum=\count192
+\c@tikzumlSystemLevel=\count193
+\c@tikzumlUseCaseNum=\count194
+\c@tikzumlActorNum=\count195
+\c@tikzumlStateJoinNum=\count196
+\c@tikzumlStateDecisionNum=\count197
+\c@tikzumlStateInitialNum=\count198
+\c@tikzumlStateFinalNum=\count199
+\c@tikzumlStateEnterNum=\count266
+\c@tikzumlStateExitNum=\count267
+\c@tikzumlStateEndNum=\count268
+\c@tikzumlStateHistoryNum=\count269
+\c@tikzumlStateDeepHistoryNum=\count270
+\c@tikzumlStateLevel=\count271
+\c@tikzumlStateSubStateNum=\count272
+\c@tikzumlStateText=\count273
+\c@tikzumlObjectNum=\count274
+\c@tikzumlCallLevel=\count275
+\c@tikzumlCallNum=\count276
+\c@tikzumlFragmentLevel=\count277
+\c@tikzumlFragmentLevelNum=\count278
+\c@tikzumlFragmentNum=\count279
+\c@tikzumlFragmentPartNum=\count280
+\c@tikzumlCallStartFragmentNum=\count281
+\c@tikzumlCallEndFragmentNum=\count282
+\c@tikzumlSDNodeNum=\count283
+\tikzumlCall@xa=\skip84
+\tikzumlCall@xb=\skip85
+\c@tikzumlComponentLevel=\count284
+\c@tikzumlComponentSubComponentNum=\count285
+\c@tikzumlConnectorNum=\count286
+\tikzuml@AC@xa=\skip86
+\tikzuml@AC@ya=\skip87
+\tikzuml@AC@xb=\skip88
+\tikzuml@AC@yb=\skip89
+\tikzuml@AC@xi=\skip90
+\tikzuml@AC@yi=\skip91
+\tikzuml@AC@xic=\skip92
+\tikzuml@AC@yic=\skip93
+\tikzuml@AC@xio=\skip94
+\tikzuml@AC@yio=\skip95
+\tikzuml@AC@AB=\skip96
+\tikzuml@AC@lambda=\skip97
+\tikzuml@AC@xtrc=\skip98
+\tikzuml@AC@ytrc=\skip99
+\tikzuml@AC@xtlc=\skip100
+\tikzuml@AC@ytlc=\skip101
+\tikzuml@AC@xblc=\skip102
+\tikzuml@AC@yblc=\skip103
+\tikzuml@AC@xbrc=\skip104
+\tikzuml@AC@ybrc=\skip105
+\tikzuml@AC@middleArm=\skip106
+) (./main.aux (./chapters/cap-introducao.aux)
+(./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
+(./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
+(./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
+(./chapters/cap-avaliacao.aux) (./chapters/cap-resultados.aux)
+(./chapters/cap-conclusao.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
-LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 129.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 135.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    ... okay on input line 135.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1414,40 +1630,40 @@ LaTeX Font Info:    ... okay on input line 129.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count177
-\scratchdimen=\dimen268
-\scratchbox=\box58
-\nofMPsegments=\count178
-\nofMParguments=\count179
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count180
-\MPscratchDim=\dimen269
-\MPnumerator=\count181
-\makeMPintoPDFobject=\count182
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count287
+\scratchdimen=\dimen276
+\scratchbox=\box117
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen277
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks48
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 135.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 135.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 129.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 135.
 
-Underfull \vbox (badness 10000) detected at line 129
+Underfull \vbox (badness 10000) detected at line 135
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 129--129
+Underfull \hbox (badness 1082) in paragraph at lines 135--135
 \T1/phv/m/n/12 como re-qui-sito par-cial à ob-ten-ção do
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 129--129
+Underfull \hbox (badness 5388) in paragraph at lines 135--135
 \T1/phv/m/n/12 grau de Ba-cha-rel em Sis-te-mas de
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 129--129
+Underfull \hbox (badness 2042) in paragraph at lines 135--135
 \T1/phv/m/n/12 In-for-ma-ção na Pon-ti-fí-cia Uni-ver-si-dade
  []
 
@@ -1502,7 +1718,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box59
+\AtBeginShipoutBox=\box118
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
@@ -1517,11 +1733,11 @@ Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 129.
-\c@lstlisting=\count183
+LaTeX Info: Redefining \selectfont on input line 135.
+\c@lstlisting=\count293
  ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 137.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 143.
 
 [2
 
@@ -1547,14 +1763,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-\tf@lof=\write4
-\openout4 = `main.lof'.
+\tf@lof=\write5
+\openout5 = `main.lof'.
 
  [6
 
 ] (./main.los)
-\tf@los=\write5
-\openout5 = `main.los'.
+\tf@los=\write6
+\openout6 = `main.los'.
 
 
 [7
@@ -1563,17 +1779,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [9]
 Overfull \hbox (1.41573pt too wide) detected at line 65
- []\T1/phv/b/n/12 103
+ []\T1/phv/b/n/12 104
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 66
- []\T1/phv/b/n/12 111
+ []\T1/phv/b/n/12 112
  []
 
 )
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write7
+\openout7 = `main.toc'.
 
  [10]
 \openout2 = `chapters/cap-introducao.aux'.
@@ -1665,7 +1881,7 @@ Underfull \hbox (badness 10000) detected at line 74
 \T1/phv/b/n/12 3.3
  []
 
-<pdf/ontology-weiss.pdf, id=67, 1055.945pt x 587.19376pt>
+<pdf/ontology-weiss.pdf, id=91, 1055.945pt x 587.19376pt>
 File: pdf/ontology-weiss.pdf Graphic file (type pdf)
 
 <use pdf/ontology-weiss.pdf>
@@ -1681,7 +1897,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 124.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 124.
- <fig/protege1.png, id=82, 277.78781pt x 385.44pt>
+ <fig/protege1.png, id=106, 277.78781pt x 385.44pt>
 File: fig/protege1.png Graphic file (type png)
  <use fig/protege1.png>
 Package pdftex.def Info: fig/protege1.png used on input line 135.
@@ -1702,29 +1918,30 @@ Underfull \hbox (badness 10000) detected at line 176
 \T1/phv/m/n/12 3.5.1
  []
 
-<fig/zomato1.PNG, id=93, 700.6175pt x 1003.75pt>
+<fig/zomato1.PNG, id=117, 700.6175pt x 1003.75pt>
 File: fig/zomato1.PNG Graphic file (type png)
  <use fig/zomato1.PNG>
 Package pdftex.def Info: fig/zomato1.PNG used on input line 184.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
-<fig/zomato4.PNG, id=94, 700.6175pt x 1003.75pt>
+<fig/zomato4.PNG, id=118, 700.6175pt x 1003.75pt>
 File: fig/zomato4.PNG Graphic file (type png)
  <use fig/zomato4.PNG>
 Package pdftex.def Info: fig/zomato4.PNG used on input line 187.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
 
-<fig/zomato3.PNG, id=95, 700.6175pt x 1003.75pt>
+<fig/zomato3.PNG, id=119, 700.6175pt x 1003.75pt>
 File: fig/zomato3.PNG Graphic file (type png)
  <use fig/zomato3.PNG>
 Package pdftex.def Info: fig/zomato3.PNG used on input line 190.
 (pdftex.def)             Requested size: 130.60022pt x 187.09991pt.
- [25]
+
+[25]
 Underfull \hbox (badness 10000) detected at line 193
 \T1/phv/m/n/12 3.5.2
  []
 
-<fig/kapten1.jpeg, id=100, 72.27pt x 48.18pt>
+<fig/kapten1.jpeg, id=124, 72.27pt x 48.18pt>
 File: fig/kapten1.jpeg Graphic file (type jpg)
  <use fig/kapten1.jpeg>
 Package pdftex.def Info: fig/kapten1.jpeg used on input line 199.
@@ -1749,7 +1966,7 @@ Underfull \hbox (badness 10000) detected at line 217
 \T1/phv/m/n/12 3.5.6
  []
 
-[28] <fig/gft1.png, id=110, 542.025pt x 927.465pt>
+[28] <fig/gft1.png, id=134, 542.025pt x 927.465pt>
 File: fig/gft1.png Graphic file (type png)
  <use fig/gft1.png>
 Package pdftex.def Info: fig/gft1.png used on input line 225.
@@ -1759,13 +1976,13 @@ Underfull \hbox (badness 1661) in paragraph at lines 225--225
 \T1/phv/m/n/10 rando o con-teúdo prin-ci-pal
  []
 
-<fig/gft3.png, id=111, 542.025pt x 927.465pt>
+<fig/gft3.png, id=135, 542.025pt x 927.465pt>
 File: fig/gft3.png Graphic file (type png)
  <use fig/gft3.png>
 Package pdftex.def Info: fig/gft3.png used on input line 228.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-<fig/gft5.png, id=112, 542.025pt x 927.465pt>
+<fig/gft5.png, id=136, 542.025pt x 927.465pt>
 File: fig/gft5.png Graphic file (type png)
  <use fig/gft5.png>
 Package pdftex.def Info: fig/gft5.png used on input line 231.
@@ -1775,19 +1992,19 @@ Underfull \hbox (badness 10000) detected at line 234
 \T1/phv/m/n/12 3.5.7
  []
 
-<fig/tappy3.png, id=113, 542.025pt x 927.465pt>
+<fig/tappy3.png, id=137, 542.025pt x 927.465pt>
 File: fig/tappy3.png Graphic file (type png)
  <use fig/tappy3.png>
 Package pdftex.def Info: fig/tappy3.png used on input line 242.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-<fig/tappy4.png, id=114, 542.025pt x 927.465pt>
+<fig/tappy4.png, id=138, 542.025pt x 927.465pt>
 File: fig/tappy4.png Graphic file (type png)
  <use fig/tappy4.png>
 Package pdftex.def Info: fig/tappy4.png used on input line 245.
 (pdftex.def)             Requested size: 130.60022pt x 223.47357pt.
 
-<fig/tappy2.png, id=115, 542.025pt x 927.465pt>
+<fig/tappy2.png, id=139, 542.025pt x 927.465pt>
 File: fig/tappy2.png Graphic file (type png)
  <use fig/tappy2.png>
 Package pdftex.def Info: fig/tappy2.png used on input line 248.
@@ -1803,7 +2020,7 @@ Underfull \hbox (badness 10000) detected at line 251
  []
 
 )
-Overfull \hbox (0.89468pt too wide) in paragraph at lines 253--194
+Overfull \hbox (0.89468pt too wide) in paragraph at lines 253--200
 []\T1/phv/m/n/12 Os apli-ca-ti-vos para dis-po-si-ti-vos mó-veis tes-ta-dos e a
 pre-sen-ta-dos nesta se-ção (3.5.1[]
  []
@@ -1843,7 +2060,7 @@ Underfull \hbox (badness 10000) detected at line 1
 \T1/phv/b/n/14.4 5. 
  []
 
-<fig/kanban1.png, id=126, 842.14626pt x 349.305pt>
+<fig/kanban1.png, id=150, 842.14626pt x 349.305pt>
 File: fig/kanban1.png Graphic file (type png)
  <use fig/kanban1.png>
 Package pdftex.def Info: fig/kanban1.png used on input line 11.
@@ -1912,7 +2129,7 @@ Underfull \hbox (badness 10000) detected at line 79
 \T1/phv/b/n/12 5.4
  []
 
-[36] <./pdf/fluxograma-atual.pdf, id=144, 658.46pt x 528.97626pt>
+[36] <./pdf/fluxograma-atual.pdf, id=168, 658.46pt x 528.97626pt>
 File: ./pdf/fluxograma-atual.pdf Graphic file (type pdf)
 
 <use ./pdf/fluxograma-atual.pdf>
@@ -1924,7 +2141,7 @@ Underfull \hbox (badness 10000) detected at line 89
  []
 
 [37 <./pdf/fluxograma-atual.pdf>]
-<./pdf/bd.pdf, id=152, 528.97626pt x 459.7175pt>
+<./pdf/bd.pdf, id=176, 528.97626pt x 459.7175pt>
 File: ./pdf/bd.pdf Graphic file (type pdf)
  <use ./pdf/bd.pdf>
 Package pdftex.def Info: ./pdf/bd.pdf used on input line 96.
@@ -1934,7 +2151,14 @@ Underfull \hbox (badness 10000) detected at line 99
 \T1/phv/b/n/12 5.6
  []
 
-) [38 <./pdf/bd.pdf>]
+<./pdf/tikz/diagrama-classes.pdf, id=177, 343.2825pt x 253.94875pt>
+File: ./pdf/tikz/diagrama-classes.pdf Graphic file (type pdf)
+
+<use ./pdf/tikz/diagrama-classes.pdf>
+Package pdftex.def Info: ./pdf/tikz/diagrama-classes.pdf used on input line 106
+.
+(pdftex.def)             Requested size: 435.32422pt x 322.0347pt.
+) [38 <./pdf/bd.pdf>] [39 <./pdf/tikz/diagrama-classes.pdf>]
 \openout2 = `chapters/cap-recursos-necessarios.aux'.
 
  (./chapters/cap-recursos-necessarios.tex
@@ -1944,7 +2168,7 @@ Underfull \hbox (badness 10000) detected at line 1
 \T1/phv/b/n/14.4 6. 
  []
 
-) [39
+) [40
 
 
 
@@ -1963,18 +2187,18 @@ Underfull \hbox (badness 10000) detected at line 5
 \T1/phv/b/n/12 7.1
  []
 
-[40
+[41
 
 
 
-] <./fig/propriedade-1.png, id=165, 218.8175pt x 332.24126pt>
+] <./fig/propriedade-1.png, id=201, 218.8175pt x 332.24126pt>
 File: ./fig/propriedade-1.png Graphic file (type png)
 
 <use ./fig/propriedade-1.png>
 Package pdftex.def Info: ./fig/propriedade-1.png used on input line 32.
 (pdftex.def)             Requested size: 145.11053pt x 220.3293pt.
 
-<./fig/propriedade-2.png, id=166, 218.8175pt x 332.24126pt>
+<./fig/propriedade-2.png, id=202, 218.8175pt x 332.24126pt>
 File: ./fig/propriedade-2.png Graphic file (type png)
 
 <use ./fig/propriedade-2.png>
@@ -1985,92 +2209,92 @@ Underfull \hbox (badness 10000) detected at line 38
 \T1/phv/b/n/12 7.2
  []
 
-[41 <./fig/propriedade-1.png> <./fig/propriedade-2.png>]
-<./pdf/tikz/toptop-1.pdf, id=170, 463.7325pt x 328.22626pt>
+[42 <./fig/propriedade-1.png> <./fig/propriedade-2.png>]
+<./pdf/tikz/toptop-1.pdf, id=206, 463.7325pt x 328.22626pt>
 File: ./pdf/tikz/toptop-1.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/toptop-1.pdf>
 Package pdftex.def Info: ./pdf/tikz/toptop-1.pdf used on input line 48.
 (pdftex.def)             Requested size: 290.22107pt x 205.42137pt.
- [42 <./pdf/tikz/toptop-1.pdf>]
-<./pdf/tikz/topdown-1.pdf, id=186, 463.7325pt x 328.22626pt>
+ [43 <./pdf/tikz/toptop-1.pdf>]
+<./pdf/tikz/topdown-1.pdf, id=222, 463.7325pt x 328.22626pt>
 File: ./pdf/tikz/topdown-1.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/topdown-1.pdf>
 Package pdftex.def Info: ./pdf/tikz/topdown-1.pdf used on input line 58.
 (pdftex.def)             Requested size: 217.66211pt x 154.06102pt.
 
-<./pdf/tikz/topdown-2.pdf, id=187, 463.7325pt x 328.22626pt>
+<./pdf/tikz/topdown-2.pdf, id=223, 463.7325pt x 328.22626pt>
 File: ./pdf/tikz/topdown-2.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/topdown-2.pdf>
 Package pdftex.def Info: ./pdf/tikz/topdown-2.pdf used on input line 61.
 (pdftex.def)             Requested size: 217.66211pt x 154.06102pt.
 
-<./pdf/tikz/topdown-3.pdf, id=188, 463.7325pt x 328.22626pt>
+<./pdf/tikz/topdown-3.pdf, id=224, 463.7325pt x 328.22626pt>
 File: ./pdf/tikz/topdown-3.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/topdown-3.pdf>
 Package pdftex.def Info: ./pdf/tikz/topdown-3.pdf used on input line 64.
 (pdftex.def)             Requested size: 217.66211pt x 154.06102pt.
 
-<./pdf/tikz/topdown-4.pdf, id=189, 463.7325pt x 328.22626pt>
+<./pdf/tikz/topdown-4.pdf, id=225, 463.7325pt x 328.22626pt>
 File: ./pdf/tikz/topdown-4.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/topdown-4.pdf>
 Package pdftex.def Info: ./pdf/tikz/topdown-4.pdf used on input line 67.
 (pdftex.def)             Requested size: 217.66211pt x 154.06102pt.
 
-<./pdf/tikz/topdown-5.pdf, id=190, 392.46625pt x 328.22626pt>
+<./pdf/tikz/topdown-5.pdf, id=226, 392.46625pt x 328.22626pt>
 File: ./pdf/tikz/topdown-5.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/topdown-5.pdf>
 Package pdftex.def Info: ./pdf/tikz/topdown-5.pdf used on input line 76.
 (pdftex.def)             Requested size: 266.03474pt x 222.50476pt.
- [43 <./pdf/tikz/topdown-1.pdf> <./pdf/tikz/topdown-2.pdf> <./pdf/tikz/topdown-
+ [44 <./pdf/tikz/topdown-1.pdf> <./pdf/tikz/topdown-2.pdf> <./pdf/tikz/topdown-
 3.pdf> <./pdf/tikz/topdown-4.pdf>]
-<./pdf/tikz/bottomup-1.pdf, id=239, 392.46625pt x 328.22626pt>
+<./pdf/tikz/bottomup-1.pdf, id=274, 392.46625pt x 328.22626pt>
 File: ./pdf/tikz/bottomup-1.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/bottomup-1.pdf>
 Package pdftex.def Info: ./pdf/tikz/bottomup-1.pdf used on input line 86.
 (pdftex.def)             Requested size: 217.66211pt x 182.0375pt.
 
-<./pdf/tikz/bottomup-2.pdf, id=240, 392.46625pt x 328.22626pt>
+<./pdf/tikz/bottomup-2.pdf, id=275, 392.46625pt x 328.22626pt>
 File: ./pdf/tikz/bottomup-2.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/bottomup-2.pdf>
 Package pdftex.def Info: ./pdf/tikz/bottomup-2.pdf used on input line 89.
 (pdftex.def)             Requested size: 217.66211pt x 182.0375pt.
 
-<./pdf/tikz/bottomup-3.pdf, id=241, 392.46625pt x 328.22626pt>
+<./pdf/tikz/bottomup-3.pdf, id=276, 392.46625pt x 328.22626pt>
 File: ./pdf/tikz/bottomup-3.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/bottomup-3.pdf>
 Package pdftex.def Info: ./pdf/tikz/bottomup-3.pdf used on input line 92.
 (pdftex.def)             Requested size: 217.66211pt x 182.0375pt.
 
-<./pdf/tikz/bottomup-4.pdf, id=242, 392.46625pt x 328.22626pt>
+<./pdf/tikz/bottomup-4.pdf, id=277, 392.46625pt x 328.22626pt>
 File: ./pdf/tikz/bottomup-4.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/bottomup-4.pdf>
 Package pdftex.def Info: ./pdf/tikz/bottomup-4.pdf used on input line 95.
 (pdftex.def)             Requested size: 217.66211pt x 182.0375pt.
 
-<./pdf/tikz/bottomup-5.pdf, id=243, 392.46625pt x 369.38pt>
+<./pdf/tikz/bottomup-5.pdf, id=278, 392.46625pt x 369.38pt>
 File: ./pdf/tikz/bottomup-5.pdf Graphic file (type pdf)
 
 <use ./pdf/tikz/bottomup-5.pdf>
 Package pdftex.def Info: ./pdf/tikz/bottomup-5.pdf used on input line 98.
 (pdftex.def)             Requested size: 217.66211pt x 204.86177pt.
- [44 <./pdf/tikz/topdown-5.pdf>]
+ [45 <./pdf/tikz/topdown-5.pdf>]
 Underfull \hbox (badness 10000) detected at line 101
 \T1/phv/b/n/12 7.3
  []
 
-[45 <./pdf/tikz/bottomup-1.pdf> <./pdf/tikz/bottomup-2.pdf> <./pdf/tikz/bottomu
+[46 <./pdf/tikz/bottomup-1.pdf> <./pdf/tikz/bottomup-2.pdf> <./pdf/tikz/bottomu
 p-3.pdf> <./pdf/tikz/bottomup-4.pdf> <./pdf/tikz/bottomup-5.pdf>]
-<./fig/cardapio-virtual/tela-inicial-1.png, id=328, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/tela-inicial-1.png, id=364, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/tela-inicial-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/tela-inicial-1.png>
@@ -2078,24 +2302,24 @@ Package pdftex.def Info: ./fig/cardapio-virtual/tela-inicial-1.png used on inpu
 t line 110.
 (pdftex.def)             Requested size: 140.26883pt x 249.33913pt.
 
-<./fig/cardapio-virtual/tela-inicial-2-busca.png, id=329, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/tela-inicial-2-busca.png, id=365, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/tela-inicial-2-busca.png Graphic file (type png)
 <use ./fig/cardapio-virtual/tela-inicial-2-busca.png>
 Package pdftex.def Info: ./fig/cardapio-virtual/tela-inicial-2-busca.png used o
 n input line 113.
 (pdftex.def)             Requested size: 140.26883pt x 249.33913pt.
 
-<./fig/cardapio-virtual/tela-busca.png, id=330, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/tela-busca.png, id=366, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/tela-busca.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/tela-busca.png>
 Package pdftex.def Info: ./fig/cardapio-virtual/tela-busca.png used on input li
 ne 116.
 (pdftex.def)             Requested size: 140.26883pt x 249.33913pt.
- [46 <./fig/cardapio-virtual/tela-inicial-1.png (PNG copy)> <./fig/cardapio-vir
+ [47 <./fig/cardapio-virtual/tela-inicial-1.png (PNG copy)> <./fig/cardapio-vir
 tual/tela-inicial-2-busca.png (PNG copy)> <./fig/cardapio-virtual/tela-busca.pn
 g (PNG copy)>]
-<./fig/cardapio-virtual/info-restaurante-1.png, id=334, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/info-restaurante-1.png, id=370, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/info-restaurante-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/info-restaurante-1.png>
@@ -2103,7 +2327,7 @@ Package pdftex.def Info: ./fig/cardapio-virtual/info-restaurante-1.png used on
 input line 133.
 (pdftex.def)             Requested size: 145.11053pt x 257.95528pt.
 
-<./fig/cardapio-virtual/ajuda-1.png, id=335, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/ajuda-1.png, id=371, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/ajuda-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/ajuda-1.png>
@@ -2111,7 +2335,7 @@ Package pdftex.def Info: ./fig/cardapio-virtual/ajuda-1.png used on input line
 136.
 (pdftex.def)             Requested size: 145.11053pt x 257.95528pt.
 
-<./fig/cardapio-virtual/cardapio-1.png, id=336, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/cardapio-1.png, id=372, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/cardapio-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/cardapio-1.png>
@@ -2119,7 +2343,7 @@ Package pdftex.def Info: ./fig/cardapio-virtual/cardapio-1.png used on input li
 ne 146.
 (pdftex.def)             Requested size: 145.11053pt x 257.95528pt.
 
-<./fig/cardapio-virtual/cardapio-2.png, id=337, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/cardapio-2.png, id=373, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/cardapio-2.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/cardapio-2.png>
@@ -2127,7 +2351,7 @@ Package pdftex.def Info: ./fig/cardapio-virtual/cardapio-2.png used on input li
 ne 149.
 (pdftex.def)             Requested size: 145.11053pt x 257.95528pt.
 
-<./fig/cardapio-virtual/filtrar-1.png, id=338, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/filtrar-1.png, id=374, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/filtrar-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/filtrar-1.png>
@@ -2135,16 +2359,16 @@ Package pdftex.def Info: ./fig/cardapio-virtual/filtrar-1.png used on input lin
 e 152.
 (pdftex.def)             Requested size: 145.11053pt x 257.95528pt.
 
-<./fig/cardapio-virtual/ordenar-1.png, id=339, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/ordenar-1.png, id=375, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/ordenar-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/ordenar-1.png>
 Package pdftex.def Info: ./fig/cardapio-virtual/ordenar-1.png used on input lin
 e 155.
 (pdftex.def)             Requested size: 145.11053pt x 257.95528pt.
- [47 <./fig/cardapio-virtual/info-restaurante-1.png (PNG copy)> <./fig/cardapio
+ [48 <./fig/cardapio-virtual/info-restaurante-1.png (PNG copy)> <./fig/cardapio
 -virtual/ajuda-1.png (PNG copy)>]
-<./fig/cardapio-virtual/produto-1.png, id=344, 1084.05pt x 1927.2pt>
+<./fig/cardapio-virtual/produto-1.png, id=379, 1084.05pt x 1927.2pt>
 File: ./fig/cardapio-virtual/produto-1.png Graphic file (type png)
 
 <use ./fig/cardapio-virtual/produto-1.png>
@@ -2156,9 +2380,9 @@ Underfull \hbox (badness 2922) in paragraph at lines 163--163
 []\T1/phv/m/n/10 (e) In-for-ma-ções adi-ci-o-nais do
  []
 
-) [48 <./fig/cardapio-virtual/cardapio-1.png (PNG copy)> <./fig/cardapio-virtua
+) [49 <./fig/cardapio-virtual/cardapio-1.png (PNG copy)> <./fig/cardapio-virtua
 l/cardapio-2.png (PNG copy)> <./fig/cardapio-virtual/filtrar-1.png (PNG copy)> 
-<./fig/cardapio-virtual/ordenar-1.png (PNG copy)>] [49 <./fig/cardapio-virtual/
+<./fig/cardapio-virtual/ordenar-1.png (PNG copy)>] [50 <./fig/cardapio-virtual/
 produto-1.png (PNG copy)>]
 \openout2 = `chapters/cap-avaliacao.aux'.
 
@@ -2174,7 +2398,7 @@ Underfull \hbox (badness 10000) detected at line 9
 \T1/phv/b/n/12 8.1
  []
 
-[50
+[51
 
 
 
@@ -2183,12 +2407,12 @@ Underfull \hbox (badness 10000) detected at line 24
 \T1/phv/b/n/12 8.2
  []
 
-[51] [52]
+[52] [53]
 Underfull \hbox (badness 10000) detected at line 73
 \T1/phv/b/n/12 8.3
  []
 
-) [53] [54]
+) [54] [55]
 \openout2 = `chapters/cap-resultados.aux'.
 
  (./chapters/cap-resultados.tex
@@ -2203,24 +2427,24 @@ Underfull \hbox (badness 10000) detected at line 5
 \T1/phv/b/n/12 9.1
  []
 
-<./charts/tempo-sem-dv.pdf, id=367, 722.7pt x 433.62pt>
+<./charts/tempo-sem-dv.pdf, id=403, 722.7pt x 433.62pt>
 File: ./charts/tempo-sem-dv.pdf Graphic file (type pdf)
 
 <use ./charts/tempo-sem-dv.pdf>
 Package pdftex.def Info: ./charts/tempo-sem-dv.pdf used on input line 16.
 (pdftex.def)             Requested size: 386.95897pt x 232.17297pt.
- [55
+ [56
 
 
 
 ]
-<./charts/tempo.pdf, id=372, 722.7pt x 433.62pt>
+<./charts/tempo.pdf, id=407, 722.7pt x 433.62pt>
 File: ./charts/tempo.pdf Graphic file (type pdf)
  <use ./charts/tempo.pdf>
 Package pdftex.def Info: ./charts/tempo.pdf used on input line 26.
 (pdftex.def)             Requested size: 386.95897pt x 232.17297pt.
 
-[56 <./charts/tempo-sem-dv.pdf> <./charts/tempo.pdf
+[57 <./charts/tempo-sem-dv.pdf> <./charts/tempo.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./charts/tempo.pdf): PDF inclusion: mul
 tiple pdfs with page group included in a single page
@@ -2229,72 +2453,72 @@ Underfull \hbox (badness 10000) detected at line 30
 \T1/phv/b/n/12 9.2
  []
 
-<charts/qt1.pdf, id=398, 722.7pt x 433.62pt>
+<charts/qt1.pdf, id=433, 722.7pt x 433.62pt>
 File: charts/qt1.pdf Graphic file (type pdf)
  <use charts/qt1.pdf>
 Package pdftex.def Info: charts/qt1.pdf used on input line 43.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt2.pdf, id=399, 722.7pt x 433.62pt>
+<charts/qt2.pdf, id=434, 722.7pt x 433.62pt>
 File: charts/qt2.pdf Graphic file (type pdf)
  <use charts/qt2.pdf>
 Package pdftex.def Info: charts/qt2.pdf used on input line 46.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt3.pdf, id=400, 722.7pt x 433.62pt>
+<charts/qt3.pdf, id=435, 722.7pt x 433.62pt>
 File: charts/qt3.pdf Graphic file (type pdf)
  <use charts/qt3.pdf>
 Package pdftex.def Info: charts/qt3.pdf used on input line 49.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt4.pdf, id=401, 722.7pt x 433.62pt>
+<charts/qt4.pdf, id=436, 722.7pt x 433.62pt>
 File: charts/qt4.pdf Graphic file (type pdf)
  <use charts/qt4.pdf>
 Package pdftex.def Info: charts/qt4.pdf used on input line 52.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt5.pdf, id=402, 722.7pt x 433.62pt>
+<charts/qt5.pdf, id=437, 722.7pt x 433.62pt>
 File: charts/qt5.pdf Graphic file (type pdf)
  <use charts/qt5.pdf>
 Package pdftex.def Info: charts/qt5.pdf used on input line 55.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt6.pdf, id=403, 722.7pt x 433.62pt>
+<charts/qt6.pdf, id=438, 722.7pt x 433.62pt>
 File: charts/qt6.pdf Graphic file (type pdf)
  <use charts/qt6.pdf>
 Package pdftex.def Info: charts/qt6.pdf used on input line 58.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt7.pdf, id=404, 722.7pt x 433.62pt>
+<charts/qt7.pdf, id=439, 722.7pt x 433.62pt>
 File: charts/qt7.pdf Graphic file (type pdf)
  <use charts/qt7.pdf>
 Package pdftex.def Info: charts/qt7.pdf used on input line 61.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt8.pdf, id=405, 722.7pt x 433.62pt>
+<charts/qt8.pdf, id=440, 722.7pt x 433.62pt>
 File: charts/qt8.pdf Graphic file (type pdf)
  <use charts/qt8.pdf>
 Package pdftex.def Info: charts/qt8.pdf used on input line 64.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
- [57]
-<charts/qt9.pdf, id=409, 722.7pt x 433.62pt>
+ [58]
+<charts/qt9.pdf, id=444, 722.7pt x 433.62pt>
 File: charts/qt9.pdf Graphic file (type pdf)
  <use charts/qt9.pdf>
 Package pdftex.def Info: charts/qt9.pdf used on input line 72.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt10.pdf, id=410, 722.7pt x 433.62pt>
+<charts/qt10.pdf, id=445, 722.7pt x 433.62pt>
 File: charts/qt10.pdf Graphic file (type pdf)
  <use charts/qt10.pdf>
 Package pdftex.def Info: charts/qt10.pdf used on input line 75.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
 
-<charts/qt11.pdf, id=411, 722.7pt x 433.62pt>
+<charts/qt11.pdf, id=446, 722.7pt x 433.62pt>
 File: charts/qt11.pdf Graphic file (type pdf)
  <use charts/qt11.pdf>
 Package pdftex.def Info: charts/qt11.pdf used on input line 78.
 (pdftex.def)             Requested size: 217.66211pt x 130.59647pt.
- [58 <./charts/qt1.pdf> <./charts/qt2.pdf
+ [59 <./charts/qt1.pdf> <./charts/qt2.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./charts/qt2.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
@@ -2327,7 +2551,7 @@ Underfull \hbox (badness 10000) detected at line 84
 \T1/phv/b/n/12 9.3
  []
 
-[59 <./charts/qt9.pdf> <./charts/qt10.pdf
+[60 <./charts/qt9.pdf> <./charts/qt10.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./charts/qt10.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
@@ -2335,7 +2559,7 @@ iple pdfs with page group included in a single page
 
 pdfTeX warning: /usr/bin/pdflatex (file ./charts/qt11.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
->]) [60] [61]
+>]) [61] [62]
 \openout2 = `chapters/cap-conclusao.aux'.
 
  (./chapters/cap-conclusao.tex
@@ -2350,17 +2574,17 @@ Underfull \hbox (badness 10000) detected at line 11
 \T1/phv/b/n/12 10.1
  []
 
-[62
+[63
 
 
 
-]) [63] (./main.bbl
+]) [64] (./main.bbl
 Underfull \hbox (badness 1635) in paragraph at lines 54--58
 \T1/phv/m/n/12 Melhorar a Cognição em Pessoas com Deficiência Visual ^^U Fase 2
 ''. Projeto
  []
 
-[64
+[65
 
 
 ]
@@ -2411,7 +2635,7 @@ Underfull \hbox (badness 1406) in paragraph at lines 160--165
 . ufg . br / sites / default / ^^\les /
  []
 
-[65]
+[66]
 Underfull \hbox (badness 10000) in paragraph at lines 179--184
 []\T1/phv/m/n/12 NOY, N. F.; MC-GUIN-NESS, D. L. ``On-to-logy de-ve-lop-ment
  []
@@ -2464,84 +2688,84 @@ Underfull \hbox (badness 1406) in paragraph at lines 236--241
 -nal Con-fe-rence on Sys-tem
  []
 
-[66]) [67]
+[67]) [68]
 \uppercase {Ap\^endice} A.
-<./pdf/tcle.pdf, id=524, 598.235pt x 846.16125pt>
+<./pdf/tcle.pdf, id=559, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf>
-Package pdftex.def Info: ./pdf/tcle.pdf used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf>
-Package pdftex.def Info: ./pdf/tcle.pdf used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- <./pdf/tcle.pdf, id=527, page=1, 598.235pt x 846.16125pt>
+ <./pdf/tcle.pdf, id=562, page=1, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [68
+ [69
 
 ]
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 223.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [69 <./pdf/tcle.pdf
-
-pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
- other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <./pdf/tcle.pdf, id=556, page=2, 598.235pt x 846.16125pt>
-File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf, page 2>
-Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 223.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
- <use ./pdf/tcle.pdf, page 2>
-Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 223.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf, page 2>
-Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
  [70 <./pdf/tcle.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <./pdf/tcle.pdf, id=560, page=3, 598.235pt x 846.16125pt>
+>] <./pdf/tcle.pdf, id=591, page=2, 598.235pt x 846.16125pt>
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 229.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+ <use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 229.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 229.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+ [71 <./pdf/tcle.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
+ other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] <./pdf/tcle.pdf, id=595, page=3, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 3>
-Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf, page 3>
-Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 3>
-Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 223.
+Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 229.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [71 <./pdf/tcle.pdf
+ [72 <./pdf/tcle.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
@@ -2556,22 +2780,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[72
+[73
 
-] [73] [74]
-Underfull \vbox (badness 10000) detected at line 412
+] [74] [75]
+Underfull \vbox (badness 10000) detected at line 418
  []
 
-[75
+[76
 
-] [76] [77]
+] [77] [78]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 456.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 462.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[78] [79]
+[79] [80]
 \uppercase {Ap\^endice} C.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2582,22 +2806,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80
+[81
 
-] [81] [82]
-Underfull \vbox (badness 10000) detected at line 644
+] [82] [83]
+Underfull \vbox (badness 10000) detected at line 650
  []
 
-[83
+[84
 
-] [84] [85]
+] [85] [86]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 688.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 694.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[86] [87]
+[87] [88]
 \uppercase {Ap\^endice} D.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2608,22 +2832,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[88
+[89
 
-] [89] [90]
-Underfull \vbox (badness 10000) detected at line 878
+] [90] [91]
+Underfull \vbox (badness 10000) detected at line 884
  []
 
-[91
+[92
 
-] [92] [93]
+] [93] [94]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 923.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 929.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[94] [95]
+[95] [96]
 \uppercase {Ap\^endice} E.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2634,28 +2858,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[96
+[97
 
 ]
 
-LaTeX Warning: Text page 97 contains only floats.
+LaTeX Warning: Text page 98 contains only floats.
 
 
 Overfull \vbox (4.3571pt too high) has occurred while \output is active []
 
 
-[97]
-Underfull \vbox (badness 10000) detected at line 1112
+[98]
+Underfull \vbox (badness 10000) detected at line 1118
  []
 
-[98] [99] [100]
+[99] [100] [101]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 1156.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1162.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[101] [102]
+[102] [103]
 \uppercase {Ap\^endice} F.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2666,22 +2890,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[103
+[104
 
-] [104] [105]
-Underfull \vbox (badness 10000) detected at line 1345
+] [105] [106]
+Underfull \vbox (badness 10000) detected at line 1351
  []
 
-[106
+[107
 
-] [107] [108]
+] [108] [109]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 1389.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1395.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[109] [110]
+[110] [111]
 \uppercase {Ap\^endice} G.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2692,41 +2916,41 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[111
+[112
 
 ]
 
-LaTeX Warning: Text page 112 contains only floats.
+LaTeX Warning: Text page 113 contains only floats.
 
 
 Overfull \vbox (12.31306pt too high) has occurred while \output is active []
 
 
-[112]
-Underfull \vbox (badness 10000) detected at line 1578
+[113]
+Underfull \vbox (badness 10000) detected at line 1584
  []
 
-[113] [114] [115]
+[114] [115] [116]
 
-LaTeX Warning: Float too large for page by 25.68369pt on input line 1622.
+LaTeX Warning: Float too large for page by 25.68369pt on input line 1628.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[116] [117] (./main.aux (./chapters/cap-introducao.aux)
+[117] [118] (./main.aux (./chapters/cap-introducao.aux)
 (./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
 (./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
 (./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
 (./chapters/cap-avaliacao.aux) (./chapters/cap-resultados.aux)
 (./chapters/cap-conclusao.aux)) ) 
 Here is how much of TeX's memory you used:
- 22901 strings out of 493029
- 424115 string characters out of 6136235
- 563008 words of memory out of 5000000
- 25751 multiletter control sequences out of 15000+600000
+ 26391 strings out of 493029
+ 517700 string characters out of 6136235
+ 742163 words of memory out of 5000000
+ 29170 multiletter control sequences out of 15000+600000
  53813 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,19n,65p,1885b,1015s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,19n,84p,1885b,1015s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips
 /base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/t
@@ -2735,10 +2959,10 @@ onts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
 etic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (117 pages, 3217130 bytes).
+Output written on main.pdf (118 pages, 3241815 bytes).
 PDF statistics:
- 741 PDF objects out of 1000 (max. 8388607)
- 480 compressed objects within 5 object streams
+ 776 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 399 words of extra memory for PDF output out of 10000 (max. 10000000)
 

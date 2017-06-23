@@ -16,6 +16,12 @@
   \textsc{Annotation:}\ #2\end{quotation}}
 \providecommand{\eprint}[2][]{#2}
 
+\bibitem{DEV-FRAGMENTOS}
+{ANDROID}. \enquote{Fragments}.
+  \urlprefix\url{https://developer.android.com/guide/components/fragments.html},
+  junho 2017.
+\bibAnnoteFile{DEV-FRAGMENTOS}
+
 \bibitem{DEVACCESS2016}
 {ANDROID}. \enquote{{Making Applications Accessible}}.
   \urlprefix\url{https://developer.android.com/guide/topics/ui/accessibility/apps.html},
@@ -80,6 +86,11 @@ DENHAM, J. \enquote{{Oh Kapten! My Kapten! Where am I?: A Review of the Kapten
   \urlprefix\url{https://www.afb.org/afbpress/pub.asp?DocID=aw120707}, setembro
   2016.
 \bibAnnoteFile{KAPTEN}
+
+\bibitem{POJO2000}
+{FOWLER, M.} \enquote{Pojo}.
+  \urlprefix\url{https://www.martinfowler.com/bliki/POJO.html}, junho 2017.
+\bibAnnoteFile{POJO2000}
 
 \bibitem{FRIESS2013}
 {FRIESS, P.} \enquote{Internet of Things: Converging Technologies for Smart

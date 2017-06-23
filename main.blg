@@ -30,45 +30,45 @@ Warning--empty numpages in FRIESS2013
 Warning--empty journal in MOURA2006
 Warning--empty volume and number in MOURA2006
 Warning--empty numpages in REYNARD1995
-You've used 37 entries,
+You've used 39 entries,
             2900 wiz_defined-function locations,
-            896 strings with 13353 characters,
-and the built_in function-call counts, 15596 in all, are:
-= -- 1339
-> -- 259
+            905 strings with 13527 characters,
+and the built_in function-call counts, 16446 in all, are:
+= -- 1421
+> -- 273
 < -- 11
-+ -- 114
-- -- 74
-* -- 922
-:= -- 1868
-add.period$ -- 109
-call.type$ -- 37
-change.case$ -- 148
++ -- 120
+- -- 78
+* -- 972
+:= -- 1970
+add.period$ -- 115
+call.type$ -- 39
+change.case$ -- 158
 chr.to.int$ -- 0
-cite$ -- 80
-duplicate$ -- 1531
-empty$ -- 1542
-format.name$ -- 74
-if$ -- 3399
+cite$ -- 84
+duplicate$ -- 1619
+empty$ -- 1624
+format.name$ -- 78
+if$ -- 3581
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 295
-newline$ -- 167
-num.names$ -- 74
-pop$ -- 684
+int.to.str$ -- 39
+missing$ -- 305
+newline$ -- 175
+num.names$ -- 78
+pop$ -- 724
 preamble$ -- 1
-purify$ -- 111
+purify$ -- 117
 quote$ -- 0
-skip$ -- 482
+skip$ -- 504
 stack$ -- 0
-substring$ -- 984
-swap$ -- 594
+substring$ -- 1054
+swap$ -- 612
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 124
+type$ -- 132
 warning$ -- 6
-while$ -- 121
-width$ -- 39
-write$ -- 359
+while$ -- 127
+width$ -- 41
+write$ -- 377
 (There were 11 warnings)

@@ -4,7 +4,7 @@ O desenvolvimento do sistema pode ser dividido em duas partes: i) o desenvolvime
 
 \section{\label{sec:ontologia}Ontologia de Cardápio}
 
-Apesar de haver algumas ontologias de comida ou restaurantes já desenvolvidas, optou-se pela criação de uma ontologia própria que condizesse com o escopo do trabalho. Para a construção desta ontologia para cardápios, foram usadas como base outras ontologias relacionadas a comidas. A principal influência foi uma ontologia de pizza desenvolvida pela universidade de Stanford\footnote{http://protege.stanford.edu/ontologies/pizza/pizza.owl}, uma vez que um cardápio é composto por diversos produtos que apresentam atributos semelhantes ao de uma pizza. Voltaremos a falar desses atributos nos próximos parágrafos.
+Apesar de haver algumas ontologias de comida ou restaurantes já desenvolvidas, optou-se pela criação de uma ontologia própria que condizesse com o escopo do trabalho. Para a construção desta ontologia para cardápios, foram usadas como base outras ontologias relacionadas a comidas. A principal influência foi uma ontologia de pizza desenvolvida pela universidade de Stanford\footnote{http://protege.stanford.edu/ontologies/pizza/pizza.owl}, uma vez que um cardápio é composto por diversos produtos que apresentam atributos semelhantes aos de uma pizza. Voltaremos a falar desses atributos nos próximos parágrafos.
 
 A estrutura da ontologia é dividida em duas partições iniciais: \emph{Partição Domínio} e \emph{Partição Valor}. Dentro da partição de domínio, encontram-se os \emph{produtos} e os \emph{ingredientes}, os quais serão atribuídos aos produtos do cardápio. Os produtos da aplicação referem-se aos produtos do cardápio em si e é dentro desta classe que as informações essenciais a nossa aplicação estão armazenadas. Cada produto apresenta ou herda as seguintes propriedades:
 \begin{itemize}
@@ -21,17 +21,17 @@ A estrutura da ontologia é dividida em duas partições iniciais: \emph{Partiç
 	\item Se é um produto contável ou não.
 \end{itemize}
 
-Já a partição de valor é composta pelas classes \emph{Gorduras} e \emph{Nível de Sal}, representando todas as propriedades que podem ser compostas por uma gradação de valores. Cada uma dessas classes apresentam, por sua vez, três subclasses que condizem à intensidade destas propriedades em um produto. Desta forma, o nível de sal de uma determinada comida pode ser indicado com um dos três níveis criados na ontologia, sendo eles: \emph{pouco salgado}, \emph{meio salgado} e \emph{salgado}. Para a indicação desta propriedade no produto, criou-se a propriedade \emph{temSal} cujo domínio é uma classe do tipo Produto e o alcance é uma classe do tipo Nível de Sal. 
+Já a partição de valor é composta pelas classes \emph{Gorduras} e \emph{Nível de Sal}, representando todas as propriedades que podem ser compostas por uma gradação de valores. Cada uma dessas classes apresentam, por sua vez, três subclasses que condizem à intensidade destas propriedades em um produto. Desta forma, o nível de sal de uma determinada comida pode ser indicado com um dos três níveis criados na ontologia, sendo eles: \emph{pouco salgado}, \emph{meio salgado} e \emph{salgado}. Para a indicação desta propriedade no produto, criou-se a propriedade \emph{temSal}, cujo domínio é uma classe do tipo Produto e o contradomínio é uma classe do tipo Nível de Sal. 
 
-Para gerar relações entre classes e propriedades, foram criadas \emph{propriedades de objeto} e \emph{propriedades de dados}. As propriedades de objeto são utilizadas quando tanto o domínio quanto o alcance da expressão são classes da ontologia; já as propriedades de dados aplicam-se quando o alcance é composto por um tipo de dado, como um \emph{value} ou um \emph{boolean}. Algumas propriedades e suas relações com as classes são demonstradas a seguir, na Figura \ref{fig:propriedades}.
+Para gerar relações entre classes e propriedades, foram criadas \emph{propriedades de objeto} e \emph{propriedades de dados}. As propriedades de objeto são utilizadas quando tanto o domínio quanto o contradomínio da expressão são classes da ontologia; já as propriedades de dados aplicam-se quando o contradomínio é composto por um tipo de dado, como um \emph{value} ou um \emph{boolean}. Algumas propriedades e suas relações com as classes são demonstradas a seguir, na Figura \ref{fig:propriedades}.
 \begin{figure}
 	\centering
 	\caption[Propriedades da Ontologia]{Exemplos de propriedades da ontologia}
 	\label{fig:propriedades}
-	\subfigure[c][Propriedade \emph{temIngrediente}. Seu domínio são as classes \emph{Comida} ou \emph{Bebida} e o alcance, \emph{Ingrediente}]
+	\subfigure[c][Propriedade \emph{temIngrediente}. Seu domínio são as classes \emph{Comida} ou \emph{Bebida} e o contradomínio, \emph{Ingrediente}]
 	{\includegraphics[width=0.3\textwidth]{./fig/propriedade-1.png}}
 	\qquad
-	\subfigure[c][Propriedade \emph{preco}. Seu domínio é a classe \emph{Produto} e o alcance, um valor do tipo \emph{double}]
+	\subfigure[c][Propriedade \emph{preco}. Seu domínio é a classe \emph{Produto} e o contradomínio, um valor do tipo \emph{double}]
 	{\includegraphics[width=0.3\textwidth]{./fig/propriedade-2.png}}
 \end{figure}
 
@@ -123,7 +123,7 @@ A partir da tela principal (Figura \ref{fig:cardapio-virtual-1}(a)), o usuário 
 	\item Fazer uma busca e ir para a tela de resultado de buscas; e
 	\item Acessar a tela de ajuda.
 \end{itemize}
-A tela de resultado da busca (figura \ref{fig:cardapio-virtual-1}(c)) apenas lista os resultados que se encaixam com a pesquisa, possibilitando que o usuário selecione um dos locais ou volte para a tela inicial. A tela de informações adicionais de um restaurante, mostrada na Figura \ref{fig:cardapio-virtual-2}(a), apresenta uma breve descrição do local; suas informações básicas, como telefone e e-mail; acesso ao seu cardápio e um botão que possibilita ao usuário favoritar ou desfavoritar o local. Por fim, a tela de ajuda, apresentada na Figura \ref{fig:cardapio-virtual-2}(b)), exibe algumas perguntas e respostas que visam auxiliar o usuário durante sua experiência com a aplicação.
+A tela de resultado da busca (Figura \ref{fig:cardapio-virtual-1}(c)) apenas lista os resultados que se encaixam com a pesquisa, possibilitando que o usuário selecione um dos locais ou volte para a tela inicial. A tela de informações adicionais de um restaurante, mostrada na Figura \ref{fig:cardapio-virtual-2}(a), apresenta uma breve descrição do local; suas informações básicas, como telefone e e-mail; acesso ao seu cardápio e um botão que possibilita ao usuário favoritar ou desfavoritar o local. Por fim, a tela de ajuda, apresentada na Figura \ref{fig:cardapio-virtual-2}(b)), exibe algumas perguntas e respostas que visam auxiliar o usuário durante sua experiência com a aplicação.
 
 \begin{figure}[H]
 	\centering
@@ -136,7 +136,7 @@ A tela de resultado da busca (figura \ref{fig:cardapio-virtual-1}(c)) apenas lis
 	{\includegraphics[width=0.3\textwidth]{./fig/cardapio-virtual/ajuda-1.png}}
 \end{figure}
 
-Seguindo o fluxo da aplicação, a próxima tela a ser exibida é a tela do menu (figura \ref{fig:cardapio-virtual-3}(c)), a qual é acionada quando o usuário seleciona o cardápio de um restaurante. Esta tela apresenta os produtos disponíveis no local agrupados por categorias. Há também dois métodos de disposição dos itens do cardápio: o método de filtragem e o de ordenação. O primeiro permite que o usuário filtre os produtos do cardápio a partir de um ou mais dos seguintes critérios: sem glúten, sem lactose, vegetarianos, com pouca gordura e com pouco sal. Já o segundo permite ao usuário que os produtos sejam dispostos em ordem alfabética ou em ordem de acesso -- permitindo, assim, que os produtos mais acessados sejam facilmente encontrados nas próximas consultas. Estes métodos são apresentados nas Figuras \ref{fig:cardapio-virtual-3}(e) e \ref{fig:cardapio-virtual-3}(f). Por fim, ao selecionar um produto da lista, suas informações adicionais, ou seja, seus ingredientes, seu preço e sua quantidade disponível no local, são exibidas na tela, como demonstrado na Figura \ref{fig:cardapio-virtual-4}(g). Sendo assim, o usuário tem acesso aos produtos dos restaurantes, bem como as informações básicas que necessita para escolher qual produto mais lhe agrada.
+Seguindo o fluxo da aplicação, a próxima tela a ser exibida é a tela do menu (Figura \ref{fig:cardapio-virtual-3}(a)), a qual é acionada quando o usuário seleciona o cardápio de um restaurante. Esta tela apresenta os produtos disponíveis no local agrupados por categorias. Há também dois métodos de disposição dos itens do cardápio: o método de filtragem e o de ordenação. O primeiro permite que o usuário filtre os produtos do cardápio a partir de um ou mais dos seguintes critérios: sem glúten, sem lactose, vegetarianos, com pouca gordura e com pouco sal. Já o segundo permite ao usuário que os produtos sejam dispostos em ordem alfabética ou em ordem de acesso -- permitindo, assim, que os produtos mais acessados sejam facilmente encontrados nas próximas consultas. Estes métodos são apresentados nas Figuras \ref{fig:cardapio-virtual-3}(c) e \ref{fig:cardapio-virtual-3}(d). Por fim, ao selecionar um produto da lista, suas informações adicionais, ou seja, seus ingredientes, seu preço e sua quantidade disponível no local são exibidas na tela, como demonstrado na Figura \ref{fig:cardapio-virtual-4}(e). Sendo assim, o usuário tem acesso aos produtos dos restaurantes, bem como as informações básicas que necessita para escolher qual produto mais lhe agrada.
 
 \begin{figure}[H]
 	\centering

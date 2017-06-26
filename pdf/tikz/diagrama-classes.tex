@@ -49,16 +49,18 @@
 			\umluniassoc[geometry=-|-]{MainActivity}{FavouritesFragment}
 			
 			%Auxiliares
-			\begin{umlpackage}[x=0, y=-2.5]{auxiliaries}
-				\umlemptyclass{FilterInterface}
-				\umlemptyclass[right=1cm of FilterInterface]{Filters}
-				\umlemptyclass[below=1cm of FilterInterface]{Node}
-				\umlemptyclass[right=1cm of Node]{SimpleDividerItemDecotarion}
-				\umlemptyclass[below=1cm of Node]{Utilitarians}
-				\umlemptyclass[right=1cm of Utilitarians]{RestrictionVerifier}
+			\begin{umlpackage}[x=0, y=-2.5]{auxiliaries}		
+				\umlemptyclass{Utilitarians}	
+				\umlemptyclass[right=1cm of Utilitarians]{Node}
+				\umlemptyclass[right=1cm of Node]{Filters}
+				\umlemptyclass[below=1cm of Utilitarians]{Restriction}
+				\umlemptyclass[below=1cm of Filters]{FilterInterface}
+				\umlemptyclass[below=1cm of Restriction]{RestrictionVerifier}
+				\umlemptyclass[right=1cm of RestrictionVerifier]{SimpleDividerItemDecotarion}
 				
 				%Conexões
-				\umlimpl[geometry=|-]{Filters}{FilterInterface}
+				\umluniassoc[geometry=-|]{RestrictionVerifier}{Restriction}
+				\umlimpl[geometry=-|]{Filters}{FilterInterface}
 			\end{umlpackage}
 			
 			%Data

@@ -28,18 +28,18 @@ Para gerar relações entre classes e propriedades, foram criadas \emph{propried
 	\centering
 	\caption[Propriedades da Ontologia]{Exemplos de propriedades da ontologia}
 	\label{fig:propriedades}
-	\subfigure[c][Propriedade \emph{temIngrediente}. Seu domínio são as classes \emph{Comida} ou \emph{Bebida} e o contradomínio, \emph{Ingrediente}]
+	\subfigure[c][Propriedade \emph{temIngrediente}. Seu domínio são as classes \emph{Comida} ou \emph{Bebida} e o contradomínio é \emph{Ingrediente}]
 	{\includegraphics[width=0.3\textwidth]{./fig/propriedade-1.png}}
 	\qquad
-	\subfigure[c][Propriedade \emph{preco}. Seu domínio é a classe \emph{Produto} e o contradomínio, um valor do tipo \emph{double}]
+	\subfigure[c][Propriedade \emph{preco}. Seu domínio é a classe \emph{Produto} e o contradomínio é um valor do tipo \emph{double}]
 	{\includegraphics[width=0.3\textwidth]{./fig/propriedade-2.png}}
 \end{figure}
 
 \section{Integração da Ontologia com a Aplicação}
 
-Sendo Java a linguagem de programação utilizada no desenvolvimento da aplicação, buscou-se uma API que fosse compatível com a linguagem e que consultasse a ontologia de forma eficiente. A princípio, a interface escolhida fora a OWL API\footnote{http://owlapi.sourceforge.net/}, uma interface para criação, manipulação e serialização de ontologias OWL. Todavia, apesar de ser desenvolvida para a linguagem Java, essa API não se apresentou compatível com o ambiente Android, sendo assim necessária uma nova busca, resultando na descoberta do \emph{framework} Apache Jena\footnote{https://jena.apache.org/}. Jena é uma ferramenta para a construção de aplicações que utilizam web semântica ou dados conectados (\emph{linked data}) e é responsável pelo controle de APIs de diversas estruturas de dados, como ontologias, Resource Description Framework (RDF), SPARQL, entre outras. Este \emph{framework} possui uma versão compatível com o ambiente Android, o AndroJena\footnote{https://github.com/lencinhaus/androjena} e, por isso, foi escolhida para realizar integração entre a ontologia e a aplicação do sistema.
+Sendo Java a linguagem de programação utilizada no desenvolvimento da aplicação, buscou-se uma API que fosse compatível com a linguagem e que consultasse a ontologia de forma eficiente. A princípio, a interface escolhida fora a OWL API\footnote{http://owlapi.sourceforge.net/}, uma interface para criação, manipulação e serialização de ontologias OWL. Todavia, apesar de ser desenvolvida para a linguagem Java, essa API não se apresentou compatível com o ambiente Android, sendo assim necessária uma nova busca, resultando na descoberta do \emph{framework} Apache Jena. Jena é uma ferramenta para a construção de aplicações que utilizam web semântica ou dados conectados (\emph{linked data}) e é responsável pelo controle de APIs de diversas estruturas de dados, como ontologias, Resource Description Framework (RDF), SPARQL, entre outras. Este \emph{framework} possui uma versão compatível com o ambiente Android, o AndroJena\footnote{https://github.com/lencinhaus/androjena} e, por isso, foi escolhida para realizar integração entre a ontologia e a aplicação do sistema.
 
-A integração da ontologia para a aplicação torna-se necessária uma vez que é a partir dela que os produtos do cardápio serão apresentados ao usuário. Um produto, ou uma categoria de produtos, deve apresentar todas as propriedades citadas na seção \ref{sec:ontologia}, possibilitando, assim, a sua catalogação. Entretanto, algumas classes não apresentam certas características declaradas -- por exemplo, como mostrado na Figura \ref{fig:integracao-1}, o produto \emph{Pastel} não possui as características \emph{tem gordura, tem sal, lactose} e \emph{vegetariano}, porém suas classes sucessoras contêm tais informações. Isto se dá pelo fato de que a representação da informação neste contexto ocorre de forma esparsa; existem classes que herdam suas propriedades de \emph{forma anônima} ou aquelas que são muito abrangentes e, desta forma, ainda não dispõem de propriedades tão definidas. Sendo assim, fora preciso transformar a representação do conhecimento de uma estrutura para a outra.
+A integração da ontologia para a aplicação torna-se necessária uma vez que é a partir dela que os produtos do cardápio serão apresentados ao usuário. Um produto, ou uma categoria de produtos, deve apresentar todas as propriedades citadas na seção \ref{sec:ontologia}, possibilitando, assim, a sua catalogação. Entretanto, algumas classes não apresentam certas características declaradas -- por exemplo, como mostrado na Figura \ref{fig:integracao-1}, o produto \emph{Pastel} não possui as características \emph{tem gordura, tem sal, lactose} e \emph{vegetariano}, porém suas classes sucessoras contêm tais informações. Isto se dá pelo fato de que as propriedades de uma classe estão dispostas na ontologia de forma esparsa; existem classes que herdam suas propriedades de \emph{forma anônima} ou aquelas que são muito abrangentes e, desta forma, ainda não dispõem de propriedades tão definidas. Por exemplo, a classe \emph{Pastel de Forno} tem pouca gordura e pouco sal (propriedades inerentes à classe); é contável, tem glúten e custa R\$5,50 (propriedades herdadas anonimamente da classe \emph{Pastel}); e, também, possui produtos com lactose e vegetarianos (propriedades de suas \emph{classes filhas}). Sendo assim, fora preciso transformar a representação do conhecimento de uma estrutura para a outra.
 
 \begin{figure}[H]
 		\centering
@@ -52,7 +52,7 @@ O processo de aquisição de todas as propriedades de um produto começou com o 
 
 \begin{figure}[H]
 	\centering
-	\caption[Integração da Ontologia -- Passos 1--4]{Passos 1--4 -- Os atributos das classes superiores são passados para suas filhas. Os textos em tom acinzentado representam os atributos herdados de forma anônima e os textos em laranja representam os atributos das classes}
+	\caption[Integração da Ontologia -- Passos 1--4]{Passos 1--4 -- Os atributos das classes superiores são passados para suas filhas. Os textos à esquerda representam os atributos herdados de forma anônima e os textos à direita representam os atributos das classes}
 	\label{fig:integracao-2}
 	\subfigure[c][Passo 1 -- A classe \emph{Pastel de Forno} recebe os atributos da classe \emph{Pastel}]
 	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/topdown-1.pdf}}
@@ -67,11 +67,11 @@ O processo de aquisição de todas as propriedades de um produto começou com o 
 	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/topdown-4.pdf}}
 \end{figure}
 
-Esse processo de repercussão de características é feito com o uso de uma estrutura de dados HashMap, a qual armazena as propriedades do nodo atual e seus valores (verdadeiro ou falso) e propaga estes dados para seus nodos filhos. Desta forma, ao chegar em um nodo folha, seu mapa de propriedades deve estar totalmente preenchido, como mostrado na Figura \ref{fig:integracao-3}:
+Esse processo de propagação de características é feito com o uso de uma estrutura de dados HashMap, a qual armazena as propriedades do nodo atual e seus valores (verdadeiro ou falso) e propaga estes dados para seus nodos filhos. Desta forma, ao chegar em um nodo folha, seu mapa de propriedades deve estar totalmente preenchido, como mostrado na Figura \ref{fig:integracao-3}:
 
 \begin{figure}[H]
 	\centering
-	\caption[Integração da Ontologia -- Passo 5]{Passo 5 -- Todos os atributos foram transferidos às classes sucessoras. Os textos em tom acinzentado representam os atributos herdados de forma anônima e os textos em laranja representam os atributos das classes}
+	\caption[Integração da Ontologia -- Passo 5]{Passo 5 -- Todos os atributos foram transferidos às classes sucessoras. Os textos à esquerda representam os atributos herdados de forma anônima e os textos à direita representam os atributos das classes}
 	\label{fig:integracao-3}
 	\includegraphics[width=0.55\linewidth]{./pdf/tikz/topdown-5.pdf}
 \end{figure}
@@ -94,13 +94,13 @@ Nota-se que, apesar dos nodos folhas possuírem todos os valores de suas proprie
 	\subfigure[c][Passo 9 -- Classe \emph{Pastel} agora possui os atributos de suas filhas]
 	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-4.pdf}}
 	\qquad
-	\subfigure[c][Passo 10 -- Classe \emph{Pastel} propaga estas informações para suas classes antecessoras]
+	\subfigure[c][Passo 10 -- Classe \emph{Pastel} propaga estas informações para suas classes superiores]
 	{\includegraphics[width=0.45\textwidth]{./pdf/tikz/bottomup-5.pdf}}
 \end{figure}
 
 \section{Aplicação}
 
-Sendo possível o acesso à ontologia através da aplicação, bastou-se incorporar os demais elementos. Primeiramente, a aplicação apresenta uma tela inicial (Figura \ref{fig:cardapio-virtual-1}(a)), com a listagem dos todos os restaurantes armazenados no sistema e dos restaurantes favoritos do usuário, uma barra de busca e um botão para a tela de ajuda. Ao clicar no botão de busca, a barra se expande, exibindo o campo de busca com suas opções de pesquisa, as quais vão sendo alteradas à medida que o usuário insere caracteres neste campo. Além de busca por digitação, existe, também, a opção de procurar um restaurante através do modo de busca por voz (Figura \ref{fig:cardapio-virtual-1}(b)).
+Sendo possível o acesso à ontologia através da aplicação, bastou incorporar os demais elementos. Primeiramente, a aplicação apresenta uma tela inicial (Figura \ref{fig:cardapio-virtual-1}(a)), com a listagem dos todos os restaurantes armazenados no sistema e dos restaurantes favoritos do usuário, uma barra de busca e um botão para a tela de ajuda. Ao clicar no botão de busca, a barra se expande, exibindo o campo de busca com suas opções de pesquisa, as quais vão sendo alteradas à medida que o usuário insere caracteres neste campo. Além de busca por digitação, existe, também, a opção de procurar um restaurante através do modo de busca por voz (Figura \ref{fig:cardapio-virtual-1}(b)).
 
 \begin{figure}[H]
 	\centering
@@ -136,7 +136,7 @@ A tela de resultado da busca (Figura \ref{fig:cardapio-virtual-1}(c)) apenas lis
 	{\includegraphics[width=0.3\textwidth]{./fig/cardapio-virtual/ajuda-1.png}}
 \end{figure}
 
-Seguindo o fluxo da aplicação, a próxima tela a ser exibida é a tela do menu (Figura \ref{fig:cardapio-virtual-3}(a)), a qual é acionada quando o usuário seleciona o cardápio de um restaurante. Esta tela apresenta os produtos disponíveis no local agrupados por categorias. Há também dois métodos de disposição dos itens do cardápio: o método de filtragem e o de ordenação. O primeiro permite que o usuário filtre os produtos do cardápio a partir de um ou mais dos seguintes critérios: sem glúten, sem lactose, vegetarianos, com pouca gordura e com pouco sal. Já o segundo permite ao usuário que os produtos sejam dispostos em ordem alfabética ou em ordem de acesso -- permitindo, assim, que os produtos mais acessados sejam facilmente encontrados nas próximas consultas. Estes métodos são apresentados nas Figuras \ref{fig:cardapio-virtual-3}(c) e \ref{fig:cardapio-virtual-3}(d). Por fim, ao selecionar um produto da lista, suas informações adicionais, ou seja, seus ingredientes, seu preço e sua quantidade disponível no local são exibidas na tela, como demonstrado na Figura \ref{fig:cardapio-virtual-4}(e). Sendo assim, o usuário tem acesso aos produtos dos restaurantes, bem como as informações básicas que necessita para escolher qual produto mais lhe agrada.
+Seguindo o fluxo da aplicação, a próxima tela a ser exibida é a tela do menu (Figura \ref{fig:cardapio-virtual-3}(a) e \ref{fig:cardapio-virtual-3}(b)), a qual é acionada quando o usuário seleciona o cardápio de um restaurante. Esta tela apresenta os produtos disponíveis no local agrupados por categorias. Há também dois métodos de disposição dos itens do cardápio: o método de filtragem e o de ordenação. O primeiro permite que o usuário filtre os produtos do cardápio a partir de um ou mais dos seguintes critérios: sem glúten, sem lactose, vegetarianos, com pouca gordura e com pouco sal. Já o segundo permite ao usuário que os produtos sejam dispostos em ordem alfabética ou em ordem de acesso -- permitindo, assim, que os produtos mais acessados sejam facilmente encontrados nas próximas consultas. Estes métodos são apresentados nas Figuras \ref{fig:cardapio-virtual-3}(c) e \ref{fig:cardapio-virtual-3}(d). Por fim, ao selecionar um produto da lista, suas informações adicionais, ou seja, seus ingredientes, seu preço e sua quantidade disponível no local são exibidas na tela, como demonstrado na Figura \ref{fig:cardapio-virtual-4}(e). Sendo assim, o usuário tem acesso aos produtos dos restaurantes, bem como as informações básicas que necessita para escolher qual produto mais lhe agrada.
 
 \begin{figure}[H]
 	\centering

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  26 JUN 2017 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  26 JUN 2017 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1779,17 +1779,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [9]
 Overfull \hbox (1.41573pt too wide) detected at line 65
- []\T1/phv/b/n/12 105
+ []\T1/phv/b/n/12 104
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 66
- []\T1/phv/b/n/12 113
+ []\T1/phv/b/n/12 112
  []
 
 
 Overfull \hbox (1.41573pt too wide) detected at line 67
- []\T1/phv/b/n/12 120
+ []\T1/phv/b/n/12 119
  []
 
 )
@@ -2706,50 +2706,59 @@ Underfull \hbox (badness 1406) in paragraph at lines 247--252
 -nal Con-fe-rence on Sys-tem
  []
 
-[68]) [69]
+[68]) <./pdf/tcle.pdf, id=559, 598.235pt x 846.16125pt>
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+ <use ./pdf/tcle.pdf>
+Package pdftex.def Info: ./pdf/tcle.pdf used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf>
+Package pdftex.def Info: ./pdf/tcle.pdf used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+ <./pdf/tcle.pdf, id=562, page=1, 598.235pt x 846.16125pt>
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 1>
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+ <use ./pdf/tcle.pdf, page 1>
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+ [69]
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 1>
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+ <use ./pdf/tcle.pdf, page 1>
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+
 \uppercase {Ap\^endice} A.
-<./pdf/tcle.pdf, id=562, 598.235pt x 846.16125pt>
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+<use ./pdf/tcle.pdf, page 1>
+Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 235.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+ [70
+
+ <./pdf/tcle.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
+ other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
 File: ./pdf/tcle.pdf Graphic file (type pdf)
  <use ./pdf/tcle.pdf>
 Package pdftex.def Info: ./pdf/tcle.pdf used on input line 236.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
 File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf>
+ <use ./pdf/tcle.pdf>
 Package pdftex.def Info: ./pdf/tcle.pdf used on input line 236.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- <./pdf/tcle.pdf, id=565, page=1, 598.235pt x 846.16125pt>
-File: ./pdf/tcle.pdf Graphic file (type pdf)
 
-<use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 236.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
- <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 236.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [70
-
-]
-File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 236.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
- <use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 236.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
-File: ./pdf/tcle.pdf Graphic file (type pdf)
-
-<use ./pdf/tcle.pdf, page 1>
-Package pdftex.def Info: ./pdf/tcle.pdf, page1 used on input line 236.
-(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [71 <./pdf/tcle.pdf
-
-pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
- other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <./pdf/tcle.pdf, id=594, page=2, 598.235pt x 846.16125pt>
+<./pdf/tcle.pdf, id=593, page=2, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 2>
@@ -2764,11 +2773,20 @@ File: ./pdf/tcle.pdf Graphic file (type pdf)
 <use ./pdf/tcle.pdf, page 2>
 Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 236.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [72 <./pdf/tcle.pdf
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+ <use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 236.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+File: ./pdf/tcle.pdf Graphic file (type pdf)
+
+<use ./pdf/tcle.pdf, page 2>
+Package pdftex.def Info: ./pdf/tcle.pdf, page2 used on input line 236.
+(pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
+ [71 <./pdf/tcle.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
->] <./pdf/tcle.pdf, id=598, page=3, 598.235pt x 846.16125pt>
+>] <./pdf/tcle.pdf, id=597, page=3, 598.235pt x 846.16125pt>
 File: ./pdf/tcle.pdf Graphic file (type pdf)
 
 <use ./pdf/tcle.pdf, page 3>
@@ -2783,7 +2801,7 @@ File: ./pdf/tcle.pdf Graphic file (type pdf)
 <use ./pdf/tcle.pdf, page 3>
 Package pdftex.def Info: ./pdf/tcle.pdf, page3 used on input line 236.
 (pdftex.def)             Requested size: 598.23354pt x 846.1592pt.
- [73 <./pdf/tcle.pdf
+ [72 <./pdf/tcle.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./pdf/tcle.pdf): PDF inclusion: invalid
  other resource which is no dict (key 'ProcSets', type <array>); ignored.
@@ -2798,22 +2816,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[74
+[73
 
-] [75] [76]
+] [74] [75]
 Underfull \vbox (badness 10000) detected at line 425
  []
 
-[77
+[76
 
-] [78] [79]
+] [77] [78]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 469.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80] [81]
+[79] [80]
 \uppercase {Ap\^endice} C.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2824,22 +2842,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[82
+[81
 
-] [83] [84]
+] [82] [83]
 Underfull \vbox (badness 10000) detected at line 657
  []
 
-[85
+[84
 
-] [86] [87]
+] [85] [86]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 701.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[88] [89]
+[87] [88]
 \uppercase {Ap\^endice} D.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2850,22 +2868,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[90
+[89
 
-] [91] [92]
+] [90] [91]
 Underfull \vbox (badness 10000) detected at line 891
  []
 
-[93
+[92
 
-] [94] [95]
+] [93] [94]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 936.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[96] [97]
+[95] [96]
 \uppercase {Ap\^endice} E.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2876,28 +2894,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[98
+[97
 
 ]
 
-LaTeX Warning: Text page 99 contains only floats.
+LaTeX Warning: Text page 98 contains only floats.
 
 
 Overfull \vbox (4.3571pt too high) has occurred while \output is active []
 
 
-[99]
+[98]
 Underfull \vbox (badness 10000) detected at line 1125
  []
 
-[100] [101] [102]
+[99] [100] [101]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 1169.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[103] [104]
+[102] [103]
 \uppercase {Ap\^endice} F.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2908,22 +2926,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[105
+[104
 
-] [106] [107]
+] [105] [106]
 Underfull \vbox (badness 10000) detected at line 1358
  []
 
-[108
+[107
 
-] [109] [110]
+] [108] [109]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 1402.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[111] [112]
+[110] [111]
 \uppercase {Ap\^endice} G.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2934,28 +2952,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[113
+[112
 
 ]
 
-LaTeX Warning: Text page 114 contains only floats.
+LaTeX Warning: Text page 113 contains only floats.
 
 
 Overfull \vbox (12.31306pt too high) has occurred while \output is active []
 
 
-[114]
+[113]
 Underfull \vbox (badness 10000) detected at line 1591
  []
 
-[115] [116] [117]
+[114] [115] [116]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 1635.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[118] [119]
+[117] [118]
 \uppercase {Ap\^endice} H.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2966,28 +2984,28 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[120
+[119
 
 ]
 
-LaTeX Warning: Text page 121 contains only floats.
+LaTeX Warning: Text page 120 contains only floats.
 
 
 Overfull \vbox (18.1842pt too high) has occurred while \output is active []
 
 
-[121]
+[120]
 Underfull \vbox (badness 10000) detected at line 1825
  []
 
-[122] [123] [124]
+[121] [122] [123]
 
 LaTeX Warning: Float too large for page by 25.68369pt on input line 1869.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[125] [126] (./main.aux (./chapters/cap-introducao.aux)
+[124] [125] (./main.aux (./chapters/cap-introducao.aux)
 (./chapters/cap-objetivos.aux) (./chapters/cap-caracterizacao-problema.aux)
 (./chapters/cap-requisitos.aux) (./chapters/cap-modelagem.aux)
 (./chapters/cap-recursos-necessarios.aux) (./chapters/cap-desenvolvimento.aux)
@@ -2996,7 +3014,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Here is how much of TeX's memory you used:
  26402 strings out of 493029
  517877 string characters out of 6136235
- 742345 words of memory out of 5000000
+ 742343 words of memory out of 5000000
  29179 multiletter control sequences out of 15000+600000
  53813 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3009,10 +3027,10 @@ onts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
 etic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (126 pages, 3261670 bytes).
+Output written on main.pdf (125 pages, 3261562 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
- 512 compressed objects within 6 object streams
+ 801 PDF objects out of 1000 (max. 8388607)
+ 510 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  23 JUN 2017 17:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  28 JUN 2017 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,10 +1278,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\new@ifnextchar' on input line 67.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 67.
-
 (./slides.aux)
 \openout1 = `slides.aux'.
 
@@ -1468,7 +1464,7 @@ LaTeX Info: Redefining \includegraphics on input line 77.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./slides.nav)
-Overfull \hbox (6.07791pt too wide) in paragraph at lines 77--77
+Overfull \hbox (50.68958pt too wide) in paragraph at lines 77--77
  [][][][]  
  []
 
@@ -1476,871 +1472,329 @@ Overfull \hbox (6.07791pt too wide) in paragraph at lines 77--77
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 87.
 
-[1
+<logo-pucrs.jpg, id=49, 42.3984pt x 72.27pt>
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 87.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+<logo-facin.jpg, id=50, 47.2164pt x 70.8246pt>
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 87.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo-pucrs.jpg> <./logo-
+facin.jpg>] (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 96.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 96.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [2
 
-] (./introduction.tex (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+] (./motivacao.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [3
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 18.
+line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
+File: logo-pucrs.jpg Graphic file (type jpg)
 
-LaTeX Warning: Citation `sgroi_addressing_2001' on page 4 undefined on input li
-ne 18.
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 19.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 19.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-
-LaTeX Warning: Citation `ye_packetization_2004' on page 4 undefined on input li
-ne 18.
-
-
-LaTeX Warning: Citation `diguet_noc-centric_2007' on page 4 undefined on input 
-line 18.
-
-
-LaTeX Warning: Citation `sepulveda_noc-based_2015' on page 4 undefined on input
- line 18.
-
-
-LaTeX Warning: Citation `grammatikakis_security_2014' on page 4 undefined on in
-put line 18.
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [4
 
-]
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+]) (./objetivos.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [5
 
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 4.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 4.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [6
 
 ]
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 20.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 20.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [7
 
-]) (./proposal.tex (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+]) (./referencial-teorico.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [8
 
 ]
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 10.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 10.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [9
 
-] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 22.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 22.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [10
 
-]
-<images/threat_model/timing-attack.pdf, id=647, 1237.62375pt x 568.37344pt>
-File: images/threat_model/timing-attack.pdf Graphic file (type pdf)
+]) (./modelagem.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
 
-<use images/threat_model/timing-attack.pdf>
-Package pdftex.def Info: images/threat_model/timing-attack.pdf used on input li
-ne 33.
-(pdftex.def)             Requested size: 230.46739pt x 105.84125pt.
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \vbox (13.41579pt too high) detected at line 33
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [11
 
- <./images/threat_model/timing-attack.pdf>] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 7.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 7.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [12
 
-]
-<images/secure_routing/security-zones-shapes.pdf, id=805, 1479.27657pt x 793.46
-437pt>
-File: images/secure_routing/security-zones-shapes.pdf Graphic file (type pdf)
- <use images/secure_routing/security-zones-shapes.pdf>
-Package pdftex.def Info: images/secure_routing/security-zones-shapes.pdf used o
-n input line 50.
-(pdftex.def)             Requested size: 184.3758pt x 98.89223pt.
+]) (./desenvolvimento.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
 
-Overfull \vbox (6.46677pt too high) detected at line 50
- []
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [13
 
- <./images/secure_routing/security-zones-shapes.pdf>]
-<images/secure_routing/security-zones-fiz.pdf, id=937, 1365.60187pt x 596.98032
-pt>
-File: images/secure_routing/security-zones-fiz.pdf Graphic file (type pdf)
- <use images/secure_routing/security-zones-fiz.pdf>
-Package pdftex.def Info: images/secure_routing/security-zones-fiz.pdf used on i
-nput line 66.
-(pdftex.def)             Requested size: 261.19826pt x 114.18349pt.
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 7.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 7.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [14
 
- <./images/secure_routing/security-zones-fiz.pdf>]
-<images/secure_routing/security-zones-piz.pdf, id=1282, 1365.60187pt x 596.9803
-2pt>
-File: images/secure_routing/security-zones-piz.pdf Graphic file (type pdf)
- <use images/secure_routing/security-zones-piz.pdf>
-Package pdftex.def Info: images/secure_routing/security-zones-piz.pdf used on i
-nput line 66.
-(pdftex.def)             Requested size: 261.19826pt x 114.18349pt.
+]) (./avaliacao.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
 
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [15
 
- <./images/secure_routing/security-zones-piz.pdf>]
-<images/secure_routing/security-zones-iz.pdf, id=1624, 1365.60187pt x 596.98032
-pt>
-File: images/secure_routing/security-zones-iz.pdf Graphic file (type pdf)
- <use images/secure_routing/security-zones-iz.pdf>
-Package pdftex.def Info: images/secure_routing/security-zones-iz.pdf used on in
-put line 66.
-(pdftex.def)             Requested size: 261.19826pt x 114.18349pt.
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 7.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 7.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [16
 
- <./images/secure_routing/security-zones-iz.pdf>]
-<images/secure_routing/sbr.pdf, id=1965, 1393.45593pt x 947.03813pt>
-File: images/secure_routing/sbr.pdf Graphic file (type pdf)
+]) (./conclusoes.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
 
-<use images/secure_routing/sbr.pdf>
-Package pdftex.def Info: images/secure_routing/sbr.pdf used on input line 79.
-(pdftex.def)             Requested size: 199.73653pt x 135.73466pt.
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [17
 
- <./images/secure_routing/sbr.pdf>]
-File: images/secure_routing/sbr.pdf Graphic file (type pdf)
- <use images/secure_routing/sbr.pdf>
-Package pdftex.def Info: images/secure_routing/sbr.pdf used on input line 79.
-(pdftex.def)             Requested size: 199.73653pt x 135.73466pt.
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 7.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 7.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [18
 
-]
-File: images/secure_routing/sbr.pdf Graphic file (type pdf)
- <use images/secure_routing/sbr.pdf>
-Package pdftex.def Info: images/secure_routing/sbr.pdf used on input line 79.
-(pdftex.def)             Requested size: 199.73653pt x 135.73466pt.
+])
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 143.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 143.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
+Overfull \hbox (50.68958pt too wide) has occurred while \output is active
  [][][][]  
  []
 
 [19
-
-]
-<images/secure_routing/sbr-configs.pdf, id=2209, 1330.9725pt x 668.4975pt>
-File: images/secure_routing/sbr-configs.pdf Graphic file (type pdf)
-
-<use images/secure_routing/sbr-configs.pdf>
-Package pdftex.def Info: images/secure_routing/sbr-configs.pdf used on input li
-ne 92.
-(pdftex.def)             Requested size: 261.19826pt x 131.18782pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[20
-
- <./images/secure_routing/sbr-configs.pdf>]
-<images/secure_routing/sbr-sza.pdf, id=2346, 1271.5003pt x 844.65562pt>
-File: images/secure_routing/sbr-sza.pdf Graphic file (type pdf)
-
-<use images/secure_routing/sbr-sza.pdf>
-Package pdftex.def Info: images/secure_routing/sbr-sza.pdf used on input line 9
-2.
-(pdftex.def)             Requested size: 230.46739pt x 153.0883pt.
-
-Overfull \vbox (9.45328pt too high) detected at line 92
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[21
-
- <./images/secure_routing/sbr-sza.pdf>]
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[22
-
-] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[23
-
-]
-<images/secure_routing/rbr-path-finding.pdf, id=2547, 1522.93968pt x 710.655pt>
-File: images/secure_routing/rbr-path-finding.pdf Graphic file (type pdf)
-<use images/secure_routing/rbr-path-finding.pdf>
-Package pdftex.def Info: images/secure_routing/rbr-path-finding.pdf used on inp
-ut line 128.
-(pdftex.def)             Requested size: 230.46739pt x 107.53705pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[24
-
- <./images/secure_routing/rbr-path-finding.pdf>]
-File: images/secure_routing/rbr-path-finding.pdf Graphic file (type pdf)
-
-<use images/secure_routing/rbr-path-finding.pdf>
-Package pdftex.def Info: images/secure_routing/rbr-path-finding.pdf used on inp
-ut line 128.
-(pdftex.def)             Requested size: 230.46739pt x 107.53705pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[25
-
-]
-File: images/secure_routing/rbr-path-finding.pdf Graphic file (type pdf)
- <use images/secure_routing/rbr-path-finding.pdf>
-Package pdftex.def Info: images/secure_routing/rbr-path-finding.pdf used on inp
-ut line 128.
-(pdftex.def)             Requested size: 230.46739pt x 107.53705pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[26
-
-]) (./evaluation.tex (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[27
-
-] <images/evaluation/shocgentool.png, id=2792, 1423.3175pt x 756.8275pt>
-File: images/evaluation/shocgentool.png Graphic file (type png)
-
-<use images/evaluation/shocgentool.png>
-Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
-5.
-(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[28
-
- <./images/evaluation/shocgentool.png>]
-File: images/evaluation/shocgentool.png Graphic file (type png)
-
-<use images/evaluation/shocgentool.png>
-Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
-5.
-(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[29
-
-]
-File: images/evaluation/shocgentool.png Graphic file (type png)
- <use images/evaluation/shocgentool.png>
-Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
-5.
-(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[30
-
-]
-File: images/evaluation/shocgentool.png Graphic file (type png)
- <use images/evaluation/shocgentool.png>
-Package pdftex.def Info: images/evaluation/shocgentool.png used on input line 1
-5.
-(pdftex.def)             Requested size: 230.46739pt x 122.5384pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[31
-
-] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[32
-
-]
-Overfull \vbox (4.18272pt too high) detected at line 68
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[33
-
-]
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[34
-
-] (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[35
-
-]
-Package epstopdf Info: Source file: <charts/synth1/synth1-routing-tables-bits-b
-ezier.eps>
-(epstopdf)                    date: 2016-06-24 20:13:48
-(epstopdf)                    size: 28423 bytes
-(epstopdf)             Output file: <charts/synth1/synth1-routing-tables-bits-b
-ezier-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-29 17:42:20
-(epstopdf)                    size: 9095 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-routi
-ng-tables-bits-bezier-eps-converted-to.pdf charts/synth1/synth1-routing-tables-
-bits-bezier.eps>
-(epstopdf)             \includegraphics on input line 88.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf, id=3219,
- 361.35pt x 252.945pt>
-File: charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf Grap
-hic file (type pdf)
-
-<use charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth1/synth1-routing-tables-bits-bezier-eps-co
-nverted-to.pdf used on input line 88.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/synth2/synth2-routing-tables-bits-b
-ezier.eps>
-(epstopdf)                    date: 2016-10-31 10:59:00
-(epstopdf)                    size: 29849 bytes
-(epstopdf)             Output file: <charts/synth2/synth2-routing-tables-bits-b
-ezier-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:46
-(epstopdf)                    size: 9600 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-routi
-ng-tables-bits-bezier-eps-converted-to.pdf charts/synth2/synth2-routing-tables-
-bits-bezier.eps>
-(epstopdf)             \includegraphics on input line 88.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf, id=3220,
- 361.35pt x 252.945pt>
-File: charts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf Grap
-hic file (type pdf)
-
-<use charts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth2/synth2-routing-tables-bits-bezier-eps-co
-nverted-to.pdf used on input line 88.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/nasa/nasa-routing-tables-bits-bezie
-r.eps>
-(epstopdf)                    date: 2016-10-31 11:40:52
-(epstopdf)                    size: 34928 bytes
-(epstopdf)             Output file: <charts/nasa/nasa-routing-tables-bits-bezie
-r-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:46
-(epstopdf)                    size: 8357 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-routing-t
-ables-bits-bezier-eps-converted-to.pdf charts/nasa/nasa-routing-tables-bits-bez
-ier.eps>
-(epstopdf)             \includegraphics on input line 88.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/nasa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf, id=3221, 361
-.35pt x 252.945pt>
-File: charts/nasa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf Graphic 
-file (type pdf)
-
-<use charts/nasa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf>
-Package pdftex.def Info: charts/nasa/nasa-routing-tables-bits-bezier-eps-conver
-ted-to.pdf used on input line 88.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-
-Overfull \vbox (30.65086pt too high) detected at line 88
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[36
-
- <./charts/synth1/synth1-routing-tables-bits-bezier-eps-converted-to.pdf> <./ch
-arts/synth2/synth2-routing-tables-bits-bezier-eps-converted-to.pdf> <./charts/n
-asa/nasa-routing-tables-bits-bezier-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <charts/synth1/synth1-routing-tables-heatma
-p-sla-off-optimal.eps>
-(epstopdf)                    date: 2016-10-31 10:54:40
-(epstopdf)                    size: 30741 bytes
-(epstopdf)             Output file: <charts/synth1/synth1-routing-tables-heatma
-p-sla-off-optimal-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:48
-(epstopdf)                    size: 19288 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-routi
-ng-tables-heatmap-sla-off-optimal-eps-converted-to.pdf charts/synth1/synth1-rou
-ting-tables-heatmap-sla-off-optimal.eps>
-(epstopdf)             \includegraphics on input line 104.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted-to.p
-df, id=3288, 361.35pt x 252.945pt>
-File: charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted
--to.pdf Graphic file (type pdf)
-
-<use charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted-
-to.pdf>
-Package pdftex.def Info: charts/synth1/synth1-routing-tables-heatmap-sla-off-op
-timal-eps-converted-to.pdf used on input line 104.
-(pdftex.def)             Requested size: 138.2795pt x 96.79553pt.
-Package epstopdf Info: Source file: <charts/synth2/synth2-routing-tables-heatma
-p-sla-off-optimal.eps>
-(epstopdf)                    date: 2016-10-31 10:59:00
-(epstopdf)                    size: 33907 bytes
-(epstopdf)             Output file: <charts/synth2/synth2-routing-tables-heatma
-p-sla-off-optimal-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:48
-(epstopdf)                    size: 19409 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-routi
-ng-tables-heatmap-sla-off-optimal-eps-converted-to.pdf charts/synth2/synth2-rou
-ting-tables-heatmap-sla-off-optimal.eps>
-(epstopdf)             \includegraphics on input line 104.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-converted-to.p
-df, id=3289, 361.35pt x 252.945pt>
-File: charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-converted
--to.pdf Graphic file (type pdf)
-
-<use charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-converted-
-to.pdf>
-Package pdftex.def Info: charts/synth2/synth2-routing-tables-heatmap-sla-off-op
-timal-eps-converted-to.pdf used on input line 104.
-(pdftex.def)             Requested size: 138.2795pt x 96.79553pt.
-Package epstopdf Info: Source file: <charts/nasa/nasa-routing-tables-heatmap-sl
-a-off-optimal.eps>
-(epstopdf)                    date: 2016-10-31 11:40:52
-(epstopdf)                    size: 43820 bytes
-(epstopdf)             Output file: <charts/nasa/nasa-routing-tables-heatmap-sl
-a-off-optimal-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:48
-(epstopdf)                    size: 20389 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-routing-t
-ables-heatmap-sla-off-optimal-eps-converted-to.pdf charts/nasa/nasa-routing-tab
-les-heatmap-sla-off-optimal.eps>
-(epstopdf)             \includegraphics on input line 104.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-converted-to.pdf, 
-id=3290, 361.35pt x 252.945pt>
-File: charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-converted-to.
-pdf Graphic file (type pdf)
-
-<use charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-converted-to.p
-df>
-Package pdftex.def Info: charts/nasa/nasa-routing-tables-heatmap-sla-off-optima
-l-eps-converted-to.pdf used on input line 104.
-(pdftex.def)             Requested size: 138.2795pt x 96.79553pt.
-
-Overfull \vbox (13.43694pt too high) detected at line 104
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[37
-
- <./charts/synth1/synth1-routing-tables-heatmap-sla-off-optimal-eps-converted-t
-o.pdf> <./charts/synth2/synth2-routing-tables-heatmap-sla-off-optimal-eps-conve
-rted-to.pdf> <./charts/nasa/nasa-routing-tables-heatmap-sla-off-optimal-eps-con
-verted-to.pdf>]
-Package epstopdf Info: Source file: <charts/synth1/synth1-piz-routes-bezier.eps
->
-(epstopdf)                    date: 2016-10-31 10:54:40
-(epstopdf)                    size: 26683 bytes
-(epstopdf)             Output file: <charts/synth1/synth1-piz-routes-bezier-eps
--converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:50
-(epstopdf)                    size: 7653 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-piz-r
-outes-bezier-eps-converted-to.pdf charts/synth1/synth1-piz-routes-bezier.eps>
-(epstopdf)             \includegraphics on input line 120.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf, id=3360, 361.35pt
- x 252.945pt>
-File: charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf Graphic file 
-(type pdf)
-
-<use charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth1/synth1-piz-routes-bezier-eps-converted-t
-o.pdf used on input line 120.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/synth2/synth2-piz-routes-bezier.eps
->
-(epstopdf)                    date: 2016-10-31 10:59:00
-(epstopdf)                    size: 29248 bytes
-(epstopdf)             Output file: <charts/synth2/synth2-piz-routes-bezier-eps
--converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:50
-(epstopdf)                    size: 8396 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-piz-r
-outes-bezier-eps-converted-to.pdf charts/synth2/synth2-piz-routes-bezier.eps>
-(epstopdf)             \includegraphics on input line 120.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth2/synth2-piz-routes-bezier-eps-converted-to.pdf, id=3361, 361.35pt
- x 252.945pt>
-File: charts/synth2/synth2-piz-routes-bezier-eps-converted-to.pdf Graphic file 
-(type pdf)
-
-<use charts/synth2/synth2-piz-routes-bezier-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth2/synth2-piz-routes-bezier-eps-converted-t
-o.pdf used on input line 120.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/nasa/nasa-piz-routes-bezier.eps>
-(epstopdf)                    date: 2016-10-31 11:40:52
-(epstopdf)                    size: 33995 bytes
-(epstopdf)             Output file: <charts/nasa/nasa-piz-routes-bezier-eps-con
-verted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:52
-(epstopdf)                    size: 7393 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-piz-route
-s-bezier-eps-converted-to.pdf charts/nasa/nasa-piz-routes-bezier.eps>
-(epstopdf)             \includegraphics on input line 120.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pdf, id=3362, 361.35pt x 2
-52.945pt>
-File: charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pdf Graphic file (typ
-e pdf)
- <use charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pdf>
-Package pdftex.def Info: charts/nasa/nasa-piz-routes-bezier-eps-converted-to.pd
-f used on input line 120.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-
-Overfull \vbox (30.65086pt too high) detected at line 120
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[38
-
- <./charts/synth1/synth1-piz-routes-bezier-eps-converted-to.pdf> <./charts/synt
-h2/synth2-piz-routes-bezier-eps-converted-to.pdf> <./charts/nasa/nasa-piz-route
-s-bezier-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <charts/synth1/synth1-path-cost-comparison-
-relative.eps>
-(epstopdf)                    date: 2016-06-24 16:31:50
-(epstopdf)                    size: 25209 bytes
-(epstopdf)             Output file: <charts/synth1/synth1-path-cost-comparison-
-relative-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-24 16:32:06
-(epstopdf)                    size: 14799 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-path-
-cost-comparison-relative-eps-converted-to.pdf charts/synth1/synth1-path-cost-co
-mparison-relative.eps>
-(epstopdf)             \includegraphics on input line 136.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf, id=34
-29, 361.35pt x 252.945pt>
-File: charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf G
-raphic file (type pdf)
-
-<use charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth1/synth1-path-cost-comparison-relative-eps
--converted-to.pdf used on input line 136.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/synth2/synth2-path-cost-comparison-
-relative.eps>
-(epstopdf)                    date: 2016-10-31 10:59:00
-(epstopdf)                    size: 25129 bytes
-(epstopdf)             Output file: <charts/synth2/synth2-path-cost-comparison-
-relative-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:52
-(epstopdf)                    size: 13754 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-path-
-cost-comparison-relative-eps-converted-to.pdf charts/synth2/synth2-path-cost-co
-mparison-relative.eps>
-(epstopdf)             \includegraphics on input line 136.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf, id=34
-30, 361.35pt x 252.945pt>
-File: charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf G
-raphic file (type pdf)
-
-<use charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth2/synth2-path-cost-comparison-relative-eps
--converted-to.pdf used on input line 136.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/nasa/nasa-path-cost-comparison-rela
-tive.eps>
-(epstopdf)                    date: 2016-10-31 11:40:50
-(epstopdf)                    size: 25143 bytes
-(epstopdf)             Output file: <charts/nasa/nasa-path-cost-comparison-rela
-tive-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:54
-(epstopdf)                    size: 15244 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/nasa/nasa-path-cost
--comparison-relative-eps-converted-to.pdf charts/nasa/nasa-path-cost-comparison
--relative.eps>
-(epstopdf)             \includegraphics on input line 136.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf, id=3431, 
-361.35pt x 252.945pt>
-File: charts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf Graph
-ic file (type pdf)
-
-<use charts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf>
-Package pdftex.def Info: charts/nasa/nasa-path-cost-comparison-relative-eps-con
-verted-to.pdf used on input line 136.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-
-Overfull \vbox (30.65086pt too high) detected at line 136
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[39
-
- <./charts/synth1/synth1-path-cost-comparison-relative-eps-converted-to.pdf> <.
-/charts/synth2/synth2-path-cost-comparison-relative-eps-converted-to.pdf> <./ch
-arts/nasa/nasa-path-cost-comparison-relative-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <charts/synth1/synth1-path-cost-comparison-
-optimal.eps>
-(epstopdf)                    date: 2016-06-24 16:34:04
-(epstopdf)                    size: 21574 bytes
-(epstopdf)             Output file: <charts/synth1/synth1-path-cost-comparison-
-optimal-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-24 16:34:12
-(epstopdf)                    size: 11252 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth1/synth1-path-
-cost-comparison-optimal-eps-converted-to.pdf charts/synth1/synth1-path-cost-com
-parison-optimal.eps>
-(epstopdf)             \includegraphics on input line 149.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf, id=349
-8, 361.35pt x 252.945pt>
-File: charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf Gr
-aphic file (type pdf)
-
-<use charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth1/synth1-path-cost-comparison-optimal-eps-
-converted-to.pdf used on input line 149.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-Package epstopdf Info: Source file: <charts/synth2/synth2-path-cost-comparison-
-optimal.eps>
-(epstopdf)                    date: 2016-10-31 10:59:00
-(epstopdf)                    size: 21574 bytes
-(epstopdf)             Output file: <charts/synth2/synth2-path-cost-comparison-
-optimal-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-11-17 17:14:54
-(epstopdf)                    size: 9647 bytes
-(epstopdf)             Command: <repstopdf --outfile=charts/synth2/synth2-path-
-cost-comparison-optimal-eps-converted-to.pdf charts/synth2/synth2-path-cost-com
-parison-optimal.eps>
-(epstopdf)             \includegraphics on input line 149.
-Package epstopdf Info: Output file is already uptodate.
-
-<charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf, id=349
-9, 361.35pt x 252.945pt>
-File: charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf Gr
-aphic file (type pdf)
-
-<use charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf>
-Package pdftex.def Info: charts/synth2/synth2-path-cost-comparison-optimal-eps-
-converted-to.pdf used on input line 149.
-(pdftex.def)             Requested size: 150.57372pt x 105.4025pt.
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[40
-
- <./charts/synth1/synth1-path-cost-comparison-optimal-eps-converted-to.pdf> <./
-charts/synth2/synth2-path-cost-comparison-optimal-eps-converted-to.pdf>])
-(./work-schedule.tex (./slides.toc)
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[41
-
-]
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 07| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 08| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 09| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 10| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 11| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 12| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 01| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 02| 
- []
-
-
-Overfull \hbox (3.5644pt too wide) in paragraph at lines 50--50
- []\T1/cmss/m/n/10.95 03 
- []
-
-
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[42
-
-])
-Overfull \hbox (6.07791pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[43
 
 ]
 \tf@nav=\write6
@@ -2352,48 +1806,41 @@ Overfull \hbox (6.07791pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `slides.out' has not changed.
-(rerunfilecheck)             Checksum: 09B6405DB3335C8CF3D4E2F239141B5F;573.
+(rerunfilecheck)             Checksum: CB0F41B495419499757F5786940F606A;343.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 21169 strings out of 493029
- 393261 string characters out of 6136235
- 522485 words of memory out of 5000000
- 24049 multiletter control sequences out of 15000+600000
- 22100 words of font info for 55 fonts, out of 8000000 for 9000
+ 20875 strings out of 493029
+ 383924 string characters out of 6136235
+ 490512 words of memory out of 5000000
+ 23836 multiletter control sequences out of 15000+600000
+ 16403 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,56p,403b,767s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,55p,403b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfsi1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfso1095.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-fss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-ss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on slides.pdf (43 pages, 1964771 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on slides.pdf (19 pages, 173435 bytes).
 PDF statistics:
- 3798 PDF objects out of 4296 (max. 8388607)
- 2723 compressed objects within 28 object streams
- 102 named destinations out of 1000 (max. 500000)
- 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 802 PDF objects out of 1000 (max. 8388607)
+ 747 compressed objects within 8 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

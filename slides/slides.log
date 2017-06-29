@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  28 JUN 2017 20:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  29 JUN 2017 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1087,26 +1087,209 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count158
 \@thisrulewidth=\dimen259
 )
-(/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count159
+\pgfplotmarksize=\dimen264
+)
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count160
+\tikznumberofchildren=\count161
+\tikznumberofcurrentchild=\count162
+\tikz@fig@count=\count163
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count164
+\pgfmatrixcurrentcolumn=\count165
+\pgf@matrix@numberofcolumns=\count166
+)
+\tikz@expandcount=\count167
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen271
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box58
+\pgfnodeparttwobox=\box59
+\pgfnodepartthreebox=\box60
+\pgfnodepartfourbox=\box61
+\pgfnodeparttwentybox=\box62
+\pgfnodepartnineteenbox=\box63
+\pgfnodeparteighteenbox=\box64
+\pgfnodepartseventeenbox=\box65
+\pgfnodepartsixteenbox=\box66
+\pgfnodepartfifteenbox=\box67
+\pgfnodepartfourteenbox=\box68
+\pgfnodepartthirteenbox=\box69
+\pgfnodeparttwelvebox=\box70
+\pgfnodepartelevenbox=\box71
+\pgfnodeparttenbox=\box72
+\pgfnodepartninebox=\box73
+\pgfnodeparteightbox=\box74
+\pgfnodepartsevenbox=\box75
+\pgfnodepartsixbox=\box76
+\pgfnodepartfivebox=\box77
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.
+tex  v1.01, 2012/04/24
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryintersections.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersection
+s.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)
+\pgf@intersect@solutions=\count168
+)) (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2014/01/03 v1.7j
 
 Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
-\TP@textbox=\box53
-\TP@holdbox=\box54
-\TPHorizModule=\dimen260
-\TPVertModule=\dimen261
-\TP@margin=\dimen262
-\TP@absmargin=\dimen263
+\TP@textbox=\box78
+\TP@holdbox=\box79
+\TPHorizModule=\dimen272
+\TPVertModule=\dimen273
+\TP@margin=\dimen274
+\TP@absmargin=\dimen275
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen264
-\TP@ox=\dimen265
-\TP@oy=\dimen266
-\TP@tbargs=\toks47
-\TP@prevdepth=\dimen267
+\TPboxrulesize=\dimen276
+\TP@ox=\dimen277
+\TP@oy=\dimen278
+\TP@tbargs=\toks49
+\TP@prevdepth=\dimen279
 TextBlockOrigin set to 0pt x 0pt
 ) (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
-\c@AlgoLine=\count159
+\c@AlgoLine=\count169
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -1134,47 +1317,47 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \skiplength=\skip66
 \algomargin=\skip67
 \skipalgocfslide=\skip68
-\algowidth=\dimen268
-\inoutsize=\dimen269
-\inoutindent=\dimen270
-\interspacetitleruled=\dimen271
-\interspacealgoruled=\dimen272
-\interspacetitleboxruled=\dimen273
+\algowidth=\dimen280
+\inoutsize=\dimen281
+\inoutindent=\dimen282
+\interspacetitleruled=\dimen283
+\interspacealgoruled=\dimen284
+\interspacetitleboxruled=\dimen285
 \algocf@ruledwidth=\skip69
-\algocf@inoutbox=\box55
-\algocf@inputbox=\box56
+\algocf@inoutbox=\box80
+\algocf@inputbox=\box81
 \AlCapSkip=\skip70
 \AlCapHSkip=\skip71
 \algoskipindent=\skip72
-\algocf@nlbox=\box57
-\algocf@hangingbox=\box58
-\algocf@untilbox=\box59
+\algocf@nlbox=\box82
+\algocf@hangingbox=\box83
+\algocf@untilbox=\box84
 \algocf@skipuntil=\skip73
-\algocf@capbox=\box60
+\algocf@capbox=\box85
 \algoheightruledefault=\skip74
 \algoheightrule=\skip75
 \algotitleheightruledefault=\skip76
 \algotitleheightrule=\skip77
-\c@algocfline=\count160
-\c@algocfproc=\count161
-\c@algocf=\count162
-\algocf@algoframe=\box61
-\algocf@algobox=\box62
+\c@algocfline=\count170
+\c@algocfproc=\count171
+\c@algocf=\count172
+\algocf@algoframe=\box86
+\algocf@algobox=\box87
 ) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen274
-\captionmargin@=\dimen275
-\captionwidth=\dimen276
-\caption@tempdima=\dimen277
-\caption@indent=\dimen278
-\caption@parindent=\dimen279
-\caption@hangindent=\dimen280
+\captionmargin=\dimen286
+\captionmargin@=\dimen287
+\captionwidth=\dimen288
+\caption@tempdima=\dimen289
+\caption@indent=\dimen290
+\caption@parindent=\dimen291
+\caption@hangindent=\dimen292
 )
-\c@ContinuedFloat=\count163
+\c@ContinuedFloat=\count173
 Package caption Info: beamer document class.
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
@@ -1182,93 +1365,93 @@ Package caption Info: Hyperref support is turned off
 )
 (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
-\c@subfigure=\count164
-\c@subtable=\count165
+\c@subfigure=\count174
+\c@subtable=\count175
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box63
-\sift@deathcycles=\count166
-\@vwid@loff=\dimen281
-\@vwid@roff=\dimen282
+\@vwid@box=\box88
+\sift@deathcycles=\count176
+\@vwid@loff=\dimen293
+\@vwid@roff=\dimen294
 )
-\c@taburow=\count167
-\tabu@nbcols=\count168
-\tabu@cnt=\count169
-\tabu@Xcol=\count170
-\tabu@alloc=\count171
-\tabu@nested=\count172
-\tabu@target=\dimen283
-\tabu@spreadtarget=\dimen284
-\tabu@naturalX=\dimen285
-\tabucolX=\dimen286
-\tabu@Xsum=\dimen287
-\extrarowdepth=\dimen288
-\abovetabulinesep=\dimen289
-\belowtabulinesep=\dimen290
-\tabustrutrule=\dimen291
-\tabu@thebody=\toks48
-\tabu@footnotes=\toks49
-\tabu@box=\box64
-\tabu@arstrutbox=\box65
-\tabu@hleads=\box66
-\tabu@vleads=\box67
+\c@taburow=\count177
+\tabu@nbcols=\count178
+\tabu@cnt=\count179
+\tabu@Xcol=\count180
+\tabu@alloc=\count181
+\tabu@nested=\count182
+\tabu@target=\dimen295
+\tabu@spreadtarget=\dimen296
+\tabu@naturalX=\dimen297
+\tabucolX=\dimen298
+\tabu@Xsum=\dimen299
+\extrarowdepth=\dimen300
+\abovetabulinesep=\dimen301
+\belowtabulinesep=\dimen302
+\tabustrutrule=\dimen303
+\tabu@thebody=\toks50
+\tabu@footnotes=\toks51
+\tabu@box=\box89
+\tabu@arstrutbox=\box90
+\tabu@hleads=\box91
+\tabu@vleads=\box92
 \tabu@cellskip=\skip78
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen292
+\bigstrutjot=\dimen304
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count173
-\mult@box=\box68
-\multicol@leftmargin=\dimen293
-\c@unbalance=\count174
-\c@collectmore=\count175
-\doublecol@number=\count176
-\multicoltolerance=\count177
-\multicolpretolerance=\count178
-\full@width=\dimen294
-\page@free=\dimen295
-\premulticols=\dimen296
-\postmulticols=\dimen297
+\c@tracingmulticols=\count183
+\mult@box=\box93
+\multicol@leftmargin=\dimen305
+\c@unbalance=\count184
+\c@collectmore=\count185
+\doublecol@number=\count186
+\multicoltolerance=\count187
+\multicolpretolerance=\count188
+\full@width=\dimen306
+\page@free=\dimen307
+\premulticols=\dimen308
+\postmulticols=\dimen309
 \multicolsep=\skip79
 \multicolbaselineskip=\skip80
-\partial@page=\box69
-\last@line=\box70
-\maxbalancingoverflow=\dimen298
-\mult@rightbox=\box71
-\mult@grightbox=\box72
-\mult@gfirstbox=\box73
-\mult@firstbox=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\c@columnbadness=\count179
-\c@finalcolumnbadness=\count180
-\last@try=\dimen299
-\multicolovershoot=\dimen300
-\multicolundershoot=\dimen301
-\mult@nat@firstbox=\box92
-\colbreak@box=\box93
-\mc@col@check@num=\count181
+\partial@page=\box94
+\last@line=\box95
+\maxbalancingoverflow=\dimen310
+\mult@rightbox=\box96
+\mult@grightbox=\box97
+\mult@gfirstbox=\box98
+\mult@firstbox=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\c@columnbadness=\count189
+\c@finalcolumnbadness=\count190
+\last@try=\dimen311
+\multicolovershoot=\dimen312
+\multicolundershoot=\dimen313
+\mult@nat@firstbox=\box117
+\colbreak@box=\box118
+\mc@col@check@num=\count191
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1332,17 +1515,17 @@ LaTeX Font Info:    ... okay on input line 77.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count182
-\scratchdimen=\dimen302
-\scratchbox=\box94
-\nofMPsegments=\count183
-\nofMParguments=\count184
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count185
-\MPscratchDim=\dimen303
-\MPnumerator=\count186
-\makeMPintoPDFobject=\count187
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count192
+\scratchdimen=\dimen314
+\scratchbox=\box119
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen315
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks53
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1359,7 +1542,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box95
+\AtBeginShipoutBox=\box120
 Package hyperref Info: Link coloring OFF on input line 77.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1368,7 +1551,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count188
+\c@section@level=\count198
 )
 LaTeX Info: Redefining \ref on input line 77.
 LaTeX Info: Redefining \pageref on input line 77.
@@ -1464,21 +1647,17 @@ LaTeX Info: Redefining \includegraphics on input line 77.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./slides.nav)
-Overfull \hbox (50.68958pt too wide) in paragraph at lines 77--77
- [][][][]  
- []
-
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 87.
 
-<logo-pucrs.jpg, id=49, 42.3984pt x 72.27pt>
+<logo-pucrs.jpg, id=89, 42.3984pt x 72.27pt>
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 87.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 
-<logo-facin.jpg, id=50, 47.2164pt x 70.8246pt>
+<logo-facin.jpg, id=90, 47.2164pt x 70.8246pt>
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 87.
@@ -1495,14 +1674,10 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 96.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [2
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[2
-
-] (./motivacao.tex (./slides.toc)
+]
+(./motivacao.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
@@ -1511,10 +1686,6 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
 
 [3
 
@@ -1544,28 +1715,19 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 19.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[4
+ [4
 
 ]) (./objetivos.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
+
+<use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[5
+ [5
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -1573,145 +1735,132 @@ File: logo-pucrs.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-pucrs.jpg used on input line 4.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
+
+<use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 4.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[6
+ [6
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 21.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 22.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 21.
+Package pdftex.def Info: logo-facin.jpg used on input line 22.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [7
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
 
-[7
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 22.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 22.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [8
 
-]) (./referencial-teorico.tex (./slides.toc)
+
+]) (./referencial-teorico.tex
+(./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
+ <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[8
+ [9
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
+
+<use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 10.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 10.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[9
+ [10
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 24.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 20.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 24.
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 20.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[10
+ [11
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 43.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 48.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 43.
+Package pdftex.def Info: logo-facin.jpg used on input line 48.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [12
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
 
-[11
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 48.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 48.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [13
+
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 56.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 48.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 56.
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 48.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [14
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[12
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 60.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 52.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 60.
+Package pdftex.def Info: logo-facin.jpg used on input line 52.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [15
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[13
-
-]) (./modelagem.tex (./slides.toc)
+])
+(./modelagem.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
+ <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[14
+[16
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -1722,12 +1871,421 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 17.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [17
 
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
+]
+<../pdf/bd-slides.pdf, id=855, 739.76375pt x 314.17375pt>
+File: ../pdf/bd-slides.pdf Graphic file (type pdf)
 
-[15
+<use ../pdf/bd-slides.pdf>
+Package pdftex.def Info: ../pdf/bd-slides.pdf used on input line 22.
+(pdftex.def)             Requested size: 307.28987pt x 130.5043pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 22.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 22.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [18
+
+ <../pdf/bd-slides.pdf>]
+<../pdf/fluxograma-atual.pdf, id=899, 658.46pt x 528.97626pt>
+File: ../pdf/fluxograma-atual.pdf Graphic file (type pdf)
+
+<use ../pdf/fluxograma-atual.pdf>
+Package pdftex.def Info: ../pdf/fluxograma-atual.pdf used on input line 27.
+(pdftex.def)             Requested size: 245.83282pt x 197.48581pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 27.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 27.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[19
+
+ <../pdf/fluxograma-atual.pdf>]) (./desenvolvimento.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [20
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 12.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 12.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [21
+
+] (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 14.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 14.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [22
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 45.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 45.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [23
+
+]
+<../pdf/tikz/toptop-1.pdf, id=1131, 463.7325pt x 328.22626pt>
+File: ../pdf/tikz/toptop-1.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/toptop-1.pdf>
+Package pdftex.def Info: ../pdf/tikz/toptop-1.pdf used on input line 61.
+(pdftex.def)             Requested size: 245.83282pt x 173.99915pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[24
+
+ <../pdf/tikz/toptop-1.pdf>]
+<../pdf/tikz/topdown-1.pdf, id=1185, 463.7325pt x 328.22626pt>
+File: ../pdf/tikz/topdown-1.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/topdown-1.pdf>
+Package pdftex.def Info: ../pdf/tikz/topdown-1.pdf used on input line 61.
+(pdftex.def)             Requested size: 245.83282pt x 173.99915pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[25
+
+ <../pdf/tikz/topdown-1.pdf>]
+<../pdf/tikz/topdown-2.pdf, id=1241, 463.7325pt x 328.22626pt>
+File: ../pdf/tikz/topdown-2.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/topdown-2.pdf>
+Package pdftex.def Info: ../pdf/tikz/topdown-2.pdf used on input line 61.
+(pdftex.def)             Requested size: 245.83282pt x 173.99915pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[26
+
+ <../pdf/tikz/topdown-2.pdf>]
+<../pdf/tikz/topdown-3.pdf, id=1295, 463.7325pt x 328.22626pt>
+File: ../pdf/tikz/topdown-3.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/topdown-3.pdf>
+Package pdftex.def Info: ../pdf/tikz/topdown-3.pdf used on input line 61.
+(pdftex.def)             Requested size: 245.83282pt x 173.99915pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[27
+
+ <../pdf/tikz/topdown-3.pdf>]
+<../pdf/tikz/topdown-4.pdf, id=1350, 463.7325pt x 328.22626pt>
+File: ../pdf/tikz/topdown-4.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/topdown-4.pdf>
+Package pdftex.def Info: ../pdf/tikz/topdown-4.pdf used on input line 61.
+(pdftex.def)             Requested size: 245.83282pt x 173.99915pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[28
+
+ <../pdf/tikz/topdown-4.pdf>]
+<../pdf/tikz/topdown-5.pdf, id=1404, 392.46625pt x 328.22626pt>
+File: ../pdf/tikz/topdown-5.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/topdown-5.pdf>
+Package pdftex.def Info: ../pdf/tikz/topdown-5.pdf used on input line 61.
+(pdftex.def)             Requested size: 207.72636pt x 173.7287pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[29
+
+ <../pdf/tikz/topdown-5.pdf>]
+<../pdf/tikz/bottomup-1.pdf, id=1459, 392.46625pt x 328.22626pt>
+File: ../pdf/tikz/bottomup-1.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/bottomup-1.pdf>
+Package pdftex.def Info: ../pdf/tikz/bottomup-1.pdf used on input line 61.
+(pdftex.def)             Requested size: 207.72636pt x 173.7287pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[30
+
+ <../pdf/tikz/bottomup-1.pdf>]
+<../pdf/tikz/bottomup-2.pdf, id=1517, 392.46625pt x 328.22626pt>
+File: ../pdf/tikz/bottomup-2.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/bottomup-2.pdf>
+Package pdftex.def Info: ../pdf/tikz/bottomup-2.pdf used on input line 61.
+(pdftex.def)             Requested size: 207.72636pt x 173.7287pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[31
+
+ <../pdf/tikz/bottomup-2.pdf>]
+<../pdf/tikz/bottomup-3.pdf, id=1573, 392.46625pt x 328.22626pt>
+File: ../pdf/tikz/bottomup-3.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/bottomup-3.pdf>
+Package pdftex.def Info: ../pdf/tikz/bottomup-3.pdf used on input line 61.
+(pdftex.def)             Requested size: 207.72636pt x 173.7287pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[32
+
+ <../pdf/tikz/bottomup-3.pdf>]
+<../pdf/tikz/bottomup-4.pdf, id=1631, 392.46625pt x 328.22626pt>
+File: ../pdf/tikz/bottomup-4.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/bottomup-4.pdf>
+Package pdftex.def Info: ../pdf/tikz/bottomup-4.pdf used on input line 61.
+(pdftex.def)             Requested size: 207.72636pt x 173.7287pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[33
+
+ <../pdf/tikz/bottomup-4.pdf>]
+<../pdf/tikz/bottomup-5.pdf, id=1685, 392.46625pt x 369.38pt>
+File: ../pdf/tikz/bottomup-5.pdf Graphic file (type pdf)
+
+<use ../pdf/tikz/bottomup-5.pdf>
+Package pdftex.def Info: ../pdf/tikz/bottomup-5.pdf used on input line 61.
+(pdftex.def)             Requested size: 207.72636pt x 195.51118pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 61.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[34
+
+ <../pdf/tikz/bottomup-5.pdf>]) (./avaliacao.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [35
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 18.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 18.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [36
+
+] (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 20.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 20.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [37
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 29.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 29.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [38
+
+]
+<../charts/tempo-sem-dv.pdf, id=1927, 722.7pt x 433.62pt>
+File: ../charts/tempo-sem-dv.pdf Graphic file (type pdf)
+
+<use ../charts/tempo-sem-dv.pdf>
+Package pdftex.def Info: ../charts/tempo-sem-dv.pdf used on input line 34.
+(pdftex.def)             Requested size: 307.28987pt x 184.37538pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 34.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 34.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+
+[39
+
+ <../charts/tempo-sem-dv.pdf>]
+<../charts/tempo.pdf, id=1978, 722.7pt x 433.62pt>
+File: ../charts/tempo.pdf Graphic file (type pdf)
+ <use ../charts/tempo.pdf>
+Package pdftex.def Info: ../charts/tempo.pdf used on input line 34.
+(pdftex.def)             Requested size: 307.28987pt x 184.37538pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 34.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 34.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [40
+
+ <../charts/tempo.pdf>]
+<../charts/qt9.pdf, id=2036, 722.7pt x 433.62pt>
+File: ../charts/qt9.pdf Graphic file (type pdf)
+ <use ../charts/qt9.pdf>
+Package pdftex.def Info: ../charts/qt9.pdf used on input line 38.
+(pdftex.def)             Requested size: 307.28987pt x 184.37538pt.
+File: logo-pucrs.jpg Graphic file (type jpg)
+
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 38.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 38.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [41
+
+ <../charts/qt9.pdf>]
+File: logo-pucrs.jpg Graphic file (type jpg)
+
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 51.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 51.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [42
+
+]) (./conclusoes.tex (./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 1.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [43
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 10.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 10.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [44
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -1738,143 +2296,19 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 21.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[16
-
-]) (./desenvolvimento.tex (./slides.toc)
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 1.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[17
-
-]
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 11.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 11.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[18
-
-]
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 36.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 36.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[19
-
-]) (./avaliacao.tex (./slides.toc)
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 1.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[20
-
-]
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 7.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 7.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[21
-
-]) (./conclusoes.tex (./slides.toc)
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 1.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[22
-
-]
-File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 7.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 7.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[23
+ [45
 
 ])
 File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
+
+<use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 143.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 143.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
-
-Overfull \hbox (50.68958pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[24
+ [46
 
 ]
 \tf@nav=\write6
@@ -1892,7 +2326,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `slides.out' has not changed.
-(rerunfilecheck)             Checksum: CB0F41B495419499757F5786940F606A;343.
+(rerunfilecheck)             Checksum: C9D583D1BC56BDACEEE345A58000CD98;462.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1901,13 +2335,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 20926 strings out of 493029
- 385065 string characters out of 6136235
- 492512 words of memory out of 5000000
- 23875 multiletter control sequences out of 15000+600000
+ 27219 strings out of 493029
+ 547409 string characters out of 6136235
+ 675707 words of memory out of 5000000
+ 29969 multiletter control sequences out of 15000+600000
  17999 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,55p,403b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,19n,93p,403b,763s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fon
@@ -1919,10 +2353,10 @@ per/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></u
 sr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfsx1095.pfb>
-Output written on slides.pdf (24 pages, 208618 bytes).
+Output written on slides.pdf (46 pages, 774168 bytes).
 PDF statistics:
- 979 PDF objects out of 1000 (max. 8388607)
- 915 compressed objects within 10 object streams
- 63 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2372 PDF objects out of 2487 (max. 8388607)
+ 2190 compressed objects within 22 object streams
+ 109 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 

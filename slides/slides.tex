@@ -23,6 +23,10 @@
 \usepackage{tabu}
 \usepackage{multirow}
 \usepackage{multicol}
+\usepackage{ragged2e}
+\newcolumntype{L}[1]{>{\RaggedRight\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\Centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\RaggedLeft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 %\addbibresource{References.bib}
 %\bibliography{References}
 %\renewcommand*{\bibfont}{\tiny} % resizes bibliography font size

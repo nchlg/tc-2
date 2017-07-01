@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.2)  30 JUN 2017 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  1 JUL 2017 16:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1675,13 +1675,13 @@ LaTeX Info: Redefining \selectfont on input line 81.
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 91.
 
-<logo-pucrs.jpg, id=89, 42.3984pt x 72.27pt>
+<logo-pucrs.jpg, id=110, 42.3984pt x 72.27pt>
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 91.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 
-<logo-facin.jpg, id=90, 47.2164pt x 70.8246pt>
+<logo-facin.jpg, id=111, 47.2164pt x 70.8246pt>
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 91.
@@ -1801,85 +1801,112 @@ Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [9
 
-]
+] (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
 
 <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 10.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 3.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 10.
+Package pdftex.def Info: logo-facin.jpg used on input line 3.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [10
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 20.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 12.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
 
 <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 20.
+Package pdftex.def Info: logo-facin.jpg used on input line 12.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [11
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 48.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 22.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 48.
+Package pdftex.def Info: logo-facin.jpg used on input line 22.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [12
+
+]
+(./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 24.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 24.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [13
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
 
 <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 48.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 43.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 48.
+Package pdftex.def Info: logo-facin.jpg used on input line 43.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [13
+ [14
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 43.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+
+<use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 43.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [15
 
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 48.
-(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
-File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 48.
-(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [14
-
-
-]
-Overfull \hbox (2.31061pt too wide) in paragraph at lines 64--64
- [] 
- []
-
-
-Overfull \vbox (22.33488pt too high) detected at line 64
- []
-
-File: logo-pucrs.jpg Graphic file (type jpg)
-<use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 64.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 54.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 64.
+Package pdftex.def Info: logo-facin.jpg used on input line 54.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [15
+ [16
+
+]
+(./slides.toc)
+File: logo-pucrs.jpg Graphic file (type jpg)
+ <use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 56.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 56.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [17
+
+]
+File: logo-pucrs.jpg Graphic file (type jpg)
+
+<use logo-pucrs.jpg>
+Package pdftex.def Info: logo-pucrs.jpg used on input line 72.
+(pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
+File: logo-facin.jpg Graphic file (type jpg)
+ <use logo-facin.jpg>
+Package pdftex.def Info: logo-facin.jpg used on input line 72.
+(pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [18
 
 ]) (./modelagem.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -1890,7 +1917,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [16
+ [19
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -1902,10 +1929,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 17.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [17
+ [20
 
 ]
-<../pdf/bd-slides.pdf, id=855, 739.76375pt x 314.17375pt>
+<../pdf/bd-slides.pdf, id=1235, 739.76375pt x 314.17375pt>
 File: ../pdf/bd-slides.pdf Graphic file (type pdf)
 
 <use ../pdf/bd-slides.pdf>
@@ -1919,37 +1946,41 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 22.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [18
+ [21
 
  <../pdf/bd-slides.pdf>]
-<../pdf/fluxograma-atual.pdf, id=899, 658.46pt x 528.97626pt>
+<../pdf/fluxograma-atual.pdf, id=1288, 658.46pt x 528.97626pt>
 File: ../pdf/fluxograma-atual.pdf Graphic file (type pdf)
 
 <use ../pdf/fluxograma-atual.pdf>
 Package pdftex.def Info: ../pdf/fluxograma-atual.pdf used on input line 27.
 (pdftex.def)             Requested size: 245.83282pt x 197.48581pt.
+
+Overfull \vbox (4.33168pt too high) detected at line 27
+ []
+
 File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
+<use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 27.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 27.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
+ [22
 
-[19
-
- <../pdf/fluxograma-atual.pdf>]) (./desenvolvimento.tex (./slides.toc)
+ <../pdf/fluxograma-atual.pdf>])
+(./desenvolvimento.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
-
-<use logo-pucrs.jpg>
+ <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
+
+<use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [20
+ [23
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -1957,37 +1988,37 @@ File: logo-pucrs.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-pucrs.jpg used on input line 12.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
+ <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 12.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [21
+ [24
 
-] (./slides.toc)
+]
+(./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 14.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
+ <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 14.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [22
+ [25
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
+
+<use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 45.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 45.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [23
+ [26
 
 ]
-<../pdf/tikz/toptop-1.pdf, id=1131, 463.7325pt x 328.22626pt>
+<../pdf/tikz/toptop-1.pdf, id=1571, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/toptop-1.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/toptop-1.pdf>
@@ -2002,10 +2033,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[24
+[27
 
  <../pdf/tikz/toptop-1.pdf>]
-<../pdf/tikz/topdown-1.pdf, id=1185, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-1.pdf, id=1634, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-1.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-1.pdf>
@@ -2020,10 +2051,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[25
+[28
 
  <../pdf/tikz/topdown-1.pdf>]
-<../pdf/tikz/topdown-2.pdf, id=1241, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-2.pdf, id=1698, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-2.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-2.pdf>
@@ -2038,10 +2069,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[26
+[29
 
  <../pdf/tikz/topdown-2.pdf>]
-<../pdf/tikz/topdown-3.pdf, id=1295, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-3.pdf, id=1762, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-3.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-3.pdf>
@@ -2056,10 +2087,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[27
+[30
 
  <../pdf/tikz/topdown-3.pdf>]
-<../pdf/tikz/topdown-4.pdf, id=1350, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-4.pdf, id=1825, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-4.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-4.pdf>
@@ -2074,10 +2105,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[28
+[31
 
  <../pdf/tikz/topdown-4.pdf>]
-<../pdf/tikz/topdown-5.pdf, id=1404, 392.46625pt x 328.22626pt>
+<../pdf/tikz/topdown-5.pdf, id=1890, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/topdown-5.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-5.pdf>
@@ -2092,10 +2123,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[29
+[32
 
  <../pdf/tikz/topdown-5.pdf>]
-<../pdf/tikz/bottomup-1.pdf, id=1459, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-1.pdf, id=1953, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-1.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-1.pdf>
@@ -2110,10 +2141,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[30
+[33
 
  <../pdf/tikz/bottomup-1.pdf>]
-<../pdf/tikz/bottomup-2.pdf, id=1517, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-2.pdf, id=2021, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-2.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-2.pdf>
@@ -2128,10 +2159,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[31
+[34
 
  <../pdf/tikz/bottomup-2.pdf>]
-<../pdf/tikz/bottomup-3.pdf, id=1573, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-3.pdf, id=2085, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-3.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-3.pdf>
@@ -2146,10 +2177,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[32
+[35
 
  <../pdf/tikz/bottomup-3.pdf>]
-<../pdf/tikz/bottomup-4.pdf, id=1631, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-4.pdf, id=2152, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-4.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-4.pdf>
@@ -2164,15 +2195,15 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[33
+[36
 
  <../pdf/tikz/bottomup-4.pdf>]
-<../pdf/tikz/bottomup-5.pdf, id=1685, 392.46625pt x 369.38pt>
+<../pdf/tikz/bottomup-5.pdf, id=2215, 392.46625pt x 368.37625pt>
 File: ../pdf/tikz/bottomup-5.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-5.pdf>
 Package pdftex.def Info: ../pdf/tikz/bottomup-5.pdf used on input line 61.
-(pdftex.def)             Requested size: 207.72636pt x 195.51118pt.
+(pdftex.def)             Requested size: 207.72636pt x 194.9799pt.
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 61.
@@ -2182,7 +2213,7 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 61.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[34
+[37
 
  <../pdf/tikz/bottomup-5.pdf>]) (./avaliacao.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2194,7 +2225,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [35
+ [38
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2206,7 +2237,7 @@ File: logo-facin.jpg Graphic file (type jpg)
 <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 18.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [36
+ [39
 
 ] (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2218,7 +2249,7 @@ File: logo-facin.jpg Graphic file (type jpg)
 <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 20.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [37
+ [40
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2229,10 +2260,10 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 29.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [38
+ [41
 
 ]
-<../charts/tempo-sem-dv.pdf, id=1927, 722.7pt x 433.62pt>
+<../charts/tempo-sem-dv.pdf, id=2509, 722.7pt x 433.62pt>
 File: ../charts/tempo-sem-dv.pdf Graphic file (type pdf)
 
 <use ../charts/tempo-sem-dv.pdf>
@@ -2247,10 +2278,10 @@ File: logo-facin.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-facin.jpg used on input line 34.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
 
-[39
+[42
 
  <../charts/tempo-sem-dv.pdf>]
-<../charts/tempo.pdf, id=1978, 722.7pt x 433.62pt>
+<../charts/tempo.pdf, id=2569, 722.7pt x 433.62pt>
 File: ../charts/tempo.pdf Graphic file (type pdf)
  <use ../charts/tempo.pdf>
 Package pdftex.def Info: ../charts/tempo.pdf used on input line 34.
@@ -2264,10 +2295,10 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 34.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [40
+ [43
 
  <../charts/tempo.pdf>]
-<../charts/qt9.pdf, id=2036, 722.7pt x 433.62pt>
+<../charts/qt9.pdf, id=2637, 722.7pt x 433.62pt>
 File: ../charts/qt9.pdf Graphic file (type pdf)
  <use ../charts/qt9.pdf>
 Package pdftex.def Info: ../charts/qt9.pdf used on input line 38.
@@ -2281,7 +2312,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 38.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [41
+ [44
 
  <../charts/qt9.pdf>]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2293,7 +2324,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 51.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [42
+ [45
 
 ]) (./conclusoes.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2304,7 +2335,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [43
+ [46
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2316,7 +2347,7 @@ File: logo-facin.jpg Graphic file (type jpg)
 <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 10.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [44
+ [47
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2327,7 +2358,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 21.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [45
+ [48
 
 ])
 File: logo-pucrs.jpg Graphic file (type jpg)
@@ -2339,7 +2370,7 @@ File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 147.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [46
+ [49
 
 ]
 \tf@nav=\write6
@@ -2357,7 +2388,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
 Package rerunfilecheck Info: File `slides.out' has not changed.
-(rerunfilecheck)             Checksum: C9D583D1BC56BDACEEE345A58000CD98;462.
+(rerunfilecheck)             Checksum: 486F2DA5555CFD6A59F3BEC936D0FF34;660.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2366,13 +2397,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
  ) 
 Here is how much of TeX's memory you used:
- 27329 strings out of 493029
- 549499 string characters out of 6136235
- 677752 words of memory out of 5000000
- 30072 multiletter control sequences out of 15000+600000
+ 27359 strings out of 493029
+ 549826 string characters out of 6136235
+ 679757 words of memory out of 5000000
+ 30087 multiletter control sequences out of 15000+600000
  19647 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,93p,403b,763s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,19n,93p,403b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fon
@@ -2384,10 +2415,10 @@ per/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></u
 sr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfsx1095.pfb>
-Output written on slides.pdf (46 pages, 775529 bytes).
+Output written on slides.pdf (49 pages, 806909 bytes).
 PDF statistics:
- 2372 PDF objects out of 2487 (max. 8388607)
- 2190 compressed objects within 22 object streams
- 109 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3032 PDF objects out of 3580 (max. 8388607)
+ 2831 compressed objects within 29 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 325 words of extra memory for PDF output out of 10000 (max. 10000000)
 

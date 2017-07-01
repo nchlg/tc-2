@@ -1,4 +1,6 @@
 \section{Referencial Teórico}\label{sec:referencial-teorico}
+
+\subsection{Ontologia}
 \begin{frame}{Ontologia}
 	\begin{itemize}
 		\setlength{\itemsep}{1em}
@@ -19,6 +21,7 @@
 	\end{itemize}
 \end{frame}
 
+\subsection{Acessibilidade}
 \begin{frame}[allowframebreaks]{Acessibilidade, Ergonomia e Usabilidade}
 	\begin{itemize}
 		\setlength{\itemsep}{1em}
@@ -31,34 +34,39 @@
 			\item<1-> Robusto
 		\end{itemize}
 		\item<1-> Não tentar replicar a experiência do computador de mesa
-		\item<1-> Priorizar o conteúdo
 		\framebreak
+		\item<1-> Priorizar o conteúdo
 		\item<1-> Projetar para as diferentes orientações da tela
 		\item<1-> Minimizar a carga de trabalho
 		\item<1-> Minimizar a entrada de dados
-		\item<1-> Adicionar textos descritivos aos controles como imagens, botões e campos de seleção
-		\item<1-> Certificar-se que todos os campos de inserção ou toque possam ser acessados
-		\framebreak
-		\item<1-> Retornos multimodais
-		\item<1-> Usar os controles já providos pelo sistema
-		\item<1-> Evitar que controles desapareçam após um certo tempo
-		\item<1-> Usar a ferramenta de \emph{dicas} em campos de texto editáveis
-		\item<1-> Testar a aplicação com o TalkBack
 	\end{itemize}
 \end{frame}
 
+\begin{frame}[allowframebreaks]{Acessibilidade em Aplicações Android}
+		\begin{itemize}
+			\item<1-> Adicionar textos descritivos aos controles como imagens, botões e campos de seleção
+			\item<1-> Retornos multimodais
+			\item<1-> Usar os controles já providos pelo sistema
+			\item<1-> Evitar que controles desapareçam após um certo tempo
+			\item<1-> Usar a ferramenta de \emph{dicas} em campos de texto editáveis
+			\item<1-> Testar a aplicação com o TalkBack 
+		\end{itemize}
+\end{frame}
+
+\subsection{Trabalhos Relacionados}
 \begin{frame}{Trabalhos Relacionados}
+		\vspace{-2em}
 		\begin{table}
 			\centering
-			\linewidth=0.5em
-			\begin{tabu}{|L{4em}|L{5em}|L{16em}|}
-			\hline
-			Aplicação & Tipo & Características \\ \hline
-			Zomato & Aplicação móvel & Não oferece suporte completo a ferramentas \emph{text-to-speech} \\ \hline
+			\tabulinesep=0.3em
+			\resizebox{\textwidth}{!}{\begin{tabu}{L{6em} L{5em} L{20em}}
+			
+			\textbf{Aplicação} & \textbf{Tipo} & \textbf{Características} \\ \hline
+			Zomato & Móvel & Não oferece suporte completo a ferramentas \emph{text-to-speech} \\ \hline
+			Tappy Menu & Móvel & Informações dispostas em diferentes categorias \\ \hline
+			Good Food Talks & Web/Móvel & Reino Unido; não possui controle de quantidade \\ \hline
 			Kapten PLUS & Dispositivo de locomoção & Utilização pode ser cansativa \\ \hline
-			Assistente para Navegação & Dispositivo de locomoção & Combina metodologias de IA, interpretação de imagens, linguagem natural e interpretação de conhecimento e conversação \\ \hline
-			Good Food Talks & Aplicação web & \\ \hline
-			Tappy Menu & Aplicação móvel & Informações dispostas em diferentes categorias \\ \hline
-			\end{tabu}
+			Assistente para Navegação & Dispositivo de locomoção & Combina metodologias de IA, interpretação de imagens, linguagem natural e interpretação de conhecimento e conversação \\ 
+			\end{tabu}}
 		\end{table}
 \end{frame}

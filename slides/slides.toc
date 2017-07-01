@@ -3,9 +3,12 @@
 \beamer@sectionintoc {1}{Motiva\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
 \beamer@sectionintoc {2}{Objetivos}{5}{0}{2}
 \beamer@sectionintoc {3}{Referencial Te\IeC {\'o}rico}{9}{0}{3}
-\beamer@sectionintoc {4}{Modelagem}{16}{0}{4}
-\beamer@sectionintoc {5}{Desenvolvimento}{20}{0}{5}
-\beamer@subsectionintoc {5}{1}{Ontologia}{22}{0}{5}
-\beamer@sectionintoc {6}{Avalia\IeC {\c c}\IeC {\~a}o}{35}{0}{6}
-\beamer@subsectionintoc {6}{1}{Resultados}{37}{0}{6}
-\beamer@sectionintoc {7}{Conclus\IeC {\~o}es}{43}{0}{7}
+\beamer@subsectionintoc {3}{1}{Ontologia}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Acessibilidade}{13}{0}{3}
+\beamer@subsectionintoc {3}{3}{Trabalhos Relacionados}{17}{0}{3}
+\beamer@sectionintoc {4}{Modelagem}{19}{0}{4}
+\beamer@sectionintoc {5}{Desenvolvimento}{23}{0}{5}
+\beamer@subsectionintoc {5}{1}{Ontologia}{25}{0}{5}
+\beamer@sectionintoc {6}{Avalia\IeC {\c c}\IeC {\~a}o}{38}{0}{6}
+\beamer@subsectionintoc {6}{1}{Resultados}{40}{0}{6}
+\beamer@sectionintoc {7}{Conclus\IeC {\~o}es}{46}{0}{7}

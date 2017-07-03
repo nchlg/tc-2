@@ -1,5 +1,5 @@
 \beamer@endinputifotherversion {3.36pt}
-\select@language {english}
+\select@language {portuguese}
 \beamer@sectionintoc {1}{Motiva\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
 \beamer@sectionintoc {2}{Objetivos}{5}{0}{2}
 \beamer@sectionintoc {3}{Referencial Te\IeC {\'o}rico}{9}{0}{3}

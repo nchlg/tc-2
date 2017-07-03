@@ -1,10 +1,11 @@
 \documentclass[11pt,xcolor=dvipsnames,table]{beamer}
-\usetheme{Szeged}
+\PassOptionsToPackage{subsection=false}{beamerouterthememiniframes}
+\usetheme{Ilmenau}
 \usecolortheme{beaver}
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[english]{babel}
+\usepackage[portuguese]{babel}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -14,7 +15,7 @@
 \usetikzlibrary{calc,arrows,automata,shadows.blur,shapes,positioning,intersections}
 \usepackage{hyperref}
 \usepackage[absolute,overlay]{textpos}
-%\usepackage[backend=biber, style=alphabetic, maxalphanames=1, sortlocale=en_US, natbib=true, url=false, doi=true, eprint=false, maxcitenames=1]{biblatex}
+%\usepackage[backAend=biber, style=alphabetic, maxalphanames=1, sortlocale=en_US, natbib=true, url=false, doi=true, eprint=false, maxcitenames=1]{biblatex}
 %\renewcommand*{\labelalphaothers}{}
 \usepackage[algo2e]{algorithm2e}
 \usepackage{caption}
@@ -30,17 +31,36 @@
 %\addbibresource{References.bib}
 %\bibliography{References}
 %\renewcommand*{\bibfont}{\tiny} % resizes bibliography font size
+\definecolor{bege}{RGB}{232,174,104}
+\definecolor{laranja-telha}{RGB}{225,96,54}
+\definecolor{rosa-coral}{RGB}{226,109,92}
+\definecolor{marrom-palido}{RGB}{142,110,83}
+\definecolor{dark-grey}{RGB}{50,50,50}
+\definecolor{rosa-escuro}{RGB}{183,49,58}
+\definecolor{rosa-escuro-laranja}{RGB}{196,60,53}
 
-\setbeamercolor{title}{fg=Brown,bg=Brown!20}
-\setbeamercolor{frametitle}{fg=Brown,bg=Brown!20}
-\setbeamercolor{section in head/foot}{bg=Brown}
-\setbeamercolor{author in head/foot}{bg=Brown}
-\setbeamercolor{date in head/foot}{fg=Brown}
-\setbeamercolor*{item}{fg=Brown}
+\setbeamercolor{title}{fg=dark-grey,bg=bege!30}
+\setbeamercolor{frametitle}{fg=dark-grey,bg=bege!30}
+\setbeamercolor{section in head/foot}{fg=white,bg=rosa-escuro-laranja!80}
 
+\setbeamercolor{author in head/foot}{fg=dark-grey,bg=bege!30}
+%\setbeamercolor{date in head/foot}{fg=green}
+\setbeamercolor*{item}{fg=rosa-escuro-laranja}
+
+% Formato do itemize
+\setbeamertemplate{itemize items}[default]
+
+% Formato do enumerate
+\setbeamertemplate{enumerate items}[default]
+
+% Formato dos elementos do índice
+\setbeamertemplate{section in toc}
+{\color{rosa-coral}\inserttocsectionnumber.\color{black}~\inserttocsection}
+\setbeamertemplate{subsection in toc}{\hspace{1.0em}\color{rosa-coral}\small\inserttocsectionnumber.\inserttocsubsectionnumber.\color{black}~\inserttocsubsection\\}
 
 %\deftranslation[to=portuguese]{Theorem}{Teorema}
 %\deftranslation[to=portuguese]{Proof}{Prova}
+\deftranslation[to=portuguese]{Index}{Índice}
 
 \defbeamertemplate*{footline}{shadow theme}
 {%
@@ -53,20 +73,20 @@
 		\end{beamercolorbox}}%
 		\vskip0pt%
 	}
-
-\AtBeginSection[]
-{
-	\begin{frame}{Index}
-		\tableofcontents[currentsection, currentsubsection]
-	\end{frame}
-}
-
-\AtBeginSubsection[]
-{
-	\begin{frame}{Index}
-		\tableofcontents[currentsection, currentsubsection]
-	\end{frame}
-}
+	
+	\AtBeginSection[]
+	{
+		\begin{frame}{Índice}
+			\tableofcontents[currentsection, currentsubsection]
+		\end{frame}
+	}
+	
+	\AtBeginSubsection[]
+	{
+		\begin{frame}{Índice}
+			\tableofcontents[currentsection, currentsubsection]
+		\end{frame}
+	}
 
 \author[Priscila Giovanella Vivian]{\textbf{Priscila Giovanella Vivian} \\ \vspace{10pt} {\scriptsize \textbf{Orientador: Prof. Dr. Rafael H. Bordini}}}
 \title[Sistema de Cardápios Virtuais]{Sistema de Cardápios Virtuais Acessível a Pessoas com Deficiência Visual}

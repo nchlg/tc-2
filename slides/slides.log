@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  1 JUL 2017 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.4)  2 JUL 2017 22:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -721,13 +721,25 @@ Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
 fault.sty
 Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeSzeged.
-sty
-Package: beamerthemeSzeged 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeIlmenau
+.sty
+Package: beamerthemeIlmenau 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthememi
 niframes.sty
 Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemewh
+ale.sty
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemeor
+chid.sty
+Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemero
+unded.sty
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemebe
 aver.sty
@@ -1054,8 +1066,8 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/02/24 3.9q The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/02/24 3.9q Babel common definitions
@@ -1063,9 +1075,7 @@ File: babel.def 2016/02/24 3.9q Babel common definitions
 \U@D=\dimen190
 LaTeX Info: Redefining \textlatin on input line 1448.
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
+Package babel Info: Making " an active character on input line 145.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -1476,29 +1486,29 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 71.
+(hyperref)                removing `\\' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\new@ifnextchar' on input line 71.
+(hyperref)                removing `\new@ifnextchar' on input line 91.
 
 (./slides.aux)
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
-LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1564,7 +1574,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box120
-Package hyperref Info: Link coloring OFF on input line 81.
+Package hyperref Info: Link coloring OFF on input line 101.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1574,71 +1584,72 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count198
 )
-LaTeX Info: Redefining \ref on input line 81.
-LaTeX Info: Redefining \pageref on input line 81.
-LaTeX Info: Redefining \nameref on input line 81.
+LaTeX Info: Redefining \ref on input line 101.
+LaTeX Info: Redefining \pageref on input line 101.
+LaTeX Info: Redefining \nameref on input line 101.
 
 (./slides.out) (./slides.out)
 \@outlinefile=\write5
 \openout5 = `slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 81.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 101.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 81.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 101.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 81.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 81.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 101.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 81.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 81.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 81.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 101.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 81.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 81.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 81.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 101.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 81.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 81.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 81.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 101.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 81.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 81.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 101.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 81.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 101.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 81.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 81.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 81.
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 81.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 81.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 101.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 81.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 81.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 101.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 101.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 81
-.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 81
-.
-LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 81.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 8
+(Font)              `pureletters' in the math version `normal' on input line 10
 1.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 10
+1.
+LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
+(Font)              `pureletters' in the math version `bold' on input line 101.
+
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 1
+01.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 81.
+ut line 101.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1664,27 +1675,27 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 81.
+LaTeX Info: Redefining \includegraphics on input line 101.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 81.
+LaTeX Info: Redefining \selectfont on input line 101.
  (./slides.nav)
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 91.
+(Font)              size <5> substituted on input line 111.
 
 <logo-pucrs.jpg, id=110, 42.3984pt x 72.27pt>
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 91.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 111.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 
 <logo-facin.jpg, id=111, 47.2164pt x 70.8246pt>
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 91.
+Package pdftex.def Info: logo-facin.jpg used on input line 111.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [1
 
@@ -1692,11 +1703,11 @@ Package pdftex.def Info: logo-facin.jpg used on input line 91.
 facin.jpg>] (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 100.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 120.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 100.
+Package pdftex.def Info: logo-facin.jpg used on input line 120.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [2
 
@@ -1932,7 +1943,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 17.
  [20
 
 ]
-<../pdf/bd-slides.pdf, id=1235, 739.76375pt x 314.17375pt>
+<../pdf/bd-slides.pdf, id=1225, 739.76375pt x 314.17375pt>
 File: ../pdf/bd-slides.pdf Graphic file (type pdf)
 
 <use ../pdf/bd-slides.pdf>
@@ -1949,35 +1960,31 @@ Package pdftex.def Info: logo-facin.jpg used on input line 22.
  [21
 
  <../pdf/bd-slides.pdf>]
-<../pdf/fluxograma-atual.pdf, id=1288, 658.46pt x 528.97626pt>
+<../pdf/fluxograma-atual.pdf, id=1279, 658.46pt x 528.97626pt>
 File: ../pdf/fluxograma-atual.pdf Graphic file (type pdf)
 
 <use ../pdf/fluxograma-atual.pdf>
 Package pdftex.def Info: ../pdf/fluxograma-atual.pdf used on input line 27.
 (pdftex.def)             Requested size: 245.83282pt x 197.48581pt.
-
-Overfull \vbox (4.33168pt too high) detected at line 27
- []
-
 File: logo-pucrs.jpg Graphic file (type jpg)
-<use logo-pucrs.jpg>
+ <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 27.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 27.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
- [22
 
- <../pdf/fluxograma-atual.pdf>])
-(./desenvolvimento.tex (./slides.toc)
+[22
+
+ <../pdf/fluxograma-atual.pdf>]) (./desenvolvimento.tex (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
- <use logo-pucrs.jpg>
+
+<use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 1.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
-
-<use logo-facin.jpg>
+ <use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 1.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [23
@@ -1988,27 +1995,27 @@ File: logo-pucrs.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo-pucrs.jpg used on input line 12.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
+
+<use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 12.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [24
 
-]
-(./slides.toc)
+] (./slides.toc)
 File: logo-pucrs.jpg Graphic file (type jpg)
  <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 14.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
- <use logo-facin.jpg>
+
+<use logo-facin.jpg>
 Package pdftex.def Info: logo-facin.jpg used on input line 14.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [25
 
 ]
 File: logo-pucrs.jpg Graphic file (type jpg)
-
-<use logo-pucrs.jpg>
+ <use logo-pucrs.jpg>
 Package pdftex.def Info: logo-pucrs.jpg used on input line 45.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
@@ -2018,7 +2025,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 45.
  [26
 
 ]
-<../pdf/tikz/toptop-1.pdf, id=1571, 463.7325pt x 328.22626pt>
+<../pdf/tikz/toptop-1.pdf, id=1560, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/toptop-1.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/toptop-1.pdf>
@@ -2036,7 +2043,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [27
 
  <../pdf/tikz/toptop-1.pdf>]
-<../pdf/tikz/topdown-1.pdf, id=1634, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-1.pdf, id=1622, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-1.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-1.pdf>
@@ -2054,7 +2061,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [28
 
  <../pdf/tikz/topdown-1.pdf>]
-<../pdf/tikz/topdown-2.pdf, id=1698, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-2.pdf, id=1685, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-2.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-2.pdf>
@@ -2072,7 +2079,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [29
 
  <../pdf/tikz/topdown-2.pdf>]
-<../pdf/tikz/topdown-3.pdf, id=1762, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-3.pdf, id=1747, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-3.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-3.pdf>
@@ -2090,7 +2097,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [30
 
  <../pdf/tikz/topdown-3.pdf>]
-<../pdf/tikz/topdown-4.pdf, id=1825, 463.7325pt x 328.22626pt>
+<../pdf/tikz/topdown-4.pdf, id=1810, 463.7325pt x 328.22626pt>
 File: ../pdf/tikz/topdown-4.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-4.pdf>
@@ -2108,7 +2115,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [31
 
  <../pdf/tikz/topdown-4.pdf>]
-<../pdf/tikz/topdown-5.pdf, id=1890, 392.46625pt x 328.22626pt>
+<../pdf/tikz/topdown-5.pdf, id=1874, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/topdown-5.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/topdown-5.pdf>
@@ -2126,7 +2133,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [32
 
  <../pdf/tikz/topdown-5.pdf>]
-<../pdf/tikz/bottomup-1.pdf, id=1953, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-1.pdf, id=1936, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-1.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-1.pdf>
@@ -2144,7 +2151,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [33
 
  <../pdf/tikz/bottomup-1.pdf>]
-<../pdf/tikz/bottomup-2.pdf, id=2021, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-2.pdf, id=2003, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-2.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-2.pdf>
@@ -2162,7 +2169,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [34
 
  <../pdf/tikz/bottomup-2.pdf>]
-<../pdf/tikz/bottomup-3.pdf, id=2085, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-3.pdf, id=2065, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-3.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-3.pdf>
@@ -2180,7 +2187,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [35
 
  <../pdf/tikz/bottomup-3.pdf>]
-<../pdf/tikz/bottomup-4.pdf, id=2152, 392.46625pt x 328.22626pt>
+<../pdf/tikz/bottomup-4.pdf, id=2132, 392.46625pt x 328.22626pt>
 File: ../pdf/tikz/bottomup-4.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-4.pdf>
@@ -2198,7 +2205,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 61.
 [36
 
  <../pdf/tikz/bottomup-4.pdf>]
-<../pdf/tikz/bottomup-5.pdf, id=2215, 392.46625pt x 368.37625pt>
+<../pdf/tikz/bottomup-5.pdf, id=2193, 392.46625pt x 368.37625pt>
 File: ../pdf/tikz/bottomup-5.pdf Graphic file (type pdf)
 
 <use ../pdf/tikz/bottomup-5.pdf>
@@ -2263,7 +2270,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 29.
  [41
 
 ]
-<../charts/tempo-sem-dv.pdf, id=2509, 722.7pt x 433.62pt>
+<../charts/tempo-sem-dv.pdf, id=2484, 722.7pt x 433.62pt>
 File: ../charts/tempo-sem-dv.pdf Graphic file (type pdf)
 
 <use ../charts/tempo-sem-dv.pdf>
@@ -2281,7 +2288,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 34.
 [42
 
  <../charts/tempo-sem-dv.pdf>]
-<../charts/tempo.pdf, id=2569, 722.7pt x 433.62pt>
+<../charts/tempo.pdf, id=2544, 722.7pt x 433.62pt>
 File: ../charts/tempo.pdf Graphic file (type pdf)
  <use ../charts/tempo.pdf>
 Package pdftex.def Info: ../charts/tempo.pdf used on input line 34.
@@ -2298,7 +2305,7 @@ Package pdftex.def Info: logo-facin.jpg used on input line 34.
  [43
 
  <../charts/tempo.pdf>]
-<../charts/qt9.pdf, id=2637, 722.7pt x 433.62pt>
+<../charts/qt9.pdf, id=2610, 722.7pt x 433.62pt>
 File: ../charts/qt9.pdf Graphic file (type pdf)
  <use ../charts/qt9.pdf>
 Package pdftex.def Info: ../charts/qt9.pdf used on input line 38.
@@ -2364,11 +2371,11 @@ Package pdftex.def Info: logo-facin.jpg used on input line 21.
 File: logo-pucrs.jpg Graphic file (type jpg)
 
 <use logo-pucrs.jpg>
-Package pdftex.def Info: logo-pucrs.jpg used on input line 147.
+Package pdftex.def Info: logo-pucrs.jpg used on input line 167.
 (pdftex.def)             Requested size: 14.83965pt x 25.29486pt.
 File: logo-facin.jpg Graphic file (type jpg)
  <use logo-facin.jpg>
-Package pdftex.def Info: logo-facin.jpg used on input line 147.
+Package pdftex.def Info: logo-facin.jpg used on input line 167.
 (pdftex.def)             Requested size: 16.52597pt x 24.78897pt.
  [49
 
@@ -2382,11 +2389,11 @@ Package pdftex.def Info: logo-facin.jpg used on input line 147.
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: 486F2DA5555CFD6A59F3BEC936D0FF34;660.
 
@@ -2394,16 +2401,16 @@ Package rerunfilecheck Info: File `slides.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 27359 strings out of 493029
- 549826 string characters out of 6136235
- 679757 words of memory out of 5000000
- 30087 multiletter control sequences out of 15000+600000
+ 27453 strings out of 493029
+ 552379 string characters out of 6136235
+ 682176 words of memory out of 5000000
+ 30171 multiletter control sequences out of 15000+600000
  19647 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,93p,403b,765s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,19n,93p,453b,760s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fon
@@ -2415,10 +2422,10 @@ per/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></u
 sr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfsx1095.pfb>
-Output written on slides.pdf (49 pages, 806909 bytes).
+Output written on slides.pdf (49 pages, 808824 bytes).
 PDF statistics:
- 3032 PDF objects out of 3580 (max. 8388607)
- 2831 compressed objects within 29 object streams
+ 3004 PDF objects out of 3580 (max. 8388607)
+ 2803 compressed objects within 29 object streams
  118 named destinations out of 1000 (max. 500000)
  325 words of extra memory for PDF output out of 10000 (max. 10000000)
 
